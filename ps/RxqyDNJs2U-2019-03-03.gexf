@@ -1547,29 +1547,6 @@
         <viz:position x="-129.84921" y="-872.6653"></viz:position>
         <viz:color r="255" g="180" b="36"></viz:color>
       </node>
-      <node id="64940063704">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="MARIA AUXILIADORA SANTOS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="1"></attvalue>
-          <attvalue for="strongcompnum" value="614"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-4361.4683" y="4113.8184"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
       <node id="83189165734">
         <attvalues>
           <attvalue for="tipo" value="99"></attvalue>
@@ -2011,29 +1988,6 @@
         <viz:position x="-1297.9028" y="75.92979"></viz:position>
         <viz:color r="255" g="180" b="36"></viz:color>
       </node>
-      <node id="61097764753">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="DIRCE FERREIRA DUARTE"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="2"></attvalue>
-          <attvalue for="strongcompnum" value="615"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="1958.0941" y="-5064.4385"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
       <node id="68433913700">
         <attvalues>
           <attvalue for="tipo" value="99"></attvalue>
@@ -2217,29 +2171,6 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-126.68131" y="-926.7794"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="31229999787">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="MAURO NEPOMUCENO"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="3"></attvalue>
-          <attvalue for="strongcompnum" value="616"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-2067.19" y="5224.5884"></viz:position>
         <viz:color r="255" g="180" b="36"></viz:color>
       </node>
       <node id="34735291768">
@@ -2562,52 +2493,6 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-784.96735" y="-67.18917"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="18702627787">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="VALDIR EDUARDO DOS SANTOS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="1.0"></attvalue>
-          <attvalue for="closnesscentrality" value="1.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="4"></attvalue>
-          <attvalue for="strongcompnum" value="618"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="2194.951" y="-4668.1343"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="62605887715">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="JOSE DOS SANTOS FILHO (ÓBITO)"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="5"></attvalue>
-          <attvalue for="strongcompnum" value="619"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-4498.1504" y="3356.7966"></viz:position>
         <viz:color r="255" g="180" b="36"></viz:color>
       </node>
       <node id="50441973787">
@@ -4750,217 +4635,6 @@
         <viz:position x="-1316.9001" y="137.08656"></viz:position>
         <viz:color r="255" g="180" b="36"></viz:color>
       </node>
-      <node id="07092011760">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="CILEDA DE SOUZA MAGALHÃES"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="6"></attvalue>
-          <attvalue for="strongcompnum" value="620"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-3140.7659" y="-5053.168"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="00037717766">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="REGINA ADRIANO RODRIGUES"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="7"></attvalue>
-          <attvalue for="strongcompnum" value="621"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-65.952354" y="-5719.6294"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="06850904779">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="VIRLANY ALVES SANTIAGO"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="True"></attvalue>
-          <attvalue for="vlr_renda_media_fam" value="50.0"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="8"></attvalue>
-          <attvalue for="strongcompnum" value="622"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="4077.0264" y="-4132.1187"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="10765062755">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="IVONE JOÃO PEDRO"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="9"></attvalue>
-          <attvalue for="strongcompnum" value="623"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-5753.379" y="1267.9807"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="10677697732">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="ROSILANE DE OLIVEIRA REIS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="True"></attvalue>
-          <attvalue for="vlr_renda_media_fam" value="0.33"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="10"></attvalue>
-          <attvalue for="strongcompnum" value="624"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-4943.793" y="-3347.6714"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="98631152749">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="DILMA LINS DA SILVA FONTI LOPES"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="11"></attvalue>
-          <attvalue for="strongcompnum" value="625"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="5151.119" y="-2446.5984"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="10619412720">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="APARECIDA MYCHELLE PEREIRA DE FRANÇA"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="1.0"></attvalue>
-          <attvalue for="closnesscentrality" value="1.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="1.0"></attvalue>
-          <attvalue for="componentnumber" value="12"></attvalue>
-          <attvalue for="strongcompnum" value="627"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="4244.371" y="3879.698"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="08680460788">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="CHRISTIANE NOGUEIRA DOS SANTOS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="True"></attvalue>
-          <attvalue for="vlr_renda_media_fam" value="326.0"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="13"></attvalue>
-          <attvalue for="strongcompnum" value="628"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="3493.9695" y="-4193.347"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="01870759729">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="CHRISTIANE LUCENA DE ALMEIDA"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="True"></attvalue>
-          <attvalue for="vlr_renda_media_fam" value="76.0"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="14"></attvalue>
-          <attvalue for="strongcompnum" value="629"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-1231.7673" y="-4425.636"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
       <node id="13621995757">
         <attvalues>
           <attvalue for="tipo" value="99"></attvalue>
@@ -6327,52 +6001,6 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-234.41562" y="-882.3147"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="14865320717">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="LUCAS SANTOS NEPOMUCENO"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="15"></attvalue>
-          <attvalue for="strongcompnum" value="630"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-5244.648" y="2413.47"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="14865321799">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="DEBORA GAMA DOS SANTOS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="16"></attvalue>
-          <attvalue for="strongcompnum" value="631"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="5108.267" y="1960.1759"></viz:position>
         <viz:color r="255" g="180" b="36"></viz:color>
       </node>
       <node id="13339823723">
@@ -8264,309 +7892,6 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-1432.0952" y="74.79811"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="14532878764">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="JOEL JOAQUIM MENDES DOS SANTOS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="1.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="2.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.5454545454545454"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.5833333333333334"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="17"></attvalue>
-          <attvalue for="strongcompnum" value="638"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-2678.416" y="4240.2944"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="18947615706">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="CLAUDIO HENRIQUE MENDES DOS SANTOS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="18"></attvalue>
-          <attvalue for="strongcompnum" value="639"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-1131.7203" y="-5747.3247"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="17901792701">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="MARCOS EDUARDO HENRIQUE MENDES DOS SANTOS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="True"></attvalue>
-          <attvalue for="vlr_renda_media_fam" value="100.0"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="19"></attvalue>
-          <attvalue for="strongcompnum" value="640"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="5707.462" y="-99.125885"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="12701164796">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="VIVIANA MENDES DOS SANTOS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="True"></attvalue>
-          <attvalue for="vlr_renda_media_fam" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="20"></attvalue>
-          <attvalue for="strongcompnum" value="641"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="4976.88" y="3241.027"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="11023086760">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="LAYLA RENATA RODRIGUES LEITE"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="1.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="1.0"></attvalue>
-          <attvalue for="closnesscentrality" value="1.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="21"></attvalue>
-          <attvalue for="strongcompnum" value="643"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="1528.1272" y="-5389.1606"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="11732834717">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="AMANDA ALVES SANTIAGO GONÇALVES"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="22"></attvalue>
-          <attvalue for="strongcompnum" value="644"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="4987.677" y="2588.03"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="13897032740">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="LETÍCIA BEATRIZ JOÃO LEITE"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="23"></attvalue>
-          <attvalue for="strongcompnum" value="645"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-5436.8203" y="-1647.2451"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="11891977741">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="WILLIAM DE OLIVEIRA REIS LEITE"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="24"></attvalue>
-          <attvalue for="strongcompnum" value="646"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="5422.002" y="1507.9019"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="11099015774">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="DÉBORA PEÇANHA DE SOUZA LEITE"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="25"></attvalue>
-          <attvalue for="strongcompnum" value="647"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-5827.036" y="-403.19327"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="12520698713">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="BRENA VICTÓRIA FRANÇA DOS SANTOS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="True"></attvalue>
-          <attvalue for="vlr_renda_media_fam" value="737.0"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="2.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="12"></attvalue>
-          <attvalue for="strongcompnum" value="648"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="4229.9287" y="3805.7214"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="17908677702">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="VITÓRIA DE FRANÇA DOS SANTOS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="26"></attvalue>
-          <attvalue for="strongcompnum" value="649"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-19.170465" y="5613.765"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="15703964776">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="NATTELHE NOGUEIRA DOS SANTOS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="True"></attvalue>
-          <attvalue for="vlr_renda_media_fam" value="326.0"></attvalue>
-          <attvalue for="numero de vinculos" value="1.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="1.0"></attvalue>
-          <attvalue for="closnesscentrality" value="1.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="27"></attvalue>
-          <attvalue for="strongcompnum" value="651"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-703.353" y="5816.7686"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="11949469760">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="CAIO CESAR DE ALMEIDA DOS SANTOS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="1.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="2.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.5625"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.6111111111111112"></attvalue>
-          <attvalue for="betweenesscentrality" value="1.0"></attvalue>
-          <attvalue for="componentnumber" value="14"></attvalue>
-          <attvalue for="strongcompnum" value="659"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-1308.3156" y="-4704.884"></viz:position>
         <viz:color r="255" g="180" b="36"></viz:color>
       </node>
       <node id="18577876764">
@@ -11180,194 +10505,6 @@
         <viz:position x="-1304.3395" y="15.504536"></viz:position>
         <viz:color r="255" g="180" b="36"></viz:color>
       </node>
-      <node id="07929912736">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="VERA LÚCIA DOS SANTOS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="28"></attvalue>
-          <attvalue for="strongcompnum" value="660"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="874.4181" y="5596.0957"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="78370477704">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="VERONICA DOS SANTOS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="29"></attvalue>
-          <attvalue for="strongcompnum" value="661"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-5835.0874" y="207.75139"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="11193143721">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="ALEX FERNANDES DOS SANTOS VALENÇA"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="30"></attvalue>
-          <attvalue for="strongcompnum" value="662"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-4584.3667" y="3660.218"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="11193139708">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="ALAN DAVID DOS SANTOS VALENÇA"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="True"></attvalue>
-          <attvalue for="vlr_renda_media_fam" value="93.33"></attvalue>
-          <attvalue for="numero de vinculos" value="1.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="2.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.75"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.8333333333333334"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="31"></attvalue>
-          <attvalue for="strongcompnum" value="666"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="4779.8574" y="2553.5103"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="88034267791">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="ELAINE GONÇALVES LEITE"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="True"></attvalue>
-          <attvalue for="vlr_renda_media_fam" value="880.0"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="32"></attvalue>
-          <attvalue for="strongcompnum" value="667"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="1002.66235" y="5784.374"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="12767851783">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="NATANAEL FONTI LOPES FILHO"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="1.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="1.0"></attvalue>
-          <attvalue for="closnesscentrality" value="1.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="33"></attvalue>
-          <attvalue for="strongcompnum" value="670"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="5346.335" y="442.63254"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="00500187797">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="EDILAINE GONÇALVES LEITE"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="True"></attvalue>
-          <attvalue for="vlr_renda_media_fam" value="50.0"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="34"></attvalue>
-          <attvalue for="strongcompnum" value="671"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="3869.7695" y="-4518.1226"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
-      <node id="14319024702">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="WESLLEY GONÇALVES DA SILVA"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="True"></attvalue>
-          <attvalue for="vlr_renda_media_fam" value="50.0"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="35"></attvalue>
-          <attvalue for="strongcompnum" value="672"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-5264.2476" y="-2873.1707"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
-      </node>
       <node id="03355394750">
         <attvalues>
           <attvalue for="tipo" value="1"></attvalue>
@@ -11391,29 +10528,6 @@
         <viz:size value="10.0"></viz:size>
         <viz:position x="-77.20073" y="246.41615"></viz:position>
         <viz:color r="255" g="47" b="10"></viz:color>
-      </node>
-      <node id="02164783751">
-        <attvalues>
-          <attvalue for="tipo" value="99"></attvalue>
-          <attvalue for="nome da pessoa" value="DIVA DOS SANTOS SARDINHA"></attvalue>
-          <attvalue for="tipo_de_relacao" value="investigados"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="36"></attvalue>
-          <attvalue for="strongcompnum" value="673"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="4968.3354" y="-3244.4944"></viz:position>
-        <viz:color r="255" g="180" b="36"></viz:color>
       </node>
       <node id="10812146786">
         <attvalues>
@@ -11670,29 +10784,6 @@
         <viz:position x="-624.75244" y="203.56227"></viz:position>
         <viz:color r="255" g="180" b="36"></viz:color>
       </node>
-      <node id="85257923734">
-        <attvalues>
-          <attvalue for="tipo" value="10"></attvalue>
-          <attvalue for="nome da pessoa" value="JACY THULER VALENCA"></attvalue>
-          <attvalue for="tipo_de_relacao" value="familiar de investigado"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="1.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="1.0"></attvalue>
-          <attvalue for="closnesscentrality" value="1.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="1.0"></attvalue>
-          <attvalue for="componentnumber" value="31"></attvalue>
-          <attvalue for="strongcompnum" value="664"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="4699.222" y="2463.852"></viz:position>
-        <viz:color r="255" g="46" b="240"></viz:color>
-      </node>
       <node id="89164989887">
         <attvalues>
           <attvalue for="tipo" value="10"></attvalue>
@@ -11715,29 +10806,6 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-344.01306" y="677.93384"></viz:position>
-        <viz:color r="255" g="46" b="240"></viz:color>
-      </node>
-      <node id="_id_11953615">
-        <attvalues>
-          <attvalue for="tipo" value="10"></attvalue>
-          <attvalue for="nome da pessoa" value="REGINA PEREIRA CORREIA"></attvalue>
-          <attvalue for="tipo_de_relacao" value="familiar de investigado"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="12"></attvalue>
-          <attvalue for="strongcompnum" value="626"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="4144.4917" y="3806.3367"></viz:position>
         <viz:color r="255" g="46" b="240"></viz:color>
       </node>
       <node id="_id_108644274">
@@ -12547,29 +11615,6 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="452.66248" y="593.7558"></viz:position>
-        <viz:color r="255" g="46" b="240"></viz:color>
-      </node>
-      <node id="_id_79610545">
-        <attvalues>
-          <attvalue for="tipo" value="10"></attvalue>
-          <attvalue for="nome da pessoa" value="CACILDA PEREIRA DOS SANTOS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="familiar de investigado"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="4"></attvalue>
-          <attvalue for="strongcompnum" value="617"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="2254.4602" y="-4787.2915"></viz:position>
         <viz:color r="255" g="46" b="240"></viz:color>
       </node>
       <node id="_id_92528339">
@@ -13588,30 +12633,6 @@
         <viz:position x="1291.439" y="-1701.165"></viz:position>
         <viz:color r="22" g="199" b="0"></viz:color>
       </node>
-      <node id="07120497707">
-        <attvalues>
-          <attvalue for="tipo" value="3"></attvalue>
-          <attvalue for="nome da pessoa" value="ISSAC PAULO DA COSTA"></attvalue>
-          <attvalue for="tipo_de_relacao" value="funcionarios"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="True"></attvalue>
-          <attvalue for="vlr_renda_media_fam" value="175.0"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="1.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="17"></attvalue>
-          <attvalue for="strongcompnum" value="637"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-2866.763" y="4484.304"></viz:position>
-        <viz:color r="22" g="199" b="0"></viz:color>
-      </node>
       <node id="03546883756">
         <attvalues>
           <attvalue for="tipo" value="3"></attvalue>
@@ -13633,77 +12654,6 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-1430.194" y="-1585.2014"></viz:position>
-        <viz:color r="22" g="199" b="0"></viz:color>
-      </node>
-      <node id="13188628765">
-        <attvalues>
-          <attvalue for="tipo" value="3"></attvalue>
-          <attvalue for="nome da pessoa" value="CINTIA CRISTINA DA SILVA"></attvalue>
-          <attvalue for="tipo_de_relacao" value="funcionarios"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="True"></attvalue>
-          <attvalue for="vlr_renda_media_fam" value="33.0"></attvalue>
-          <attvalue for="numero de vinculos" value="1.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="14"></attvalue>
-          <attvalue for="strongcompnum" value="658"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-1346.1399" y="-4751.768"></viz:position>
-        <viz:color r="22" g="199" b="0"></viz:color>
-      </node>
-      <node id="13765391794">
-        <attvalues>
-          <attvalue for="tipo" value="3"></attvalue>
-          <attvalue for="nome da pessoa" value="BRUNO CESAR COSTA APARICIO"></attvalue>
-          <attvalue for="tipo_de_relacao" value="funcionarios"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="True"></attvalue>
-          <attvalue for="vlr_renda_media_fam" value="137.0"></attvalue>
-          <attvalue for="numero de vinculos" value="1.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="17"></attvalue>
-          <attvalue for="strongcompnum" value="636"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-2848.6519" y="4362.3926"></viz:position>
-        <viz:color r="22" g="199" b="0"></viz:color>
-      </node>
-      <node id="01013034759">
-        <attvalues>
-          <attvalue for="tipo" value="3"></attvalue>
-          <attvalue for="nome da pessoa" value="GILSON MARIA DA SILVA"></attvalue>
-          <attvalue for="tipo_de_relacao" value="funcionarios"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="17"></attvalue>
-          <attvalue for="strongcompnum" value="635"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-2745.623" y="4441.2773"></viz:position>
         <viz:color r="22" g="199" b="0"></viz:color>
       </node>
       <node id="02207143716">
@@ -13774,29 +12724,6 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-1399.4221" y="-1622.3838"></viz:position>
-        <viz:color r="22" g="199" b="0"></viz:color>
-      </node>
-      <node id="07524283814">
-        <attvalues>
-          <attvalue for="tipo" value="3"></attvalue>
-          <attvalue for="nome da pessoa" value="JOSE ANTONIO TOMACHESKI"></attvalue>
-          <attvalue for="tipo_de_relacao" value="funcionarios"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="17"></attvalue>
-          <attvalue for="strongcompnum" value="634"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-2690.1538" y="4421.6294"></viz:position>
         <viz:color r="22" g="199" b="0"></viz:color>
       </node>
       <node id="88227642349">
@@ -13939,30 +12866,6 @@
         <viz:position x="-1072.8575" y="-1634.7041"></viz:position>
         <viz:color r="22" g="199" b="0"></viz:color>
       </node>
-      <node id="05885804737">
-        <attvalues>
-          <attvalue for="tipo" value="3"></attvalue>
-          <attvalue for="nome da pessoa" value="GABRIELA MOREIRA DOS SANTOS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="funcionarios"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="True"></attvalue>
-          <attvalue for="vlr_renda_media_fam" value="134.0"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="14"></attvalue>
-          <attvalue for="strongcompnum" value="657"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-1445.4144" y="-5086.635"></viz:position>
-        <viz:color r="22" g="199" b="0"></viz:color>
-      </node>
       <node id="13952855782">
         <attvalues>
           <attvalue for="tipo" value="3"></attvalue>
@@ -13985,29 +12888,6 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="1370.0349" y="-1692.9277"></viz:position>
-        <viz:color r="22" g="199" b="0"></viz:color>
-      </node>
-      <node id="09636460795">
-        <attvalues>
-          <attvalue for="tipo" value="3"></attvalue>
-          <attvalue for="nome da pessoa" value="ROGERIA MOURA DOS SANTOS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="funcionarios"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="14"></attvalue>
-          <attvalue for="strongcompnum" value="656"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-1410.665" y="-5060.437"></viz:position>
         <viz:color r="22" g="199" b="0"></viz:color>
       </node>
       <node id="00004552709">
@@ -14033,53 +12913,6 @@
         <viz:position x="-1515.4197" y="-1567.4286"></viz:position>
         <viz:color r="22" g="199" b="0"></viz:color>
       </node>
-      <node id="02091474746">
-        <attvalues>
-          <attvalue for="tipo" value="3"></attvalue>
-          <attvalue for="nome da pessoa" value="MARIA AUXILIADORA DE SOUSA LEITE"></attvalue>
-          <attvalue for="tipo_de_relacao" value="funcionarios"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="True"></attvalue>
-          <attvalue for="vlr_renda_media_fam" value="650.0"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="14"></attvalue>
-          <attvalue for="strongcompnum" value="655"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-1346.3057" y="-5081.534"></viz:position>
-        <viz:color r="22" g="199" b="0"></viz:color>
-      </node>
-      <node id="02648408797">
-        <attvalues>
-          <attvalue for="tipo" value="3"></attvalue>
-          <attvalue for="nome da pessoa" value="ADRIANA DA CONCEICAO MOREIRA"></attvalue>
-          <attvalue for="tipo_de_relacao" value="funcionarios"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="14"></attvalue>
-          <attvalue for="strongcompnum" value="654"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-1388.2622" y="-5099.575"></viz:position>
-        <viz:color r="22" g="199" b="0"></viz:color>
-      </node>
       <node id="03793662748">
         <attvalues>
           <attvalue for="tipo" value="3"></attvalue>
@@ -14101,53 +12934,6 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="-1106.3152" y="-1648.9991"></viz:position>
-        <viz:color r="22" g="199" b="0"></viz:color>
-      </node>
-      <node id="16678846702">
-        <attvalues>
-          <attvalue for="tipo" value="3"></attvalue>
-          <attvalue for="nome da pessoa" value="INGRYDY AMPARO DOS SANTOS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="funcionarios"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="False"></attvalue>
-          <attvalue for="numero de vinculos" value="1.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="14"></attvalue>
-          <attvalue for="strongcompnum" value="653"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-1473.6201" y="-5045.076"></viz:position>
-        <viz:color r="22" g="199" b="0"></viz:color>
-      </node>
-      <node id="13581173735">
-        <attvalues>
-          <attvalue for="tipo" value="3"></attvalue>
-          <attvalue for="nome da pessoa" value="LUCIANA DA CONCEICAO DOS SANTOS"></attvalue>
-          <attvalue for="tipo_de_relacao" value="funcionarios"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="True"></attvalue>
-          <attvalue for="vlr_renda_media_fam" value="425.0"></attvalue>
-          <attvalue for="numero de vinculos" value="1.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="14"></attvalue>
-          <attvalue for="strongcompnum" value="652"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-1308.0427" y="-4806.015"></viz:position>
         <viz:color r="22" g="199" b="0"></viz:color>
       </node>
       <node id="16864585760">
@@ -14172,30 +12958,6 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="1395.1879" y="-1657.0447"></viz:position>
-        <viz:color r="22" g="199" b="0"></viz:color>
-      </node>
-      <node id="07487093719">
-        <attvalues>
-          <attvalue for="tipo" value="3"></attvalue>
-          <attvalue for="nome da pessoa" value="SERGIO NEVES"></attvalue>
-          <attvalue for="tipo_de_relacao" value="funcionarios"></attvalue>
-          <attvalue for="isin_bf" value="False"></attvalue>
-          <attvalue for="isin_cadu" value="True"></attvalue>
-          <attvalue for="vlr_renda_media_fam" value="166.0"></attvalue>
-          <attvalue for="numero de vinculos" value="0.0"></attvalue>
-          <attvalue for="numero de vinculos publicos" value="0.0"></attvalue>
-          <attvalue for="numero de empresas em que e socio" value="1.0"></attvalue>
-          <attvalue for="numero de vezes em que foi eleito" value="0.0"></attvalue>
-          <attvalue for="numero de vezes em que foi candidato" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="17"></attvalue>
-          <attvalue for="strongcompnum" value="633"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-2844.1445" y="4535.3955"></viz:position>
         <viz:color r="22" g="199" b="0"></viz:color>
       </node>
       <node id="10638414709">
@@ -14622,23 +13384,6 @@
         <viz:position x="1966.6852" y="191.29758"></viz:position>
         <viz:color r="35" g="0" b="250"></viz:color>
       </node>
-      <node id="50784057000369">
-        <attvalues>
-          <attvalue for="tipo" value="6"></attvalue>
-          <attvalue for="tipo_de_relacao" value="empresa onde e empregado o investigado ou um dos seus socios"></attvalue>
-          <attvalue for="numero de funcionarios" value="10878.0"></attvalue>
-          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="21"></attvalue>
-          <attvalue for="strongcompnum" value="642"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="1562.2803" y="-5519.381"></viz:position>
-        <viz:color r="5" g="0" b="240"></viz:color>
-      </node>
       <node id="05558837000174">
         <attvalues>
           <attvalue for="tipo" value="6"></attvalue>
@@ -14712,62 +13457,6 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="1276.0839" y="-749.9848"></viz:position>
-        <viz:color r="5" g="0" b="240"></viz:color>
-      </node>
-      <node id="00074569003540">
-        <attvalues>
-          <attvalue for="tipo" value="6"></attvalue>
-          <attvalue for="tipo_de_relacao" value="empresa onde e empregado o investigado ou um dos seus socios"></attvalue>
-          <attvalue for="nome" value="RIO DE JANEIRO REFRESCOS LTDA"></attvalue>
-          <attvalue for="numero de funcionarios" value="227.0"></attvalue>
-          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
-          <attvalue for="data de constituicao" value="2006-02-08"></attvalue>
-          <attvalue for="numero de cnaes" value="1.0"></attvalue>
-          <attvalue for="end logradouro" value="R. BELISARIO PENA"></attvalue>
-          <attvalue for="end numero" value="953"></attvalue>
-          <attvalue for="end complemento" value="PARTE"></attvalue>
-          <attvalue for="end bairro" value="PENHA"></attvalue>
-          <attvalue for="end uf" value="RJ"></attvalue>
-          <attvalue for="end municipio" value="RIO DE JANEIRO"></attvalue>
-          <attvalue for="map_link" value="https://www.google.com/maps/search/,+R.+BELISARIO+PENA,+953,+PENHA"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="33"></attvalue>
-          <attvalue for="strongcompnum" value="669"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="5476.4473" y="447.95377"></viz:position>
-        <viz:color r="5" g="0" b="240"></viz:color>
-      </node>
-      <node id="18017904000195">
-        <attvalues>
-          <attvalue for="tipo" value="6"></attvalue>
-          <attvalue for="tipo_de_relacao" value="empresa onde e empregado o investigado ou um dos seus socios"></attvalue>
-          <attvalue for="nome" value="LYSMELL EMBELEZAMENTO E SERVICOS LTDA ME"></attvalue>
-          <attvalue for="numero de funcionarios" value="12.0"></attvalue>
-          <attvalue for="capital social" value="20000.0"></attvalue>
-          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
-          <attvalue for="data de constituicao" value="2013-04-29"></attvalue>
-          <attvalue for="numero de cnaes" value="2.0"></attvalue>
-          <attvalue for="end logradouro" value="AVN. BRASIL"></attvalue>
-          <attvalue for="end numero" value="10"></attvalue>
-          <attvalue for="end complemento" value="SALA 217"></attvalue>
-          <attvalue for="end bairro" value="CENTRO"></attvalue>
-          <attvalue for="end cep" value="28970000"></attvalue>
-          <attvalue for="end uf" value="RJ"></attvalue>
-          <attvalue for="end municipio" value="ARARUAMA"></attvalue>
-          <attvalue for="map_link" value="https://www.google.com/maps/search/28970000,+AVN.+BRASIL,+10,+CENTRO"></attvalue>
-          <attvalue for="eccentricity" value="2.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.9"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.9444444444444444"></attvalue>
-          <attvalue for="betweenesscentrality" value="7.0"></attvalue>
-          <attvalue for="componentnumber" value="14"></attvalue>
-          <attvalue for="strongcompnum" value="659"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-1369.7605" y="-4921.4043"></viz:position>
         <viz:color r="5" g="0" b="240"></viz:color>
       </node>
       <node id="60537263022135">
@@ -15103,34 +13792,6 @@
         <viz:position x="-1137.3502" y="-413.48767"></viz:position>
         <viz:color r="5" g="0" b="240"></viz:color>
       </node>
-      <node id="73295198000151">
-        <attvalues>
-          <attvalue for="tipo" value="6"></attvalue>
-          <attvalue for="tipo_de_relacao" value="empresa onde e empregado o investigado ou um dos seus socios"></attvalue>
-          <attvalue for="nome" value="QUALITY SECURITY VIGILANCIA E SEGURANCA LTDA"></attvalue>
-          <attvalue for="numero de funcionarios" value="209.0"></attvalue>
-          <attvalue for="capital social" value="120001.0"></attvalue>
-          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
-          <attvalue for="data de constituicao" value="1993-08-23"></attvalue>
-          <attvalue for="numero de cnaes" value="2.0"></attvalue>
-          <attvalue for="end logradouro" value="TV. MANUEL SILVA"></attvalue>
-          <attvalue for="end numero" value="51"></attvalue>
-          <attvalue for="end bairro" value="ESTRELA DO NORTE"></attvalue>
-          <attvalue for="end cep" value="24440440"></attvalue>
-          <attvalue for="end uf" value="RJ"></attvalue>
-          <attvalue for="end municipio" value="SÃO GONÇALO"></attvalue>
-          <attvalue for="map_link" value="https://www.google.com/maps/search/24440440,+TV.+MANUEL+SILVA,+51,+ESTRELA+DO+NORTE"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="31"></attvalue>
-          <attvalue for="strongcompnum" value="663"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="4768.686" y="2426.361"></viz:position>
-        <viz:color r="5" g="0" b="240"></viz:color>
-      </node>
       <node id="08596854000194">
         <attvalues>
           <attvalue for="tipo" value="6"></attvalue>
@@ -15438,52 +14099,6 @@
         <viz:position x="103.20996" y="-1874.0613"></viz:position>
         <viz:color r="5" g="0" b="240"></viz:color>
       </node>
-      <node id="32222929000151">
-        <attvalues>
-          <attvalue for="tipo" value="6"></attvalue>
-          <attvalue for="tipo_de_relacao" value="empresa onde e empregado o investigado ou um dos seus socios"></attvalue>
-          <attvalue for="nome" value="SURFAMAT DE SAQUAREMA LTDA ME"></attvalue>
-          <attvalue for="numero de funcionarios" value="6.0"></attvalue>
-          <attvalue for="capital social" value="12000.0"></attvalue>
-          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
-          <attvalue for="data de constituicao" value="1988-12-13"></attvalue>
-          <attvalue for="numero de cnaes" value="3.0"></attvalue>
-          <attvalue for="end logradouro" value="ROD. AMARAL PEIXOTO"></attvalue>
-          <attvalue for="end numero" value="S/Nº"></attvalue>
-          <attvalue for="end complemento" value="KM 72"></attvalue>
-          <attvalue for="end bairro" value="BACAXA"></attvalue>
-          <attvalue for="end cep" value="28990000"></attvalue>
-          <attvalue for="end uf" value="RJ"></attvalue>
-          <attvalue for="end municipio" value="SAQUAREMA"></attvalue>
-          <attvalue for="map_link" value="https://www.google.com/maps/search/28990000,+ROD.+AMARAL+PEIXOTO,+S/Nº,+BACAXA"></attvalue>
-          <attvalue for="eccentricity" value="1.0"></attvalue>
-          <attvalue for="closnesscentrality" value="1.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="5.0"></attvalue>
-          <attvalue for="componentnumber" value="17"></attvalue>
-          <attvalue for="strongcompnum" value="638"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-2762.8733" y="4375.446"></viz:position>
-        <viz:color r="5" g="0" b="240"></viz:color>
-      </node>
-      <node id="14974280000143">
-        <attvalues>
-          <attvalue for="tipo" value="6"></attvalue>
-          <attvalue for="tipo_de_relacao" value="empresa onde e empregado o investigado ou um dos seus socios"></attvalue>
-          <attvalue for="numero de funcionarios" value="50.0"></attvalue>
-          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="31"></attvalue>
-          <attvalue for="strongcompnum" value="665"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="4711.8257" y="2592.3525"></viz:position>
-        <viz:color r="5" g="0" b="240"></viz:color>
-      </node>
       <node id="17221396000108">
         <attvalues>
           <attvalue for="tipo" value="6"></attvalue>
@@ -15567,34 +14182,6 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="1234.8744" y="-250.04195"></viz:position>
-        <viz:color r="5" g="0" b="240"></viz:color>
-      </node>
-      <node id="03495268000130">
-        <attvalues>
-          <attvalue for="tipo" value="6"></attvalue>
-          <attvalue for="tipo_de_relacao" value="empresa onde e empregado o investigado ou um dos seus socios"></attvalue>
-          <attvalue for="nome" value="ISALCO BANGU COMERCIO DE ALIMENTOS LTDA"></attvalue>
-          <attvalue for="numero de funcionarios" value="159.0"></attvalue>
-          <attvalue for="capital social" value="200000.0"></attvalue>
-          <attvalue for="numero de socios no bf" value="0.0"></attvalue>
-          <attvalue for="data de constituicao" value="1999-11-10"></attvalue>
-          <attvalue for="numero de cnaes" value="4.0"></attvalue>
-          <attvalue for="end logradouro" value="R. CONEGO DE VASCONCELOS"></attvalue>
-          <attvalue for="end numero" value="19"></attvalue>
-          <attvalue for="end bairro" value="BANGU"></attvalue>
-          <attvalue for="end cep" value="21815010"></attvalue>
-          <attvalue for="end uf" value="RJ"></attvalue>
-          <attvalue for="end municipio" value="RIO DE JANEIRO"></attvalue>
-          <attvalue for="map_link" value="https://www.google.com/maps/search/21815010,+R.+CONEGO+DE+VASCONCELOS,+19,+BANGU"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="27"></attvalue>
-          <attvalue for="strongcompnum" value="650"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-677.78735" y="5831.9053"></viz:position>
         <viz:color r="5" g="0" b="240"></viz:color>
       </node>
       <node id="10576883000136">
@@ -16150,19 +14737,6 @@
         </attvalues>
         <viz:size value="10.0"></viz:size>
         <viz:position x="1048.7434" y="572.94507"></viz:position>
-        <viz:color r="255" g="245" b="246"></viz:color>
-      </node>
-      <node id="_id_10376764">
-        <attvalues>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-          <attvalue for="componentnumber" value="33"></attvalue>
-          <attvalue for="strongcompnum" value="668"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="5184.527" y="435.13745"></viz:position>
         <viz:color r="255" g="245" b="246"></viz:color>
       </node>
       <node id="_id_108645965">
@@ -17319,11 +15893,6 @@
           <attvalue for="tipo_de_relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="223" source="11023086760" target="50784057000369" label="funcionario de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="funcionario de"></attvalue>
-        </attvalues>
-      </edge>
       <edge id="224" source="12045661784" target="05558837000174" label="funcionario de">
         <attvalues>
           <attvalue for="tipo_de_relacao" value="funcionario de"></attvalue>
@@ -17335,16 +15904,6 @@
         </attvalues>
       </edge>
       <edge id="226" source="13339823723" target="06052228000101" label="funcionario de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="funcionario de"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="227" source="12767851783" target="00074569003540" label="funcionario de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="funcionario de"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="228" source="11949469760" target="18017904000195" label="funcionario de">
         <attvalues>
           <attvalue for="tipo_de_relacao" value="funcionario de"></attvalue>
         </attvalues>
@@ -17419,11 +15978,6 @@
           <attvalue for="tipo_de_relacao" value="funcionario de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="243" source="85257923734" target="73295198000151" label="funcionario de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="funcionario de"></attvalue>
-        </attvalues>
-      </edge>
       <edge id="244" source="13000792740" target="08596854000194" label="funcionario de">
         <attvalues>
           <attvalue for="tipo_de_relacao" value="funcionario de"></attvalue>
@@ -17489,17 +16043,7 @@
           <attvalue for="tipo_de_relacao" value="funcionario de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="257" source="14532878764" target="32222929000151" label="funcionario de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="funcionario de"></attvalue>
-        </attvalues>
-      </edge>
       <edge id="258" source="14112912714" target="06052228000101" label="funcionario de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="funcionario de"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="259" source="11193139708" target="14974280000143" label="funcionario de">
         <attvalues>
           <attvalue for="tipo_de_relacao" value="funcionario de"></attvalue>
         </attvalues>
@@ -17520,11 +16064,6 @@
         </attvalues>
       </edge>
       <edge id="264" source="88592944791" target="33285255000105" label="funcionario de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="funcionario de"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="265" source="15703964776" target="03495268000130" label="funcionario de">
         <attvalues>
           <attvalue for="tipo_de_relacao" value="funcionario de"></attvalue>
         </attvalues>
@@ -17759,27 +16298,7 @@
           <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="314" source="32222929000151" target="07120497707" label="empregador de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
-        </attvalues>
-      </edge>
       <edge id="315" source="34057448000163" target="03546883756" label="empregador de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="316" source="18017904000195" target="13188628765" label="empregador de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="317" source="32222929000151" target="13765391794" label="empregador de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="318" source="32222929000151" target="01013034759" label="empregador de">
         <attvalues>
           <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
         </attvalues>
@@ -17795,11 +16314,6 @@
         </attvalues>
       </edge>
       <edge id="321" source="34057448000163" target="00006124720" label="empregador de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="322" source="32222929000151" target="07524283814" label="empregador de">
         <attvalues>
           <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
         </attvalues>
@@ -17849,27 +16363,7 @@
           <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="332" source="18017904000195" target="11949469760" label="empregador de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="333" source="18017904000195" target="05885804737" label="empregador de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
-        </attvalues>
-      </edge>
       <edge id="334" source="11704237000170" target="13952855782" label="empregador de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="335" source="18017904000195" target="09636460795" label="empregador de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="336" source="32222929000151" target="14532878764" label="empregador de">
         <attvalues>
           <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
         </attvalues>
@@ -17879,27 +16373,7 @@
           <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="338" source="18017904000195" target="02091474746" label="empregador de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="339" source="18017904000195" target="02648408797" label="empregador de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
-        </attvalues>
-      </edge>
       <edge id="340" source="10263969000109" target="03793662748" label="empregador de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="341" source="18017904000195" target="16678846702" label="empregador de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="342" source="18017904000195" target="13581173735" label="empregador de">
         <attvalues>
           <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
         </attvalues>
@@ -17910,11 +16384,6 @@
         </attvalues>
       </edge>
       <edge id="344" source="11704237000170" target="16864585760" label="empregador de">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="345" source="32222929000151" target="07487093719" label="empregador de">
         <attvalues>
           <attvalue for="tipo_de_relacao" value="empregador de"></attvalue>
         </attvalues>
@@ -17944,11 +16413,6 @@
           <attvalue for="tipo_de_relacao" value="socio de"></attvalue>
         </attvalues>
       </edge>
-      <edge id="351" source="11193139708" target="85257923734" label="pai">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="pai"></attvalue>
-        </attvalues>
-      </edge>
       <edge id="352" source="18708868794" target="_id_109392189" label="pai">
         <attvalues>
           <attvalue for="tipo_de_relacao" value="pai"></attvalue>
@@ -17957,11 +16421,6 @@
       <edge id="353" source="02041097795" target="89164989887" label="pai">
         <attvalues>
           <attvalue for="tipo_de_relacao" value="pai"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="354" source="10619412720" target="_id_11953615" label="mae">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="mae"></attvalue>
         </attvalues>
       </edge>
       <edge id="355" source="12404464701" target="12404461796" label="irmao">
@@ -17975,16 +16434,6 @@
         </attvalues>
       </edge>
       <edge id="357" source="12404464701" target="95914781787" label="mae">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="mae"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="358" source="12520698713" target="10619412720" label="mae">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="mae"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="359" source="11949469760" target="01870759729" label="mae">
         <attvalues>
           <attvalue for="tipo_de_relacao" value="mae"></attvalue>
         </attvalues>
@@ -18179,11 +16628,6 @@
           <attvalue for="tipo_de_relacao" value="pai"></attvalue>
         </attvalues>
       </edge>
-      <edge id="398" source="12767851783" target="_id_10376764" label="mae">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="mae"></attvalue>
-        </attvalues>
-      </edge>
       <edge id="399" source="07268519737" target="_id_108645965" label="irmao">
         <attvalues>
           <attvalue for="tipo_de_relacao" value="irmao"></attvalue>
@@ -18297,11 +16741,6 @@
       <edge id="421" source="09545277718" target="_id_30841893" label="pai">
         <attvalues>
           <attvalue for="tipo_de_relacao" value="pai"></attvalue>
-        </attvalues>
-      </edge>
-      <edge id="422" source="18702627787" target="_id_79610545" label="mae">
-        <attvalues>
-          <attvalue for="tipo_de_relacao" value="mae"></attvalue>
         </attvalues>
       </edge>
       <edge id="423" source="01850759758" target="_id_92528339" label="irmao">
