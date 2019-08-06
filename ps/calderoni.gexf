@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-08-06">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="name" title="name" type="string"></attribute>
+      <attribute id="type" title="type" type="string"></attribute>
+      <attribute id="first" title="first" type="boolean"></attribute>
+      <attribute id="distance" title="distance" type="integer"></attribute>
+    </attributes>
+    <nodes>
+      <node id="0">
+        <attvalues>
+          <attvalue for="type" value="Indeterminado"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1867.3179" y="1677.2751"></viz:position>
+        <viz:color r="31" g="0" b="6"></viz:color>
+      </node>
+      <node id="rais_8717740771">
+        <attvalues>
+          <attvalue for="type" value="Indeterminado"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="779.2428" y="-713.86664"></viz:position>
+        <viz:color r="31" g="0" b="6"></viz:color>
+      </node>
+      <node id="rais_6162067166">
+        <attvalues>
+          <attvalue for="type" value="Indeterminado"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-363.45816" y="669.779"></viz:position>
+        <viz:color r="31" g="0" b="6"></viz:color>
+      </node>
+      <node id="rais_8988378411">
+        <attvalues>
+          <attvalue for="type" value="Indeterminado"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="476.59125" y="-83.56561"></viz:position>
+        <viz:color r="31" g="0" b="6"></viz:color>
+      </node>
+      <node id="rais_7623055457">
+        <attvalues>
+          <attvalue for="type" value="Indeterminado"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-147.2956" y="-387.47693"></viz:position>
+        <viz:color r="31" g="0" b="6"></viz:color>
+      </node>
+      <node id="rais_9742476820">
+        <attvalues>
+          <attvalue for="type" value="Indeterminado"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-337.1709" y="1357.9072"></viz:position>
+        <viz:color r="31" g="0" b="6"></viz:color>
+      </node>
+      <node id="rais_9523120523">
+        <attvalues>
+          <attvalue for="type" value="Indeterminado"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-929.1955" y="381.28198"></viz:position>
+        <viz:color r="31" g="0" b="6"></viz:color>
+      </node>
+      <node id="rais_8250282420">
+        <attvalues>
+          <attvalue for="type" value="Indeterminado"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="363.71487" y="-756.8214"></viz:position>
+        <viz:color r="31" g="0" b="6"></viz:color>
+      </node>
+      <node id="859103000101">
+        <attvalues>
+          <attvalue for="type" value="Indeterminado"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-556.4038" y="454.2422"></viz:position>
+        <viz:color r="31" g="0" b="6"></viz:color>
+      </node>
+      <node id="rais_6727267801">
+        <attvalues>
+          <attvalue for="type" value="Indeterminado"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="76.94437" y="49.390255"></viz:position>
+        <viz:color r="31" g="0" b="6"></viz:color>
+      </node>
+      <node id="rais_4876357957">
+        <attvalues>
+          <attvalue for="type" value="Indeterminado"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="146.05693" y="-553.6345"></viz:position>
+        <viz:color r="31" g="0" b="6"></viz:color>
+      </node>
+      <node id="3920828887">
+        <attvalues>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-276.2588" y="1287.7249"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="rais_9120325424">
+        <attvalues>
+          <attvalue for="type" value="Indeterminado"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-657.8639" y="349.3701"></viz:position>
+        <viz:color r="31" g="0" b="6"></viz:color>
+      </node>
+      <node id="rais_4256220308">
+        <attvalues>
+          <attvalue for="type" value="Indeterminado"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-125.69234" y="-461.8157"></viz:position>
+        <viz:color r="31" g="0" b="6"></viz:color>
+      </node>
+      <node id="1415224889">
+        <attvalues>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-80.476204" y="-424.76523"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="4393427831">
+        <attvalues>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-380.33292" y="1286.3364"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="rais_9545225308">
+        <attvalues>
+          <attvalue for="type" value="Indeterminado"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-479.13385" y="317.5492"></viz:position>
+        <viz:color r="31" g="0" b="6"></viz:color>
+      </node>
+      <node id="rais_6346914442">
+        <attvalues>
+          <attvalue for="type" value="Indeterminado"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="836.4519" y="119.86996"></viz:position>
+        <viz:color r="31" g="0" b="6"></viz:color>
+      </node>
+      <node id="rais_9754406171">
+        <attvalues>
+          <attvalue for="type" value="Indeterminado"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="316.87585" y="-212.70947"></viz:position>
+        <viz:color r="31" g="0" b="6"></viz:color>
+      </node>
+      <node id="4233254000100">
+        <attvalues>
+          <attvalue for="type" value="Indeterminado"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="206.9412" y="-811.5969"></viz:position>
+        <viz:color r="31" g="0" b="6"></viz:color>
+      </node>
+      <node id="rais_3542379971">
+        <attvalues>
+          <attvalue for="type" value="Indeterminado"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="824.06464" y="-617.15765"></viz:position>
+        <viz:color r="31" g="0" b="6"></viz:color>
+      </node>
+      <node id="rais_5431471551">
+        <attvalues>
+          <attvalue for="type" value="Indeterminado"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-438.03897" y="668.47015"></viz:position>
+        <viz:color r="31" g="0" b="6"></viz:color>
+      </node>
+      <node id="2154205860">
+        <attvalues>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="568.2447" y="-689.9706"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="63849585891">
+        <attvalues>
+          <attvalue for="name" value="LYDIA MOTTA SALGUEIRO"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-259.44092" y="870.6235"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="03295643822">
+        <attvalues>
+          <attvalue for="name" value="REGINA CELIA MILLER PEREIRA LEITE"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-691.8774" y="780.1274"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="21846080843">
+        <attvalues>
+          <attvalue for="name" value="CAMILA GARCIA SANTOS"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="912.47095" y="24.412369"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="40573422818">
+        <attvalues>
+          <attvalue for="name" value="ARYANE DE SOUZA ARAUJO"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-728.6114" y="749.47363"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="98955705891">
+        <attvalues>
+          <attvalue for="name" value="MARIA JOAQUINA VIEIRA BRITO"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="615.43866" y="-693.1432"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="03920828887">
+        <attvalues>
+          <attvalue for="name" value="JOEL MOTTA"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-322.29474" y="1041.5216"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="09442442899">
+        <attvalues>
+          <attvalue for="name" value="RENATO CESAR FERREIRA DE SALES"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="469.3115" y="-493.18616"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="04393427831">
+        <attvalues>
+          <attvalue for="name" value="MARINEA DE CASTRO MOTTA"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-326.90668" y="1300.8422"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="42686455861">
+        <attvalues>
+          <attvalue for="name" value="RENATO CESAR FERREIRA DE SALES FILHO"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="640.85065" y="-578.94257"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="43040528882">
+        <attvalues>
+          <attvalue for="name" value="KARINE BIOTO SALES"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="812.6042" y="-670.70374"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="05411662800">
+        <attvalues>
+          <attvalue for="name" value="MARIA EMILIA LOURENCO CALDERONI"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2.9817564" y="161.11836"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="06141528872">
+        <attvalues>
+          <attvalue for="name" value="CARLOS MONTEIRO MOTTA"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-316.92972" y="768.73535"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="50789010860">
+        <attvalues>
+          <attvalue for="name" value="FERNANDA KIMI CALDERONI"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="84.92958" y="210.57281"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="08520749801">
+        <attvalues>
+          <attvalue for="name" value="PETER MOTTA CALDERONI"></attvalue>
+          <attvalue for="type" value="Source"></attvalue>
+          <attvalue for="first" value="true"></attvalue>
+          <attvalue for="distance" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-203.05063" y="313.08487"></viz:position>
+        <viz:color r="235" g="211" b="0"></viz:color>
+      </node>
+      <node id="05107066810">
+        <attvalues>
+          <attvalue for="name" value="ROSI APARECIDA FERREIRA DE SALES"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="187.8152" y="-232.34038"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="05111419802">
+        <attvalues>
+          <attvalue for="name" value="MOACIR GOMES JUNIOR"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="890.9955" y="85.98473"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="05143887810">
+        <attvalues>
+          <attvalue for="name" value="ROSMEIRE FERREIRA DE SALES GOMES"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="596.83997" y="-57.747643"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="15156791875">
+        <attvalues>
+          <attvalue for="name" value="GERSON MOTTA CALDERONI"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-351.6192" y="472.74698"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="09025405800">
+        <attvalues>
+          <attvalue for="name" value="DAVID MOTTA"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-329.45532" y="884.94794"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="01415224889">
+        <attvalues>
+          <attvalue for="name" value="AMANDINA FERREIRA DE SALES"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="63.634247" y="-331.18378"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="00863564887">
+        <attvalues>
+          <attvalue for="name" value="REYNALDO AVERSA BARSUGLIA"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="59.906693" y="-1126.0856"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="12957706873">
+        <attvalues>
+          <attvalue for="name" value="ANDREIA LOMBARDI DE FREITAS"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-749.5635" y="695.7702"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="16477208857">
+        <attvalues>
+          <attvalue for="name" value="RENATO JOSE CARVALHO"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="851.8081" y="5.3092346"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="16295568823">
+        <attvalues>
+          <attvalue for="name" value="REGINA FERREIRA DE SALES"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="203.32608" y="-696.35736"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="30317986864">
+        <attvalues>
+          <attvalue for="name" value="KARINA ABUNASSER PEREIRA LEITE CALDERONI"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-784.2559" y="759.8873"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="21719690839">
+        <attvalues>
+          <attvalue for="name" value="ESTHER MOTTA CALDERONI"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-331.16467" y="533.43524"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="16882065829">
+        <attvalues>
+          <attvalue for="name" value="ROGERIO DERTINATI"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-677.45233" y="415.3014"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="28215077803">
+        <attvalues>
+          <attvalue for="name" value="DOUGLAS MOTTA CALDERONI"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-489.55862" y="578.9531"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="32136650882">
+        <attvalues>
+          <attvalue for="name" value="ELITO GONSALVES DE SALES"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="45.51448" y="-302.45807"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="30742218872">
+        <attvalues>
+          <attvalue for="name" value="CORNELIO CALDERONI"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-396.96487" y="452.81485"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="51683954815">
+        <attvalues>
+          <attvalue for="name" value="JOSE CARLOS DE ALMEIDA CAMARGO"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="169.02672" y="-1141.6594"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="28583270848">
+        <attvalues>
+          <attvalue for="name" value="IRENISE PEREIRA LIMA"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="732.1228" y="-476.57037"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="02154205860">
+        <attvalues>
+          <attvalue for="name" value="SELMA VIEIRA BRITO DE SALES"></attvalue>
+          <attvalue for="type" value="CPF"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="652.34033" y="-645.7618"></viz:position>
+        <viz:color r="51" g="26" b="255"></viz:color>
+      </node>
+      <node id="00859103000101">
+        <attvalues>
+          <attvalue for="name" value="DERTIPEL COMERCIAL LTDA"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-555.5454" y="413.34628"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="08588754000116">
+        <attvalues>
+          <attvalue for="name" value="CORNELIO CALDERONI E OUTRA"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-388.4691" y="566.7384"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="16593410000557">
+        <attvalues>
+          <attvalue for="name" value="EPC ENGENHARIA PROJETO CONSULTORIA SA"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-263.16483" y="534.2759"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="03468082000191">
+        <attvalues>
+          <attvalue for="name" value="AGER DECORACOES LTDA"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1000.5779" y="155.2387"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="13029824000136">
+        <attvalues>
+          <attvalue for="name" value="CLINICA DE PSIQUIATRIA CALDERONI LTDA"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-662.5765" y="694.27045"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="12398977000198">
+        <attvalues>
+          <attvalue for="name" value="NEOCAP TAMPAS E LACRES S.A."></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-0.20692883" y="-1240.3833"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="14363129000179">
+        <attvalues>
+          <attvalue for="name" value="CALDERONI - ASSESSORIA E CONSULTORIA EM ESTAMPARIA DE METAIS LTDA"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-413.00552" y="405.79565"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="04233254000100">
+        <attvalues>
+          <attvalue for="name" value="WINMARKET CONSULTORIA INTERNACIONAL LTDA - ME"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="331.03143" y="-648.36584"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="11493967000179">
+        <attvalues>
+          <attvalue for="name" value="RSALES ASSESSORIA CONTABIL LTDA - EPP"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="615.4441" y="-498.372"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="03853767000151">
+        <attvalues>
+          <attvalue for="name" value="CLINICA VETERINARIA VILA MASCOTE S/S LTDA - ME"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-37.26252" y="-1198.7803"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="03856363000111">
+        <attvalues>
+          <attvalue for="name" value="MELCA ODONTOLOGIA S/S LTDA - ME"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="9.37797" y="54.024765"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="11800029000174">
+        <attvalues>
+          <attvalue for="name" value="JOSE CARLOS DE ALMEIDA CAMARGO JUNIOR - ME"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="193.24892" y="-1263.3679"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="61255873000130">
+        <attvalues>
+          <attvalue for="name" value="AVIS RARA PROMOCOES DE EVENTOS LTDA"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="399.06586" y="-139.46518"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="62030796000182">
+        <attvalues>
+          <attvalue for="name" value="R.SALES SERVICOS LTDA - ME"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="572.0194" y="-608.07074"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="19703261000104">
+        <attvalues>
+          <attvalue for="name" value="RSALES SUPORTE ADMINISTRATIVO E FINANCEIRO LTDA  - ME"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="689.1694" y="-608.5443"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="08700707000112">
+        <attvalues>
+          <attvalue for="name" value="R. SALES CORRETORA DE SEGUROS LTDA.  - ME"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="191.00772" y="-470.7336"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="59910554000179">
+        <attvalues>
+          <attvalue for="name" value="FARMACAP INDUSTRIA E COMERCIO LTDA."></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="54.917366" y="-1249.0448"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="60541984000140">
+        <attvalues>
+          <attvalue for="name" value="CONTABILIDADE MONTREAL S/C LTDA."></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="242.00552" y="-218.77429"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="60922168003282">
+        <attvalues>
+          <attvalue for="name" value="ASSOCIACAO CONGREGACAO DESANTA CATARINA"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-901.24426" y="824.312"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="53770814000171">
+        <attvalues>
+          <attvalue for="name" value="BAZAR E CALCADOS DEMIF LTDA - ME"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-33.397827" y="-372.4501"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="16971537000139">
+        <attvalues>
+          <attvalue for="name" value="VIA SAO PAULO ADMINISTRADORA DE BENS IMOVEIS LTDA"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="785.7592" y="17.971605"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="27156833000100">
+        <attvalues>
+          <attvalue for="name" value="A.DE A. LIMA MOVEIS - ME"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="140.0899" y="-788.1788"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="19825410000108">
+        <attvalues>
+          <attvalue for="name" value="ROGERIO DERTINATI - ME"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-802.157" y="397.90845"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="19938493000133">
+        <attvalues>
+          <attvalue for="name" value="FRUTTETO COMERCIO DE ALIMENTOS LTDA - ME"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1041.3127" y="39.31392"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="66518267000426">
+        <attvalues>
+          <attvalue for="name" value="CENTRO DE ESTUDOS E PESQUISAS &quot;DR.JOAO AMORIM&quot;"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="26.669373" y="244.13719"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="62537014000104">
+        <attvalues>
+          <attvalue for="name" value="CENTRO SOCIAL NOSSA SRA DAS GRACAS DO ALTO JABAQUARA"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="133.88153" y="-981.3071"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="46523114000117">
+        <attvalues>
+          <attvalue for="name" value="MUNICIPIO DE EMBU DAS ARTES"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-143.68423" y="372.49274"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="46523122000163">
+        <attvalues>
+          <attvalue for="name" value="MUNICIPIO DE TABOAO DA SERRA"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-104.78252" y="238.91861"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+      <node id="47445259000100">
+        <attvalues>
+          <attvalue for="name" value="J MOTTA EMPREENDIMENTOS IMOBILIARIOS LTDA"></attvalue>
+          <attvalue for="type" value="CNPJ"></attvalue>
+          <attvalue for="first" value="false"></attvalue>
+          <attvalue for="distance" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-327.19424" y="1218.6113"></viz:position>
+        <viz:color r="219" g="0" b="46"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="15156791875" target="21719690839" label="FILHO"></edge>
+      <edge id="1" source="19703261000104" target="rais_8717740771" label="possui como funcionario"></edge>
+      <edge id="2" source="05143887810" target="61255873000130" label="socio de"></edge>
+      <edge id="3" source="08588754000116" target="rais_6162067166" label="possui como funcionario"></edge>
+      <edge id="4" source="04233254000100" target="16295568823" label="possui no quadro societario"></edge>
+      <edge id="5" source="30742218872" target="15156791875" label="PAI"></edge>
+      <edge id="7" source="03856363000111" target="05411662800" label="possui no quadro societario"></edge>
+      <edge id="9" source="08520749801" target="03856363000111" label="socio de"></edge>
+      <edge id="10" source="21719690839" target="08588754000116" label="socio de"></edge>
+      <edge id="11" source="60541984000140" target="rais_9754406171" label="possui como funcionario"></edge>
+      <edge id="12" source="30742218872" target="00859103000101" label="socio de"></edge>
+      <edge id="13" source="03856363000111" target="08520749801" label="possui no quadro societario"></edge>
+      <edge id="14" source="16295568823" target="62537014000104" label="empregado de"></edge>
+      <edge id="16" source="19703261000104" target="02154205860" label="possui no quadro societario"></edge>
+      <edge id="17" source="00863564887" target="03853767000151" label="socio de"></edge>
+      <edge id="18" source="28215077803" target="13029824000136" label="socio de"></edge>
+      <edge id="19" source="05107066810" target="08700707000112" label="socio de"></edge>
+      <edge id="20" source="13029824000136" target="28215077803" label="possui no quadro societario"></edge>
+      <edge id="21" source="53770814000171" target="rais_7623055457" label="possui como funcionario"></edge>
+      <edge id="23" source="16971537000139" target="rais_6346914442" label="possui como funcionario"></edge>
+      <edge id="24" source="11493967000179" target="28583270848" label="possui no quadro societario"></edge>
+      <edge id="25" source="13029824000136" target="12957706873" label="possui como funcionario"></edge>
+      <edge id="27" source="19825410000108" target="rais_9523120523" label="possui como funcionario"></edge>
+      <edge id="28" source="53770814000171" target="rais_4256220308" label="possui como funcionario"></edge>
+      <edge id="29" source="03856363000111" target="60541984000140" label="possui como contador"></edge>
+      <edge id="30" source="30742218872" target="859103000101" label="socio de"></edge>
+      <edge id="31" source="30317986864" target="60922168003282" label="empregado de"></edge>
+      <edge id="32" source="03295643822" target="13029824000136" label="empregado de"></edge>
+      <edge id="33" source="05411662800" target="50789010860" label="MAE"></edge>
+      <edge id="34" source="13029824000136" target="40573422818" label="possui como funcionario"></edge>
+      <edge id="35" source="08700707000112" target="16295568823" label="possui no quadro societario"></edge>
+      <edge id="37" source="62030796000182" target="42686455861" label="possui no quadro societario"></edge>
+      <edge id="38" source="16882065829" target="859103000101" label="socio de"></edge>
+      <edge id="39" source="02154205860" target="19703261000104" label="socio de"></edge>
+      <edge id="40" source="62537014000104" target="00863564887" label="possui no quadro societario"></edge>
+      <edge id="41" source="30742218872" target="08520749801" label="PAI"></edge>
+      <edge id="42" source="14363129000179" target="30742218872" label="possui no quadro societario"></edge>
+      <edge id="43" source="16295568823" target="08700707000112" label="socio de"></edge>
+      <edge id="45" source="21846080843" target="19938493000133" label="socio de"></edge>
+      <edge id="46" source="53770814000171" target="32136650882" label="possui no quadro societario"></edge>
+      <edge id="47" source="21719690839" target="28215077803" label="MAE"></edge>
+      <edge id="48" source="03856363000111" target="05107066810" label="possui como contador"></edge>
+      <edge id="49" source="16882065829" target="00859103000101" label="socio de"></edge>
+      <edge id="50" source="42686455861" target="19703261000104" label="socio de"></edge>
+      <edge id="51" source="4393427831" target="47445259000100" label="socio de"></edge>
+      <edge id="53" source="47445259000100" target="4393427831" label="possui no quadro societario"></edge>
+      <edge id="54" source="16295568823" target="04233254000100" label="socio de"></edge>
+      <edge id="55" source="06141528872" target="09025405800" label="PAI"></edge>
+      <edge id="56" source="03920828887" target="47445259000100" label="socio de"></edge>
+      <edge id="57" source="21719690839" target="30742218872" label="CONJUGE/COMPANHEIRO"></edge>
+      <edge id="58" source="08588754000116" target="rais_5431471551" label="possui como funcionario"></edge>
+      <edge id="59" source="3920828887" target="47445259000100" label="socio de"></edge>
+      <edge id="60" source="16295568823" target="4233254000100" label="socio de"></edge>
+      <edge id="61" source="30742218872" target="08588754000116" label="socio de"></edge>
+      <edge id="66" source="06141528872" target="03920828887" label="PAI"></edge>
+      <edge id="68" source="21719690839" target="15156791875" label="MAE"></edge>
+      <edge id="69" source="98955705891" target="62030796000182" label="socio de"></edge>
+      <edge id="70" source="06141528872" target="21719690839" label="PAI"></edge>
+      <edge id="71" source="00863564887" target="59910554000179" label="socio de"></edge>
+      <edge id="72" source="06141528872" target="63849585891" label="PAI"></edge>
+      <edge id="74" source="05107066810" target="01415224889" label="FILHO"></edge>
+      <edge id="75" source="47445259000100" target="04393427831" label="possui no quadro societario"></edge>
+      <edge id="76" source="53770814000171" target="01415224889" label="possui no quadro societario"></edge>
+      <edge id="77" source="05107066810" target="60541984000140" label="socio de"></edge>
+      <edge id="78" source="08520749801" target="21719690839" label="FILHO"></edge>
+      <edge id="79" source="16971537000139" target="16477208857" label="possui no quadro societario"></edge>
+      <edge id="81" source="21719690839" target="08520749801" label="MAE"></edge>
+      <edge id="82" source="53770814000171" target="1415224889" label="possui no quadro societario"></edge>
+      <edge id="83" source="47445259000100" target="rais_9742476820" label="possui como funcionario"></edge>
+      <edge id="84" source="15156791875" target="14363129000179" label="socio de"></edge>
+      <edge id="85" source="62537014000104" target="51683954815" label="possui no quadro societario"></edge>
+      <edge id="87" source="62030796000182" target="98955705891" label="possui no quadro societario"></edge>
+      <edge id="89" source="13029824000136" target="03295643822" label="possui como funcionario"></edge>
+      <edge id="91" source="16971537000139" target="21846080843" label="possui no quadro societario"></edge>
+      <edge id="92" source="00863564887" target="12398977000198" label="socio de"></edge>
+      <edge id="93" source="02154205860" target="62030796000182" label="socio de"></edge>
+      <edge id="95" source="08588754000116" target="21719690839" label="possui no quadro societario"></edge>
+      <edge id="96" source="15156791875" target="30742218872" label="FILHO/ENTEADO"></edge>
+      <edge id="97" source="12957706873" target="13029824000136" label="empregado de"></edge>
+      <edge id="98" source="04233254000100" target="09442442899" label="possui no quadro societario"></edge>
+      <edge id="101" source="05143887810" target="16971537000139" label="socio de"></edge>
+      <edge id="102" source="16971537000139" target="05111419802" label="possui no quadro societario"></edge>
+      <edge id="103" source="16477208857" target="16971537000139" label="socio de"></edge>
+      <edge id="104" source="2154205860" target="62030796000182" label="socio de"></edge>
+      <edge id="105" source="05107066810" target="32136650882" label="FILHO/ENTEADO"></edge>
+      <edge id="106" source="1415224889" target="53770814000171" label="socio de"></edge>
+      <edge id="107" source="19703261000104" target="rais_3542379971" label="possui como funcionario"></edge>
+      <edge id="111" source="21719690839" target="06141528872" label="FILHO/ENTEADO"></edge>
+      <edge id="112" source="08700707000112" target="05107066810" label="possui no quadro societario"></edge>
+      <edge id="114" source="05111419802" target="03468082000191" label="socio de"></edge>
+      <edge id="115" source="00859103000101" target="16882065829" label="possui no quadro societario"></edge>
+      <edge id="117" source="14363129000179" target="15156791875" label="possui no quadro societario"></edge>
+      <edge id="118" source="61255873000130" target="rais_8988378411" label="possui como funcionario"></edge>
+      <edge id="119" source="40573422818" target="13029824000136" label="empregado de"></edge>
+      <edge id="120" source="08700707000112" target="rais_4876357957" label="possui como funcionario"></edge>
+      <edge id="121" source="30317986864" target="13029824000136" label="socio de"></edge>
+      <edge id="122" source="60541984000140" target="05107066810" label="possui no quadro societario"></edge>
+      <edge id="123" source="05411662800" target="03856363000111" label="socio de"></edge>
+      <edge id="125" source="32136650882" target="53770814000171" label="socio de"></edge>
+      <edge id="127" source="01415224889" target="53770814000171" label="socio de"></edge>
+      <edge id="128" source="16295568823" target="27156833000100" label="empregado de"></edge>
+      <edge id="129" source="00863564887" target="62537014000104" label="socio de"></edge>
+      <edge id="130" source="51683954815" target="11800029000174" label="empregado de"></edge>
+      <edge id="131" source="60541984000140" target="09442442899" label="possui no quadro societario"></edge>
+      <edge id="132" source="09442442899" target="62030796000182" label="empregado de"></edge>
+      <edge id="133" source="61255873000130" target="05107066810" label="possui no quadro societario"></edge>
+      <edge id="135" source="28215077803" target="21719690839" label="FILHO"></edge>
+      <edge id="136" source="14363129000179" target="rais_9545225308" label="possui como funcionario"></edge>
+      <edge id="138" source="05111419802" target="16971537000139" label="socio de"></edge>
+      <edge id="139" source="19703261000104" target="42686455861" label="possui no quadro societario"></edge>
+      <edge id="140" source="16971537000139" target="05143887810" label="possui no quadro societario"></edge>
+      <edge id="141" source="47445259000100" target="03920828887" label="possui no quadro societario"></edge>
+      <edge id="142" source="47445259000100" target="3920828887" label="possui no quadro societario"></edge>
+      <edge id="143" source="05411662800" target="46523122000163" label="empregado de"></edge>
+      <edge id="144" source="21846080843" target="16971537000139" label="socio de"></edge>
+      <edge id="146" source="00859103000101" target="rais_9120325424" label="possui como funcionario"></edge>
+      <edge id="148" source="61255873000130" target="05143887810" label="possui no quadro societario"></edge>
+      <edge id="149" source="04233254000100" target="rais_8250282420" label="possui como funcionario"></edge>
+      <edge id="150" source="08520749801" target="46523114000117" label="empregado de"></edge>
+      <edge id="151" source="05107066810" target="61255873000130" label="socio de"></edge>
+      <edge id="152" source="30742218872" target="14363129000179" label="socio de"></edge>
+      <edge id="153" source="19703261000104" target="09442442899" label="possui no quadro societario"></edge>
+      <edge id="154" source="19825410000108" target="16882065829" label="possui no quadro societario"></edge>
+      <edge id="155" source="00859103000101" target="30742218872" label="possui no quadro societario"></edge>
+      <edge id="156" source="04393427831" target="47445259000100" label="socio de"></edge>
+      <edge id="157" source="19703261000104" target="43040528882" label="possui no quadro societario"></edge>
+      <edge id="158" source="05411662800" target="66518267000426" label="empregado de"></edge>
+      <edge id="159" source="15156791875" target="16593410000557" label="empregado de"></edge>
+      <edge id="160" source="62030796000182" target="02154205860" label="possui no quadro societario"></edge>
+      <edge id="161" source="03856363000111" target="rais_6727267801" label="possui como funcionario"></edge>
+      <edge id="162" source="62030796000182" target="2154205860" label="possui no quadro societario"></edge>
+      <edge id="163" source="42686455861" target="62030796000182" label="socio de"></edge>
+      <edge id="164" source="08520749801" target="30742218872" label="FILHO/ENTEADO"></edge>
+      <edge id="165" source="62030796000182" target="09442442899" label="possui como funcionario"></edge>
+      <edge id="166" source="08520749801" target="46523122000163" label="empregado de"></edge>
+      <edge id="167" source="30742218872" target="28215077803" label="PAI"></edge>
+      <edge id="168" source="30742218872" target="21719690839" label="CONJUGE/COMPANHEIRO"></edge>
+      <edge id="169" source="13029824000136" target="30317986864" label="possui no quadro societario"></edge>
+      <edge id="170" source="28215077803" target="30742218872" label="FILHO/ENTEADO"></edge>
+      <edge id="171" source="11493967000179" target="09442442899" label="possui no quadro societario"></edge>
+      <edge id="172" source="42686455861" target="11493967000179" label="empregado de"></edge>
+      <edge id="173" source="08588754000116" target="30742218872" label="possui no quadro societario"></edge>
+      <edge id="174" source="16882065829" target="19825410000108" label="socio de"></edge>
+    </edges>
+  </graph>
+</gexf>
