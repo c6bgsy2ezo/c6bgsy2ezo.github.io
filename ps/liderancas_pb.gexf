@@ -1269,7 +1269,7 @@
       <edge id="90" source="14156172449" target="13365274391" label="FILHO/ENTEADO"></edge>
       <edge id="91" source="00577480000158" target="19823703434" label="possui no quadro societario"></edge>
       <edge id="92" source="57824258300" target="13871336000171" label="socio de"></edge>
-      <edge id="94" source="13365274391" target="23978465353" label="M�E/MADRASTA"></edge>
+      <edge id="94" source="13365274391" target="23978465353" label="MAE/MADRASTA"></edge>
       <edge id="98" source="49351786000180" target="07789185802" label="possui no quadro societario"></edge>
       <edge id="100" source="32347626434" target="03005656403" label="PAI"></edge>
       <edge id="101" source="34232850368" target="13890582000170" label="socio de"></edge>
@@ -1286,7 +1286,7 @@
       <edge id="113" source="01051300444" target="19823703434" label="PAI/PADRASTO"></edge>
       <edge id="114" source="01051300444" target="08693698737" label="PAI/PADRASTO"></edge>
       <edge id="115" source="73390160400" target="09591008490" label="MAE"></edge>
-      <edge id="116" source="30862604400" target="13386943403" label="M�E/MADRASTA"></edge>
+      <edge id="116" source="30862604400" target="13386943403" label="MAE/MADRASTA"></edge>
       <edge id="118" source="07656302492" target="16576136000184" label="socio de"></edge>
       <edge id="119" source="01100416315" target="27408906304" label="PAI/PADRASTO"></edge>
       <edge id="120" source="32316020410" target="08324966420" label="MAE"></edge>
@@ -1314,7 +1314,7 @@
       <edge id="157" source="32316020410" target="05976036422" label="MAE"></edge>
       <edge id="158" source="04100683499" target="49351786000180" label="empregado de"></edge>
       <edge id="159" source="32347626434" target="30862604400" label="CONJUGE/COMPANHEIRO"></edge>
-      <edge id="160" source="13365274391" target="14156172449" label="M�E/MADRASTA"></edge>
+      <edge id="160" source="13365274391" target="14156172449" label="MAE/MADRASTA"></edge>
       <edge id="161" source="06848439436" target="70028971442" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="162" source="03857930000405" target="53427025691" label="possui no quadro societario"></edge>
       <edge id="165" source="70903285460" target="09183355405" label="PAI"></edge>
