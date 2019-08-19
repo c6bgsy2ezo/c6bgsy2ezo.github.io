@@ -29,7 +29,7 @@
           <attvalue for="distance" value="4"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-373.38586" y="-910.0648"></viz:position>
+        <viz:position x="-440.13757" y="-850.4091"></viz:position>
         <viz:color r="5" g="5" b="5"></viz:color>
       </node>
       <node id="rais_7933531750">
@@ -39,7 +39,7 @@
           <attvalue for="distance" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-366.92163" y="-162.86053"></viz:position>
+        <viz:position x="-356.979" y="-39.288086"></viz:position>
         <viz:color r="5" g="5" b="5"></viz:color>
       </node>
       <node id="rais_7599747725">
@@ -70,7 +70,7 @@
           <attvalue for="distance" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="235.42552" y="-327.15588"></viz:position>
+        <viz:position x="263.83298" y="-320.05402"></viz:position>
         <viz:color r="22" g="10" b="255"></viz:color>
       </node>
       <node id="73390160400" label="ANA MARIA DE MOURA DA SILVA">
@@ -180,7 +180,7 @@
           <attvalue for="distance" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-281.48624" y="195.71172"></viz:position>
+        <viz:position x="-76.970276" y="241.16168"></viz:position>
         <viz:color r="22" g="10" b="255"></viz:color>
       </node>
       <node id="10423978489" label="MACIEL JOSE DA SILVA">
@@ -268,7 +268,7 @@
           <attvalue for="distance" value="2"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="120.0868" y="-219.68088"></viz:position>
+        <viz:position x="91.386154" y="-229.72406"></viz:position>
         <viz:color r="22" g="10" b="255"></viz:color>
       </node>
       <node id="76529800468" label="VERA LUCIA DE CASTRO BUARQUE DE GUSMAO">
@@ -433,7 +433,7 @@
           <attvalue for="distance" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-228.22736" y="-363.78134"></viz:position>
+        <viz:position x="-253.79185" y="-363.78134"></viz:position>
         <viz:color r="22" g="10" b="255"></viz:color>
       </node>
       <node id="70224996401" label="DAVI ANGELO DANTAS DA SILVA">
@@ -444,7 +444,7 @@
           <attvalue for="distance" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-164.84981" y="-395.21304"></viz:position>
+        <viz:position x="-162.0093" y="-398.05377"></viz:position>
         <viz:color r="22" g="10" b="255"></viz:color>
       </node>
       <node id="70225003473" label="DEYVSON JONATHAN ANGELO MORAIS">
@@ -455,7 +455,7 @@
           <attvalue for="distance" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-178.24588" y="-367.78525"></viz:position>
+        <viz:position x="-186.76738" y="-376.3075"></viz:position>
         <viz:color r="22" g="10" b="255"></viz:color>
       </node>
       <node id="06204798413" label="DANIELLE ANGELO PEREIRA">
@@ -477,7 +477,7 @@
           <attvalue for="distance" value="0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-775.8621" y="374.48163"></viz:position>
+        <viz:position x="-787.2251" y="337.55353"></viz:position>
         <viz:color r="240" g="223" b="0"></viz:color>
       </node>
       <node id="27408906304" label="VALTER RIBEIRO FONTINELE">
@@ -499,7 +499,7 @@
           <attvalue for="distance" value="2"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-204.29752" y="202.14388"></viz:position>
+        <viz:position x="-220.70432" y="162.04062"></viz:position>
         <viz:color r="22" g="10" b="255"></viz:color>
       </node>
       <node id="06302166497" label="ROBSON MACHADO LIMA">
@@ -543,7 +543,7 @@
           <attvalue for="distance" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-281.70038" y="246.50922"></viz:position>
+        <viz:position x="-327.14835" y="249.34984"></viz:position>
         <viz:color r="22" g="10" b="255"></viz:color>
       </node>
       <node id="13386943403" label="DERIVAN FELIPE PEREIRA FILHO">
@@ -565,7 +565,7 @@
           <attvalue for="distance" value="1"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-204.74763" y="-382.1761"></viz:position>
+        <viz:position x="-218.95013" y="-365.13162"></viz:position>
         <viz:color r="22" g="10" b="255"></viz:color>
       </node>
       <node id="30862604400" label="ROSICLEIDE LINS ANGELO PEREIRA">
@@ -587,7 +587,7 @@
           <attvalue for="distance" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-300.31177" y="-59.06313"></viz:position>
+        <viz:position x="-257.7006" y="-215.29736"></viz:position>
         <viz:color r="22" g="10" b="255"></viz:color>
       </node>
       <node id="01461954428" label="MARIA HELENA MEDEIROS MACHADO">
@@ -664,7 +664,7 @@
           <attvalue for="distance" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="275.87225" y="-186.6119"></viz:position>
+        <viz:position x="277.29263" y="-173.82854"></viz:position>
         <viz:color r="22" g="10" b="255"></viz:color>
       </node>
       <node id="12272400400" label="ARTUR LINS ANGELO">
@@ -686,7 +686,7 @@
           <attvalue for="distance" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-511.07196" y="-402.61215"></viz:position>
+        <viz:position x="-515.33307" y="-456.58163"></viz:position>
         <viz:color r="22" g="10" b="255"></viz:color>
       </node>
       <node id="19823673420" label="MARIA DE FATIMA GOMES DE OLIVEIRA">
@@ -763,7 +763,7 @@
           <attvalue for="distance" value="2"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="125.557655" y="-206.17615"></viz:position>
+        <viz:position x="98.947784" y="-166.104"></viz:position>
         <viz:color r="22" g="10" b="255"></viz:color>
       </node>
       <node id="48201065387" label="FRANCISCO RIBEIRO FONTINELE">
@@ -906,7 +906,7 @@
           <attvalue for="distance" value="2"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-189.36938" y="200.88106"></viz:position>
+        <viz:position x="-162.02473" y="171.71506"></viz:position>
         <viz:color r="22" g="10" b="255"></viz:color>
       </node>
       <node id="32347626434" label="DERIVAN FELIPE PEREIRA">
@@ -950,7 +950,7 @@
           <attvalue for="distance" value="4"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-646.33014" y="-404.765"></viz:position>
+        <viz:position x="-647.7504" y="-504.1825"></viz:position>
         <viz:color r="224" g="0" b="34"></viz:color>
       </node>
       <node id="09379907000188" label="ABA CLARA MIDIAS DE INFORMATICA LTDA - ME">
@@ -994,7 +994,7 @@
           <attvalue for="distance" value="4"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="401.37985" y="-189.4133"></viz:position>
+        <viz:position x="402.80023" y="-162.42621"></viz:position>
         <viz:color r="224" g="0" b="34"></viz:color>
       </node>
       <node id="08993917000146" label="MUNICIPIO DE CAMPINA GRANDE">
@@ -1016,7 +1016,7 @@
           <attvalue for="distance" value="3"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-328.08557" y="-761.526"></viz:position>
+        <viz:position x="-356.49054" y="-738.80005"></viz:position>
         <viz:color r="224" g="0" b="34"></viz:color>
       </node>
       <node id="04506364000107" label="WFB PORTAL DAS MIDIAS LTDA - ME">
@@ -1060,7 +1060,7 @@
           <attvalue for="distance" value="4"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-545.8577" y="-257.34756"></viz:position>
+        <viz:position x="-639.6023" y="-423.51675"></viz:position>
         <viz:color r="224" g="0" b="34"></viz:color>
       </node>
       <node id="05342117000177" label="BBA - 57 STAR MIDIA LTDA - ME">
@@ -1104,7 +1104,7 @@
           <attvalue for="distance" value="4"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="320.85764" y="-437.7921"></viz:position>
+        <viz:position x="400.3985" y="-383.81796"></viz:position>
         <viz:color r="224" g="0" b="34"></viz:color>
       </node>
       <node id="13890582000170" label="VALTER RIBEIRO FONTINELE 34232850368">
