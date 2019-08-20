@@ -35521,7 +35521,7 @@
       <edge id="112" source="51115794191" target="21423776291" label="PAI/PADRASTO"></edge>
       <edge id="114" source="11942690282" target="01159084000173" label="socio de"></edge>
       <edge id="115" source="25993127287" target="10565342000102" label="socio de"></edge>
-      <edge id="117" source="06763128886" target="36770868849" label="M�E/MADRASTA"></edge>
+      <edge id="117" source="06763128886" target="36770868849" label="MAE/MADRASTA"></edge>
       <edge id="118" source="62437852972" target="33008210880" label="PAI"></edge>
       <edge id="119" source="84120823000140" target="03442357268" label="possui no quadro societario"></edge>
       <edge id="120" source="56488254200" target="24271241253" label="MAE"></edge>
@@ -35541,7 +35541,7 @@
       <edge id="138" source="28528743268" target="40486281272" label="FILHO/ENTEADO"></edge>
       <edge id="139" source="90957954204" target="17122802000177" label="empregado de"></edge>
       <edge id="140" source="15794159000100" target="00695130234" label="possui no quadro societario"></edge>
-      <edge id="141" source="63511703549" target="00273849263" label="M�E/MADRASTA"></edge>
+      <edge id="141" source="63511703549" target="00273849263" label="MAE/MADRASTA"></edge>
       <edge id="142" source="01477849211" target="61791679234" label="FILHO/ENTEADO"></edge>
       <edge id="144" source="00733491359" target="03702896333" label="MAE"></edge>
       <edge id="145" source="07807651253" target="33615837215" label="MAE"></edge>
@@ -35552,12 +35552,12 @@
       <edge id="150" source="34458719220" target="95253874291" label="PAI"></edge>
       <edge id="151" source="23842520204" target="15536394991" label="FILHO/ENTEADO"></edge>
       <edge id="152" source="36283010091" target="32320671072" label="CONJUGE/COMPANHEIRO"></edge>
-      <edge id="154" source="13884611291" target="00016154240" label="M�E/MADRASTA"></edge>
+      <edge id="154" source="13884611291" target="00016154240" label="MAE/MADRASTA"></edge>
       <edge id="156" source="61791679234" target="15995291220" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="157" source="92499511249" target="09376852000152" label="empregado de"></edge>
       <edge id="159" source="39192938434" target="30314089420" label="FILHO"></edge>
       <edge id="160" source="85369853215" target="19359128287" label="FILHO"></edge>
-      <edge id="161" source="00340776854" target="51987392272" label="M�E/MADRASTA"></edge>
+      <edge id="161" source="00340776854" target="51987392272" label="MAE/MADRASTA"></edge>
       <edge id="162" source="00086557238" target="84010040001003" label="empregado de"></edge>
       <edge id="163" source="05687167366" target="04580623000131" label="empregado de"></edge>
       <edge id="164" source="37500767234" target="01304371239" label="PAI"></edge>
@@ -35578,7 +35578,7 @@
       <edge id="182" source="07649419000118" target="82801690244" label="possui no quadro societario"></edge>
       <edge id="183" source="39192938434" target="00713219262" label="PAI/PADRASTO"></edge>
       <edge id="184" source="87394910210" target="34336095272" label="MAE"></edge>
-      <edge id="185" source="61791679234" target="70299497224" label="M�E/MADRASTA"></edge>
+      <edge id="185" source="61791679234" target="70299497224" label="MAE/MADRASTA"></edge>
       <edge id="188" source="04171651000103" target="39965023204" label="possui no quadro societario"></edge>
       <edge id="189" source="29452996587" target="88486028272" label="PAI"></edge>
       <edge id="192" source="03154726268" target="05457395000170" label="socio de"></edge>
@@ -35619,7 +35619,7 @@
       <edge id="235" source="97222755004" target="12153603000102" label="empregado de"></edge>
       <edge id="236" source="88800318215" target="02534145398" label="FILHO"></edge>
       <edge id="237" source="44159404200" target="06113845311" label="MAE"></edge>
-      <edge id="238" source="32320671072" target="24604765820" label="M�E/MADRASTA"></edge>
+      <edge id="238" source="32320671072" target="24604765820" label="MAE/MADRASTA"></edge>
       <edge id="239" source="74336894272" target="06522440253" label="FILHO/ENTEADO"></edge>
       <edge id="240" source="13553216204" target="06497210474" label="PAI"></edge>
       <edge id="241" source="27421627553" target="32993307568" label="PAI"></edge>
@@ -35704,7 +35704,7 @@
       <edge id="341" source="34459634287" target="03676560272" label="FILHO"></edge>
       <edge id="343" source="25711644220" target="95816089234" label="PAI"></edge>
       <edge id="345" source="05252032300" target="04064151372" label="FILHO/ENTEADO"></edge>
-      <edge id="347" source="06040985291" target="19375697215" label="M�E/MADRASTA"></edge>
+      <edge id="347" source="06040985291" target="19375697215" label="MAE/MADRASTA"></edge>
       <edge id="348" source="42971955850" target="32649739878" label="FILHO"></edge>
       <edge id="350" source="28454340220" target="79818366204" label="MAE"></edge>
       <edge id="351" source="02696392250" target="07511728200" label="FILHO/ENTEADO"></edge>
@@ -35744,7 +35744,7 @@
       <edge id="397" source="16329791287" target="08087862457" label="PAI"></edge>
       <edge id="398" source="84233982349" target="04503592475" label="MAE"></edge>
       <edge id="399" source="20298455234" target="15269920000187" label="socio de"></edge>
-      <edge id="400" source="73278050282" target="51821702204" label="M�E/MADRASTA"></edge>
+      <edge id="400" source="73278050282" target="51821702204" label="MAE/MADRASTA"></edge>
       <edge id="401" source="26999340200" target="04243978000135" label="empregado de"></edge>
       <edge id="402" source="03720399281" target="58806385291" label="FILHO/ENTEADO"></edge>
       <edge id="404" source="05274086624" target="04352606693" label="MAE"></edge>
@@ -35757,14 +35757,14 @@
       <edge id="415" source="47595370230" target="08475819000117" label="socio de"></edge>
       <edge id="416" source="99546540382" target="04054045308" label="MAE"></edge>
       <edge id="417" source="95540741587" target="28196325568" label="CONJUGE/COMPANHEIRO"></edge>
-      <edge id="418" source="13884611291" target="02928662243" label="M�E/MADRASTA"></edge>
+      <edge id="418" source="13884611291" target="02928662243" label="MAE/MADRASTA"></edge>
       <edge id="419" source="27365018291" target="63741060000185" label="socio de"></edge>
       <edge id="420" source="14250667200" target="06912834272" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="421" source="02446833000106" target="88422232804" label="possui no quadro societario"></edge>
       <edge id="422" source="86234080634" target="05979512683" label="PAI"></edge>
       <edge id="423" source="77174860249" target="41576721353" label="FILHO/ENTEADO"></edge>
       <edge id="425" source="23020040272" target="05274086624" label="FILHO/ENTEADO"></edge>
-      <edge id="427" source="13303181888" target="13040811843" label="M�E/MADRASTA"></edge>
+      <edge id="427" source="13303181888" target="13040811843" label="MAE/MADRASTA"></edge>
       <edge id="428" source="21539472272" target="78336520244" label="MAE"></edge>
       <edge id="429" source="68888228268" target="23732890000202" label="empregado de"></edge>
       <edge id="430" source="85369853215" target="03506142291" label="FILHO/ENTEADO"></edge>
@@ -35809,7 +35809,7 @@
       <edge id="485" source="00453023000151" target="23998954287" label="possui no quadro societario"></edge>
       <edge id="486" source="33633045287" target="07666567000736" label="empregado de"></edge>
       <edge id="487" source="58192670287" target="63741979000179" label="socio de"></edge>
-      <edge id="488" source="33676909291" target="26533671812" label="M�E/MADRASTA"></edge>
+      <edge id="488" source="33676909291" target="26533671812" label="MAE/MADRASTA"></edge>
       <edge id="489" source="94458170287" target="13511696291" label="FILHO/ENTEADO"></edge>
       <edge id="490" source="36283010091" target="42700485734" label="FILHO/ENTEADO"></edge>
       <edge id="491" source="33476799204" target="96579005220" label="MAE"></edge>
@@ -35828,7 +35828,7 @@
       <edge id="507" source="04278057000108" target="01098411234" label="possui no quadro societario"></edge>
       <edge id="508" source="00713219262" target="27369560287" label="FILHO/ENTEADO"></edge>
       <edge id="509" source="35474034806" target="32649739878" label="MAE"></edge>
-      <edge id="511" source="43009050887" target="06179580847" label="M�E/MADRASTA"></edge>
+      <edge id="511" source="43009050887" target="06179580847" label="MAE/MADRASTA"></edge>
       <edge id="512" source="14515832000155" target="47630884249" label="possui no quadro societario"></edge>
       <edge id="513" source="65043197234" target="03921066204" label="MAE"></edge>
       <edge id="514" source="70311318207" target="87985675272" label="FILHO"></edge>
@@ -35904,7 +35904,7 @@
       <edge id="609" source="15501728672" target="20080972691" label="FILHO"></edge>
       <edge id="610" source="47567775204" target="34304860259" label="MAE"></edge>
       <edge id="611" source="46448250263" target="52464210234" label="MAE"></edge>
-      <edge id="612" source="73278050282" target="00128115211" label="M�E/MADRASTA"></edge>
+      <edge id="612" source="73278050282" target="00128115211" label="MAE/MADRASTA"></edge>
       <edge id="613" source="16018605287" target="00697295000105" label="empregado de"></edge>
       <edge id="614" source="04287114000115" target="72912588200" label="possui no quadro societario"></edge>
       <edge id="615" source="40573753172" target="08628149104" label="FILHO/ENTEADO"></edge>
@@ -35912,7 +35912,7 @@
       <edge id="617" source="27295605215" target="03617452000105" label="socio de"></edge>
       <edge id="618" source="11368890000105" target="41382196253" label="possui no quadro societario"></edge>
       <edge id="620" source="19277890282" target="86850520253" label="FILHO"></edge>
-      <edge id="621" source="40762114215" target="94528527200" label="M�E/MADRASTA"></edge>
+      <edge id="621" source="40762114215" target="94528527200" label="MAE/MADRASTA"></edge>
       <edge id="623" source="69459371353" target="07032978000184" label="empregado de"></edge>
       <edge id="624" source="24131750244" target="01408220202" label="PAI"></edge>
       <edge id="625" source="80148697291" target="27583740215" label="FILHO/ENTEADO"></edge>
@@ -35955,11 +35955,11 @@
       <edge id="671" source="44857080206" target="05854633000180" label="empregado de"></edge>
       <edge id="673" source="44438850215" target="03026389200" label="PAI"></edge>
       <edge id="675" source="05295433000135" target="77506324253" label="possui como funcionario"></edge>
-      <edge id="678" source="21406952249" target="30946686823" label="M�E/MADRASTA"></edge>
+      <edge id="678" source="21406952249" target="30946686823" label="MAE/MADRASTA"></edge>
       <edge id="679" source="33627541200" target="02324454270" label="PAI/PADRASTO"></edge>
       <edge id="681" source="34702687204" target="00958245290" label="PAI"></edge>
       <edge id="682" source="22778930000103" target="74243730210" label="possui no quadro societario"></edge>
-      <edge id="684" source="17093012876" target="07218858880" label="M�E/MADRASTA"></edge>
+      <edge id="684" source="17093012876" target="07218858880" label="MAE/MADRASTA"></edge>
       <edge id="686" source="01333776284" target="70501982264" label="MAE"></edge>
       <edge id="688" source="47657898291" target="06039360000183" label="socio de"></edge>
       <edge id="689" source="63235668268" target="05404876271" label="MAE"></edge>
@@ -36046,7 +36046,7 @@
       <edge id="796" source="45584370215" target="97193712268" label="PAI/PADRASTO"></edge>
       <edge id="798" source="41676831215" target="18256970278" label="FILHO"></edge>
       <edge id="800" source="02395593206" target="04503660000146" label="empregado de"></edge>
-      <edge id="801" source="61833878272" target="54513804220" label="M�E/MADRASTA"></edge>
+      <edge id="801" source="61833878272" target="54513804220" label="MAE/MADRASTA"></edge>
       <edge id="803" source="70332231704" target="92871844291" label="PAI"></edge>
       <edge id="804" source="33722609291" target="19277890282" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="805" source="73061310282" target="01358970000126" label="empregado de"></edge>
@@ -36055,7 +36055,7 @@
       <edge id="811" source="18155332420" target="06500309405" label="MAE"></edge>
       <edge id="812" source="65453123249" target="11455489204" label="FILHO"></edge>
       <edge id="813" source="37695762415" target="06852932000149" label="socio de"></edge>
-      <edge id="814" source="32320671072" target="68799810972" label="M�E/MADRASTA"></edge>
+      <edge id="814" source="32320671072" target="68799810972" label="MAE/MADRASTA"></edge>
       <edge id="815" source="34662995272" target="53374800220" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="816" source="92499511249" target="14640155204" label="FILHO"></edge>
       <edge id="817" source="47645164204" target="69368988234" label="CONJUGE/COMPANHEIRO"></edge>
@@ -36101,7 +36101,7 @@
       <edge id="868" source="51071665391" target="70081140363" label="MAE"></edge>
       <edge id="869" source="69716528272" target="04263972821" label="FILHO/ENTEADO"></edge>
       <edge id="870" source="63235668268" target="27549097291" label="FILHO"></edge>
-      <edge id="871" source="17093012876" target="22319325808" label="M�E/MADRASTA"></edge>
+      <edge id="871" source="17093012876" target="22319325808" label="MAE/MADRASTA"></edge>
       <edge id="872" source="11194146287" target="04779235260" label="PAI"></edge>
       <edge id="873" source="13586920253" target="13287127000185" label="empregado de"></edge>
       <edge id="874" source="02806213000130" target="02671662220" label="possui no quadro societario"></edge>
@@ -36180,7 +36180,7 @@
       <edge id="975" source="79779379215" target="02590671210" label="MAE"></edge>
       <edge id="976" source="09075742000150" target="rais_5916570137" label="possui como funcionario"></edge>
       <edge id="977" source="84233982349" target="04584522464" label="MAE"></edge>
-      <edge id="979" source="06763128886" target="97222755004" label="M�E/MADRASTA"></edge>
+      <edge id="979" source="06763128886" target="97222755004" label="MAE/MADRASTA"></edge>
       <edge id="980" source="98206109234" target="20843485000192" label="empregado de"></edge>
       <edge id="981" source="72980052353" target="16110870234" label="FILHO"></edge>
       <edge id="982" source="13529889334" target="04503592475" label="PAI/PADRASTO"></edge>
@@ -36194,7 +36194,7 @@
       <edge id="994" source="04171651000103" target="48323713200" label="possui no quadro societario"></edge>
       <edge id="995" source="22443665291" target="15820681000101" label="socio de"></edge>
       <edge id="996" source="13052756249" target="83586997272" label="PAI"></edge>
-      <edge id="997" source="43009050887" target="47583271819" label="M�E/MADRASTA"></edge>
+      <edge id="997" source="43009050887" target="47583271819" label="MAE/MADRASTA"></edge>
       <edge id="998" source="25257463253" target="99738023220" label="MAE"></edge>
       <edge id="999" source="00549206205" target="10976424000140" label="empregado de"></edge>
       <edge id="1000" source="36283010091" target="07132393871" label="PAI/PADRASTO"></edge>
@@ -36217,7 +36217,7 @@
       <edge id="1032" source="04755065000106" target="27533808800" label="possui no quadro societario"></edge>
       <edge id="1033" source="63801682000151" target="rais_6826816176" label="possui como funcionario"></edge>
       <edge id="1035" source="12689219000129" target="61635871387" label="possui no quadro societario"></edge>
-      <edge id="1036" source="13627350278" target="64820823272" label="M�E/MADRASTA"></edge>
+      <edge id="1036" source="13627350278" target="64820823272" label="MAE/MADRASTA"></edge>
       <edge id="1038" source="14788640287" target="14904446291" label="CONJUGE"></edge>
       <edge id="1039" source="56488254200" target="41287908268" label="MAE"></edge>
       <edge id="1040" source="26532068896" target="33676909291" label="FILHO/ENTEADO"></edge>
@@ -36243,7 +36243,7 @@
       <edge id="1077" source="04867995000143" target="34459600200" label="possui no quadro societario"></edge>
       <edge id="1078" source="04263972821" target="11768790655" label="PAI"></edge>
       <edge id="1079" source="02446833000106" target="00969638248" label="possui como funcionario"></edge>
-      <edge id="1080" source="06763128886" target="13040811843" label="M�E/MADRASTA"></edge>
+      <edge id="1080" source="06763128886" target="13040811843" label="MAE/MADRASTA"></edge>
       <edge id="1081" source="06265480200" target="02977958215" label="MAE"></edge>
       <edge id="1082" source="05580464000138" target="33740674253" label="possui no quadro societario"></edge>
       <edge id="1083" source="19277890282" target="28417488200" label="MAE"></edge>
@@ -36258,7 +36258,7 @@
       <edge id="1095" source="05456587130" target="79201776187" label="FILHO"></edge>
       <edge id="1096" source="69837929200" target="11208963805" label="FILHO/ENTEADO"></edge>
       <edge id="1097" source="31734529253" target="04312419000130" label="empregado de"></edge>
-      <edge id="1099" source="92499511249" target="51793245215" label="M�E/MADRASTA"></edge>
+      <edge id="1099" source="92499511249" target="51793245215" label="MAE/MADRASTA"></edge>
       <edge id="1100" source="23011281000183" target="13072129215" label="possui no quadro societario"></edge>
       <edge id="1101" source="09582302429" target="24353188000110" label="socio de"></edge>
       <edge id="1102" source="03676560272" target="21306176204" label="MAE"></edge>
@@ -36285,14 +36285,14 @@
       <edge id="1127" source="78669634287" target="04206050000180" label="empregado de"></edge>
       <edge id="1129" source="78336520244" target="05628011207" label="MAE"></edge>
       <edge id="1130" source="27421627553" target="69765820534" label="PAI"></edge>
-      <edge id="1131" source="04977378253" target="52436420297" label="M�E/MADRASTA"></edge>
+      <edge id="1131" source="04977378253" target="52436420297" label="MAE/MADRASTA"></edge>
       <edge id="1132" source="26533671812" target="15536394991" label="FILHO/ENTEADO"></edge>
       <edge id="1133" source="19234234000121" target="rais_3792054158" label="possui como funcionario"></edge>
       <edge id="1134" source="28975766004" target="32209124000178" label="socio de"></edge>
       <edge id="1135" source="20235941204" target="11105542220" label="FILHO"></edge>
       <edge id="1136" source="00772806284" target="03941119000157" label="empregado de"></edge>
       <edge id="1137" source="20045921253" target="06899036000135" label="socio de"></edge>
-      <edge id="1138" source="32320671072" target="47583271819" label="M�E/MADRASTA"></edge>
+      <edge id="1138" source="32320671072" target="47583271819" label="MAE/MADRASTA"></edge>
       <edge id="1139" source="18476562268" target="18101860215" label="FILHO"></edge>
       <edge id="1140" source="40762114215" target="33676909291" label="FILHO"></edge>
       <edge id="1143" source="47346604253" target="05765341292" label="MAE"></edge>
@@ -36310,7 +36310,7 @@
       <edge id="1161" source="04115571000122" target="02811289879" label="possui como funcionario"></edge>
       <edge id="1162" source="04104340278" target="20089040244" label="PAI"></edge>
       <edge id="1164" source="31390110249" target="24269859253" label="CONJUGE/COMPANHEIRO"></edge>
-      <edge id="1165" source="63511703549" target="74943359272" label="M�E/MADRASTA"></edge>
+      <edge id="1165" source="63511703549" target="74943359272" label="MAE/MADRASTA"></edge>
       <edge id="1166" source="19097056000134" target="01200446259" label="possui no quadro societario"></edge>
       <edge id="1167" source="54573416234" target="04120698220" label="FILHO/ENTEADO"></edge>
       <edge id="1169" source="68365888220" target="12135181000142" label="empregado de"></edge>
@@ -36339,14 +36339,14 @@
       <edge id="1202" source="15995291220" target="04263972821" label="FILHO/ENTEADO"></edge>
       <edge id="1204" source="15536394991" target="91076374972" label="PAI"></edge>
       <edge id="1207" source="04827697000120" target="00695130234" label="possui no quadro societario"></edge>
-      <edge id="1208" source="73278050282" target="01717704204" label="M�E/MADRASTA"></edge>
+      <edge id="1208" source="73278050282" target="01717704204" label="MAE/MADRASTA"></edge>
       <edge id="1209" source="86234080634" target="09410637635" label="PAI"></edge>
       <edge id="1210" source="07511728200" target="52436420297" label="PAI"></edge>
       <edge id="1211" source="65521943234" target="45584370215" label="FILHO/ENTEADO"></edge>
       <edge id="1212" source="18405436200" target="08197935000111" label="socio de"></edge>
       <edge id="1213" source="18277330200" target="60106565249" label="PAI/PADRASTO"></edge>
       <edge id="1214" source="01622497210" target="98242431272" label="FILHO"></edge>
-      <edge id="1215" source="28196325568" target="99208822591" label="M�E/MADRASTA"></edge>
+      <edge id="1215" source="28196325568" target="99208822591" label="MAE/MADRASTA"></edge>
       <edge id="1216" source="26286220330" target="07954514000125" label="empregado de"></edge>
       <edge id="1217" source="04822364000108" target="rais_2880935428" label="possui como funcionario"></edge>
       <edge id="1218" source="05159093273" target="75633418204" label="FILHO"></edge>
@@ -36356,7 +36356,7 @@
       <edge id="1222" source="10378403000122" target="34569154204" label="possui no quadro societario"></edge>
       <edge id="1223" source="96686340804" target="04051657221" label="PAI"></edge>
       <edge id="1225" source="04829236000196" target="rais_4276392141" label="possui como funcionario"></edge>
-      <edge id="1226" source="20108087204" target="34728910253" label="M�E/MADRASTA"></edge>
+      <edge id="1226" source="20108087204" target="34728910253" label="MAE/MADRASTA"></edge>
       <edge id="1227" source="66294622204" target="04280196000176" label="empregado de"></edge>
       <edge id="1228" source="04364050000109" target="rais_2020686170" label="possui como funcionario"></edge>
       <edge id="1229" source="04421679976" target="07074791000143" label="socio de"></edge>
@@ -36387,7 +36387,7 @@
       <edge id="1265" source="50054651387" target="70037483129" label="MAE"></edge>
       <edge id="1267" source="03860869000102" target="rais_2470399675" label="possui como funcionario"></edge>
       <edge id="1269" source="57415730291" target="70287061256" label="PAI/PADRASTO"></edge>
-      <edge id="1272" source="32320671072" target="07218858880" label="M�E/MADRASTA"></edge>
+      <edge id="1272" source="32320671072" target="07218858880" label="MAE/MADRASTA"></edge>
       <edge id="1273" source="04072302201" target="58806385291" label="FILHO/ENTEADO"></edge>
       <edge id="1276" source="34457909220" target="01691778230" label="MAE"></edge>
       <edge id="1278" source="04064151372" target="38268884304" label="C�NJUGE/COMPANHEIRA"></edge>
@@ -36448,8 +36448,8 @@
       <edge id="1363" source="73278050282" target="02050778000130" label="empregado de"></edge>
       <edge id="1364" source="63708689000123" target="03150887291" label="possui no quadro societario"></edge>
       <edge id="1367" source="00082126275" target="20043791204" label="FILHO"></edge>
-      <edge id="1369" source="27549097291" target="02578284431" label="M�E/MADRASTA"></edge>
-      <edge id="1370" source="43009050887" target="43041941864" label="M�E/MADRASTA"></edge>
+      <edge id="1369" source="27549097291" target="02578284431" label="MAE/MADRASTA"></edge>
+      <edge id="1370" source="43009050887" target="43041941864" label="MAE/MADRASTA"></edge>
       <edge id="1371" source="20020490259" target="57252335291" label="FILHO/ENTEADO"></edge>
       <edge id="1372" source="20095163204" target="02737033233" label="MAE"></edge>
       <edge id="1374" source="51115794191" target="44593457149" label="PAI/PADRASTO"></edge>
@@ -36465,7 +36465,7 @@
       <edge id="1387" source="63250810215" target="16110870234" label="FILHO"></edge>
       <edge id="1389" source="04657037000148" target="02977958215" label="possui no quadro societario"></edge>
       <edge id="1391" source="04079974000163" target="rais_2149319890" label="possui como funcionario"></edge>
-      <edge id="1392" source="33917906287" target="02387380517" label="M�E/MADRASTA"></edge>
+      <edge id="1392" source="33917906287" target="02387380517" label="MAE/MADRASTA"></edge>
       <edge id="1394" source="46451412368" target="03035893373" label="MAE"></edge>
       <edge id="1395" source="13072129215" target="23011281000183" label="socio de"></edge>
       <edge id="1396" source="93249500968" target="03529846000101" label="empregado de"></edge>
@@ -36561,7 +36561,7 @@
       <edge id="1522" source="33627541200" target="06231800000108" label="é contador da empresa (PF)"></edge>
       <edge id="1523" source="52116409934" target="45584370215" label="FILHO/ENTEADO"></edge>
       <edge id="1524" source="72869585268" target="00411931210" label="PAI"></edge>
-      <edge id="1526" source="13303181888" target="69837929200" label="M�E/MADRASTA"></edge>
+      <edge id="1526" source="13303181888" target="69837929200" label="MAE/MADRASTA"></edge>
       <edge id="1528" source="33627541200" target="02784366000124" label="é contador da empresa (PF)"></edge>
       <edge id="1529" source="35080532882" target="18809336000165" label="socio de"></edge>
       <edge id="1530" source="16070801253" target="04971250000120" label="socio de"></edge>
@@ -36572,7 +36572,7 @@
       <edge id="1535" source="69837929200" target="17093012876" label="FILHO/ENTEADO"></edge>
       <edge id="1536" source="59319739234" target="03516669233" label="PAI"></edge>
       <edge id="1537" source="07807651253" target="05487673000131" label="socio de"></edge>
-      <edge id="1538" source="28196325568" target="13024000291" label="M�E/MADRASTA"></edge>
+      <edge id="1538" source="28196325568" target="13024000291" label="MAE/MADRASTA"></edge>
       <edge id="1540" source="23189196000100" target="63250810215" label="possui no quadro societario"></edge>
       <edge id="1541" source="61791679234" target="04946991000150" label="socio de"></edge>
       <edge id="1543" source="62993283200" target="15269920000187" label="socio de"></edge>
@@ -36605,7 +36605,7 @@
       <edge id="1577" source="07544627000152" target="rais_9392581748" label="possui como funcionario"></edge>
       <edge id="1579" source="11194146287" target="00094814430" label="PAI/PADRASTO"></edge>
       <edge id="1580" source="61087769272" target="05710783200" label="PAI/PADRASTO"></edge>
-      <edge id="1581" source="43009050887" target="24604765820" label="M�E/MADRASTA"></edge>
+      <edge id="1581" source="43009050887" target="24604765820" label="MAE/MADRASTA"></edge>
       <edge id="1585" source="15083845849" target="13273849819" label="PAI/PADRASTO"></edge>
       <edge id="1586" source="11306998204" target="04955824000176" label="socio de"></edge>
       <edge id="1587" source="03572676215" target="92037542291" label="PAI/PADRASTO"></edge>
@@ -36673,7 +36673,7 @@
       <edge id="1663" source="02683299000151" target="56576897472" label="possui no quadro societario"></edge>
       <edge id="1664" source="07511728200" target="07745598000197" label="empregado de"></edge>
       <edge id="1665" source="13553216204" target="23896841220" label="FILHO/ENTEADO"></edge>
-      <edge id="1666" source="11208963805" target="68799810972" label="M�E/MADRASTA"></edge>
+      <edge id="1666" source="11208963805" target="68799810972" label="MAE/MADRASTA"></edge>
       <edge id="1667" source="14250667200" target="51923874268" label="MAE"></edge>
       <edge id="1669" source="24131750244" target="74495771272" label="PAI"></edge>
       <edge id="1672" source="08934843268" target="18503227835" label="PAI/PADRASTO"></edge>
@@ -36683,7 +36683,7 @@
       <edge id="1681" source="31769152253" target="04641909000180" label="empregado de"></edge>
       <edge id="1682" source="99335085200" target="04503504000185" label="empregado de"></edge>
       <edge id="1684" source="21940339472" target="28171870406" label="MAE"></edge>
-      <edge id="1686" source="04737353345" target="02578284431" label="M�E/MADRASTA"></edge>
+      <edge id="1686" source="04737353345" target="02578284431" label="MAE/MADRASTA"></edge>
       <edge id="1687" source="33740674253" target="05580464000138" label="socio de"></edge>
       <edge id="1690" source="29749239415" target="05992000000139" label="socio de"></edge>
       <edge id="1691" source="23035470000196" target="rais_2477012425" label="possui como funcionario"></edge>
@@ -36742,7 +36742,7 @@
       <edge id="1765" source="21406952249" target="50893882291" label="MAE"></edge>
       <edge id="1766" source="69888930249" target="53048962204" label="MAE"></edge>
       <edge id="1768" source="83586997272" target="13052756249" label="FILHO/ENTEADO"></edge>
-      <edge id="1769" source="32320671072" target="13040811843" label="M�E/MADRASTA"></edge>
+      <edge id="1769" source="32320671072" target="13040811843" label="MAE/MADRASTA"></edge>
       <edge id="1770" source="19316118000151" target="74943359272" label="possui no quadro societario"></edge>
       <edge id="1771" source="97280984304" target="30868475149" label="FILHO/ENTEADO"></edge>
       <edge id="1773" source="30868475149" target="64849880304" label="CONJUGE/COMPANHEIRO"></edge>
@@ -36776,14 +36776,14 @@
       <edge id="1814" source="23025190000105" target="rais_759560418" label="possui como funcionario"></edge>
       <edge id="1817" source="51618400215" target="27296610000" label="FILHO/ENTEADO"></edge>
       <edge id="1818" source="07347569000177" target="rais_2326070048" label="possui como funcionario"></edge>
-      <edge id="1819" source="26081237753" target="13493795220" label="M�E/MADRASTA"></edge>
+      <edge id="1819" source="26081237753" target="13493795220" label="MAE/MADRASTA"></edge>
       <edge id="1820" source="04322800220" target="05427349000128" label="socio de"></edge>
       <edge id="1822" source="11294290000140" target="36569003291" label="possui no quadro societario"></edge>
       <edge id="1823" source="19277890282" target="21306311268" label="MAE"></edge>
       <edge id="1824" source="70299497224" target="61791679234" label="FILHO/ENTEADO"></edge>
       <edge id="1825" source="21489580204" target="04497029280" label="MAE"></edge>
       <edge id="1826" source="16336133000173" target="18505392515" label="possui no quadro societario"></edge>
-      <edge id="1827" source="06763128886" target="35484319846" label="M�E/MADRASTA"></edge>
+      <edge id="1827" source="06763128886" target="35484319846" label="MAE/MADRASTA"></edge>
       <edge id="1830" source="05588464249" target="14056428000160" label="socio de"></edge>
       <edge id="1831" source="57252335291" target="70448476258" label="PAI"></edge>
       <edge id="1833" source="33676925220" target="55513000210" label="MAE"></edge>
@@ -36817,7 +36817,7 @@
       <edge id="1867" source="56488254200" target="22443665291" label="MAE"></edge>
       <edge id="1868" source="01789292395" target="51071665391" label="FILHO"></edge>
       <edge id="1869" source="51071665391" target="11329992000111" label="socio de"></edge>
-      <edge id="1870" source="11208963805" target="06179580847" label="M�E/MADRASTA"></edge>
+      <edge id="1870" source="11208963805" target="06179580847" label="MAE/MADRASTA"></edge>
       <edge id="1872" source="15819733000120" target="61011070278" label="possui no quadro societario"></edge>
       <edge id="1873" source="69888930249" target="00434379239" label="MAE"></edge>
       <edge id="1875" source="10483964000191" target="01968828346" label="possui no quadro societario"></edge>
@@ -36829,7 +36829,7 @@
       <edge id="1883" source="04349930000106" target="rais_7011584002" label="possui como funcionario"></edge>
       <edge id="1885" source="15536394991" target="65521943234" label="PAI/PADRASTO"></edge>
       <edge id="1889" source="15469350000179" target="83132422215" label="possui no quadro societario"></edge>
-      <edge id="1890" source="31726500225" target="00273849263" label="M�E/MADRASTA"></edge>
+      <edge id="1890" source="31726500225" target="00273849263" label="MAE/MADRASTA"></edge>
       <edge id="1892" source="61076414249" target="04062468000161" label="empregado de"></edge>
       <edge id="1893" source="6678069110" target="03475587000183" label="socio de"></edge>
       <edge id="1894" source="52436420297" target="07511728200" label="FILHO/ENTEADO"></edge>
@@ -36850,7 +36850,7 @@
       <edge id="1914" source="51821702204" target="19359128287" label="FILHO/ENTEADO"></edge>
       <edge id="1915" source="60080892272" target="07413289000110" label="socio de"></edge>
       <edge id="1917" source="17316609000177" target="00583352260" label="possui como funcionario"></edge>
-      <edge id="1919" source="05274086624" target="23020040272" label="M�E/MADRASTA"></edge>
+      <edge id="1919" source="05274086624" target="23020040272" label="MAE/MADRASTA"></edge>
       <edge id="1920" source="27552438215" target="65976207200" label="MAE"></edge>
       <edge id="1921" source="10918650000174" target="rais_2238561005" label="possui como funcionario"></edge>
       <edge id="1923" source="05246422000165" target="rais_3195427592" label="possui como funcionario"></edge>
@@ -36870,7 +36870,7 @@
       <edge id="1943" source="15639166000120" target="52924092272" label="possui no quadro societario"></edge>
       <edge id="1944" source="44609035200" target="04436257274" label="MAE"></edge>
       <edge id="1946" source="19359128287" target="87781689291" label="MAE"></edge>
-      <edge id="1947" source="00340776854" target="15337026836" label="M�E/MADRASTA"></edge>
+      <edge id="1947" source="00340776854" target="15337026836" label="MAE/MADRASTA"></edge>
       <edge id="1948" source="33676909291" target="66972736234" label="MAE"></edge>
       <edge id="1950" source="20020490259" target="71031405291" label="FILHO"></edge>
       <edge id="1951" source="50054651387" target="23890162860" label="MAE"></edge>
@@ -36878,7 +36878,7 @@
       <edge id="1953" source="04829236000196" target="64793834272" label="possui no quadro societario"></edge>
       <edge id="1954" source="03150887291" target="28454340220" label="PAI"></edge>
       <edge id="1955" source="36877884000104" target="61606057120" label="possui no quadro societario"></edge>
-      <edge id="1957" source="11208963805" target="47583271819" label="M�E/MADRASTA"></edge>
+      <edge id="1957" source="11208963805" target="47583271819" label="MAE/MADRASTA"></edge>
       <edge id="1959" source="93249500968" target="33676909291" label="FILHO"></edge>
       <edge id="1960" source="63739973000167" target="10999795791" label="possui no quadro societario"></edge>
       <edge id="1962" source="15639166000120" target="32906544353" label="possui no quadro societario"></edge>
@@ -36901,7 +36901,7 @@
       <edge id="1983" source="18505392515" target="04391135558" label="MAE"></edge>
       <edge id="1985" source="57252335291" target="20020490259" label="PAI/PADRASTO"></edge>
       <edge id="1986" source="13030056000130" target="rais_5204317546" label="possui como funcionario"></edge>
-      <edge id="1987" source="26081237753" target="07622421758" label="M�E/MADRASTA"></edge>
+      <edge id="1987" source="26081237753" target="07622421758" label="MAE/MADRASTA"></edge>
       <edge id="1988" source="45668205215" target="03211236000165" label="empregado de"></edge>
       <edge id="1989" source="34075208400" target="74369752000160" label="socio de"></edge>
       <edge id="1990" source="10519360206" target="15995291220" label="MAE"></edge>
@@ -36917,11 +36917,11 @@
       <edge id="2003" source="61411027272" target="04622936000105" label="socio de"></edge>
       <edge id="2004" source="53764366168" target="02813324280" label="PAI"></edge>
       <edge id="2005" source="02714100000105" target="00099142260" label="possui no quadro societario"></edge>
-      <edge id="2008" source="00340776854" target="08636924863" label="M�E/MADRASTA"></edge>
+      <edge id="2008" source="00340776854" target="08636924863" label="MAE/MADRASTA"></edge>
       <edge id="2009" source="03757544000190" target="rais_1900228748" label="possui como funcionario"></edge>
       <edge id="2010" source="88802426600" target="07075909000158" label="empregado de"></edge>
       <edge id="2011" source="07851944287" target="05457395000170" label="socio de"></edge>
-      <edge id="2012" source="19359128287" target="51821702204" label="M�E/MADRASTA"></edge>
+      <edge id="2012" source="19359128287" target="51821702204" label="MAE/MADRASTA"></edge>
       <edge id="2013" source="30619874287" target="37400835220" label="MAE"></edge>
       <edge id="2014" source="07808968234" target="23832703268" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="2016" source="54949424300" target="04011875350" label="MAE"></edge>
@@ -36941,7 +36941,7 @@
       <edge id="2037" source="55894992834" target="33004540000100" label="empregado de"></edge>
       <edge id="2038" source="04358937268" target="15791338000186" label="socio de"></edge>
       <edge id="2039" source="78336520244" target="70356247406" label="MAE"></edge>
-      <edge id="2040" source="38268884304" target="26286220330" label="M�E/MADRASTA"></edge>
+      <edge id="2040" source="38268884304" target="26286220330" label="MAE/MADRASTA"></edge>
       <edge id="2041" source="15790348000105" target="04342500230" label="possui no quadro societario"></edge>
       <edge id="2042" source="09901825253" target="05588464249" label="PAI"></edge>
       <edge id="2043" source="79201776187" target="03507415000810" label="empregado de"></edge>
@@ -37002,7 +37002,7 @@
       <edge id="2121" source="21026381000158" target="81116470268" label="possui como funcionario"></edge>
       <edge id="2122" source="76234460291" target="04656015000163" label="empregado de"></edge>
       <edge id="2123" source="06852932000149" target="37695762415" label="possui no quadro societario"></edge>
-      <edge id="2124" source="28196325568" target="26375044200" label="M�E/MADRASTA"></edge>
+      <edge id="2124" source="28196325568" target="26375044200" label="MAE/MADRASTA"></edge>
       <edge id="2126" source="19097056000134" target="89577922287" label="possui no quadro societario"></edge>
       <edge id="2127" source="51491486287" target="65733479272" label="FILHO"></edge>
       <edge id="2128" source="52924092272" target="15639166000120" label="socio de"></edge>
@@ -37040,7 +37040,7 @@
       <edge id="2173" source="20658885200" target="03838340230" label="FILHO/ENTEADO"></edge>
       <edge id="2175" source="04929345000185" target="03942457253" label="possui no quadro societario"></edge>
       <edge id="2177" source="06247453000101" target="rais_981094153" label="possui como funcionario"></edge>
-      <edge id="2178" source="11208963805" target="69837929200" label="M�E/MADRASTA"></edge>
+      <edge id="2178" source="11208963805" target="69837929200" label="MAE/MADRASTA"></edge>
       <edge id="2179" source="04529103000102" target="16159802291" label="possui no quadro societario"></edge>
       <edge id="2180" source="02578284431" target="27549097291" label="FILHO/ENTEADO"></edge>
       <edge id="2181" source="01180975200" target="23984163215" label="FILHO/ENTEADO"></edge>
@@ -37094,9 +37094,9 @@
       <edge id="2246" source="15469350000179" target="98970364234" label="possui como funcionario"></edge>
       <edge id="2247" source="72649755253" target="13586920253" label="FILHO/ENTEADO"></edge>
       <edge id="2249" source="94458170287" target="13030056000130" label="socio de"></edge>
-      <edge id="2250" source="19359128287" target="32119550204" label="M�E/MADRASTA"></edge>
+      <edge id="2250" source="19359128287" target="32119550204" label="MAE/MADRASTA"></edge>
       <edge id="2252" source="98049100200" target="70248582224" label="MAE"></edge>
-      <edge id="2253" source="17093012876" target="36770868849" label="M�E/MADRASTA"></edge>
+      <edge id="2253" source="17093012876" target="36770868849" label="MAE/MADRASTA"></edge>
       <edge id="2255" source="20095163204" target="13039830287" label="FILHO"></edge>
       <edge id="2256" source="44505787249" target="00191779253" label="FILHO/ENTEADO"></edge>
       <edge id="2257" source="12256185000189" target="rais_8118065597" label="possui como funcionario"></edge>
@@ -37131,7 +37131,7 @@
       <edge id="2291" source="32098057253" target="51172020230" label="MAE"></edge>
       <edge id="2292" source="43009050887" target="70826824170" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="2293" source="63587858268" target="01281421200" label="MAE"></edge>
-      <edge id="2294" source="11208963805" target="04954238820" label="M�E/MADRASTA"></edge>
+      <edge id="2294" source="11208963805" target="04954238820" label="MAE/MADRASTA"></edge>
       <edge id="2296" source="25491992860" target="16967741870" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="2297" source="34573879234" target="29544416234" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="2298" source="04115571000122" target="11945710268" label="possui no quadro societario"></edge>
@@ -37155,7 +37155,7 @@
       <edge id="2321" source="06763128886" target="37051841807" label="MAE"></edge>
       <edge id="2322" source="01415255334" target="30988080125" label="PAI"></edge>
       <edge id="2323" source="25491992860" target="04284712934" label="FILHO/ENTEADO"></edge>
-      <edge id="2324" source="02755033215" target="70459088220" label="M�E/MADRASTA"></edge>
+      <edge id="2324" source="02755033215" target="70459088220" label="MAE/MADRASTA"></edge>
       <edge id="2325" source="41490320253" target="03042117375" label="PAI/PADRASTO"></edge>
       <edge id="2327" source="77258088253" target="10686685000125" label="socio de"></edge>
       <edge id="2328" source="02696392250" target="31726500225" label="FILHO"></edge>
@@ -37182,7 +37182,7 @@
       <edge id="2355" source="17977520000151" target="23337079253" label="possui no quadro societario"></edge>
       <edge id="2356" source="05992000000139" target="03430219272" label="possui no quadro societario"></edge>
       <edge id="2357" source="04737353345" target="61665052309" label="CONJUGE/COMPANHEIRO"></edge>
-      <edge id="2358" source="20108087204" target="44097778234" label="M�E/MADRASTA"></edge>
+      <edge id="2358" source="20108087204" target="44097778234" label="MAE/MADRASTA"></edge>
       <edge id="2359" source="43009050887" target="73763535853" label="MAE"></edge>
       <edge id="2360" source="27452425200" target="63634864249" label="PAI"></edge>
       <edge id="2361" source="06265480200" target="14250667200" label="MAE"></edge>
@@ -37194,14 +37194,14 @@
       <edge id="2368" source="01477849211" target="22238239200" label="FILHO/ENTEADO"></edge>
       <edge id="2369" source="36283010091" target="73763535853" label="PAI/PADRASTO"></edge>
       <edge id="2370" source="11051469287" target="63440709272" label="MAE"></edge>
-      <edge id="2371" source="13303181888" target="68799810972" label="M�E/MADRASTA"></edge>
+      <edge id="2371" source="13303181888" target="68799810972" label="MAE/MADRASTA"></edge>
       <edge id="2372" source="36283010091" target="17118669890" label="PAI/PADRASTO"></edge>
       <edge id="2373" source="56782977249" target="04655800259" label="MAE"></edge>
       <edge id="2377" source="05979512683" target="00512377127789" label="empregado de"></edge>
       <edge id="2379" source="04248685477" target="07692541442" label="MAE"></edge>
       <edge id="2380" source="63314959249" target="31523927291" label="FILHO"></edge>
       <edge id="2381" source="74943359272" target="19316118000151" label="socio de"></edge>
-      <edge id="2382" source="21956227504" target="11928190200" label="M�E/MADRASTA"></edge>
+      <edge id="2382" source="21956227504" target="11928190200" label="MAE/MADRASTA"></edge>
       <edge id="2383" source="07649419000118" target="11166967204" label="possui no quadro societario"></edge>
       <edge id="2384" source="63511703549" target="69888493272" label="MAE"></edge>
       <edge id="2385" source="13511696291" target="04974853000185" label="socio de"></edge>
@@ -37218,15 +37218,15 @@
       <edge id="2400" source="05517517000176" target="rais_5318414492" label="possui como funcionario"></edge>
       <edge id="2401" source="60080892272" target="20341482234" label="FILHO"></edge>
       <edge id="2402" source="01333776284" target="70501969241" label="MAE"></edge>
-      <edge id="2403" source="17093012876" target="43041941864" label="M�E/MADRASTA"></edge>
-      <edge id="2404" source="43009050887" target="36770868849" label="M�E/MADRASTA"></edge>
+      <edge id="2403" source="17093012876" target="43041941864" label="MAE/MADRASTA"></edge>
+      <edge id="2404" source="43009050887" target="36770868849" label="MAE/MADRASTA"></edge>
       <edge id="2405" source="00713219262" target="39192938434" label="FILHO/ENTEADO"></edge>
       <edge id="2406" source="60722331398" target="10616721234" label="FILHO"></edge>
       <edge id="2407" source="01047566320" target="00386812349" label="FILHO"></edge>
-      <edge id="2409" source="21956227504" target="07622421758" label="M�E/MADRASTA"></edge>
+      <edge id="2409" source="21956227504" target="07622421758" label="MAE/MADRASTA"></edge>
       <edge id="2410" source="33621764291" target="63657241000128" label="socio de"></edge>
       <edge id="2411" source="40573753172" target="03020401000100" label="empregado de"></edge>
-      <edge id="2412" source="11051493234" target="08087862457" label="M�E/MADRASTA"></edge>
+      <edge id="2412" source="11051493234" target="08087862457" label="MAE/MADRASTA"></edge>
       <edge id="2413" source="03171120000140" target="rais_7376357703" label="possui como funcionario"></edge>
       <edge id="2415" source="63891450206" target="02775582206" label="MAE"></edge>
       <edge id="2416" source="01027320198" target="96201444220" label="PAI"></edge>
@@ -37252,7 +37252,7 @@
       <edge id="2445" source="78460751287" target="04655800259" label="FILHO/ENTEADO"></edge>
       <edge id="2446" source="90612175200" target="06522440253" label="FILHO/ENTEADO"></edge>
       <edge id="2447" source="02609335202" target="52830934253" label="FILHO/ENTEADO"></edge>
-      <edge id="2448" source="43009050887" target="97222755004" label="M�E/MADRASTA"></edge>
+      <edge id="2448" source="43009050887" target="97222755004" label="MAE/MADRASTA"></edge>
       <edge id="2450" source="15536394991" target="52116409934" label="PAI/PADRASTO"></edge>
       <edge id="2451" source="05084399656" target="31637027672" label="FILHO"></edge>
       <edge id="2452" source="11805417000148" target="rais_5462163952" label="possui como funcionario"></edge>
@@ -37286,7 +37286,7 @@
       <edge id="2490" source="06515975287" target="02441477000219" label="empregado de"></edge>
       <edge id="2494" source="69888493272" target="63511703549" label="FILHO"></edge>
       <edge id="2496" source="33627541200" target="04603778000146" label="é contador da empresa (PF)"></edge>
-      <edge id="2497" source="13303181888" target="04954238820" label="M�E/MADRASTA"></edge>
+      <edge id="2497" source="13303181888" target="04954238820" label="MAE/MADRASTA"></edge>
       <edge id="2498" source="97342661368" target="05410906000106" label="socio de"></edge>
       <edge id="2499" source="62647369291" target="02112802240" label="MAE"></edge>
       <edge id="2500" source="04115571000122" target="44186428468" label="possui no quadro societario"></edge>
@@ -37299,7 +37299,7 @@
       <edge id="2510" source="28840291849" target="15536394991" label="FILHO/ENTEADO"></edge>
       <edge id="2511" source="18405436200" target="02446833000106" label="socio de"></edge>
       <edge id="2512" source="00016154240" target="25257463253" label="FILHO"></edge>
-      <edge id="2514" source="17093012876" target="04954238820" label="M�E/MADRASTA"></edge>
+      <edge id="2514" source="17093012876" target="04954238820" label="MAE/MADRASTA"></edge>
       <edge id="2515" source="33627541200" target="05508554000118" label="é contador da empresa (PF)"></edge>
       <edge id="2518" source="25482823253" target="04263972821" label="FILHO/ENTEADO"></edge>
       <edge id="2519" source="16339991220" target="06325166000164" label="socio de"></edge>
@@ -37315,7 +37315,7 @@
       <edge id="2534" source="03156206000101" target="33762600287" label="possui no quadro societario"></edge>
       <edge id="2535" source="03126663000145" target="rais_2418502881" label="possui como funcionario"></edge>
       <edge id="2536" source="00549206205" target="10976424000573" label="empregado de"></edge>
-      <edge id="2537" source="13303181888" target="06179580847" label="M�E/MADRASTA"></edge>
+      <edge id="2537" source="13303181888" target="06179580847" label="MAE/MADRASTA"></edge>
       <edge id="2538" source="52130150268" target="63753847291" label="PAI/PADRASTO"></edge>
       <edge id="2539" source="12471749720" target="14070889000198" label="socio de"></edge>
       <edge id="2542" source="02670364268" target="27526666249" label="MAE"></edge>
@@ -37379,7 +37379,7 @@
       <edge id="2613" source="61606057120" target="03387003234" label="FILHO"></edge>
       <edge id="2614" source="23011281000183" target="rais_2965460068" label="possui como funcionario"></edge>
       <edge id="2615" source="20043791204" target="03397055237" label="MAE"></edge>
-      <edge id="2617" source="02755033215" target="33524491200" label="M�E/MADRASTA"></edge>
+      <edge id="2617" source="02755033215" target="33524491200" label="MAE/MADRASTA"></edge>
       <edge id="2618" source="14417895000179" target="81548494291" label="possui no quadro societario"></edge>
       <edge id="2619" source="34702687204" target="34457330230" label="PAI"></edge>
       <edge id="2620" source="27452425200" target="63587858268" label="PAI"></edge>
@@ -37387,9 +37387,9 @@
       <edge id="2623" source="04391135558" target="29452996587" label="FILHO/ENTEADO"></edge>
       <edge id="2624" source="02578284431" target="21940339472" label="FILHO"></edge>
       <edge id="2625" source="11051469287" target="20498330249" label="MAE"></edge>
-      <edge id="2626" source="32428944215" target="68628587268" label="M�E/MADRASTA"></edge>
+      <edge id="2626" source="32428944215" target="68628587268" label="MAE/MADRASTA"></edge>
       <edge id="2627" source="02412955212" target="27452425200" label="FILHO/ENTEADO"></edge>
-      <edge id="2628" source="34573879234" target="88760146249" label="M�E/MADRASTA"></edge>
+      <edge id="2628" source="34573879234" target="88760146249" label="MAE/MADRASTA"></edge>
       <edge id="2629" source="61615510206" target="05369364710" label="FILHO/ENTEADO"></edge>
       <edge id="2630" source="02714100000105" target="rais_3402209389" label="possui como funcionario"></edge>
       <edge id="2631" source="33627541200" target="05031246000144" label="é contador da empresa (PF)"></edge>
@@ -37405,7 +37405,7 @@
       <edge id="2643" source="00453023000151" target="51827069287" label="possui no quadro societario"></edge>
       <edge id="2644" source="05747883000111" target="rais_6662181004" label="possui como funcionario"></edge>
       <edge id="2645" source="87394910210" target="38022610895" label="MAE"></edge>
-      <edge id="2647" source="38268884304" target="55953662300" label="M�E/MADRASTA"></edge>
+      <edge id="2647" source="38268884304" target="55953662300" label="MAE/MADRASTA"></edge>
       <edge id="2648" source="36283010091" target="23723564968" label="PAI/PADRASTO"></edge>
       <edge id="2649" source="16329791287" target="23035470000196" label="socio de"></edge>
       <edge id="2650" source="08657118000107" target="24265233287" label="possui no quadro societario"></edge>
@@ -37456,7 +37456,7 @@
       <edge id="2711" source="33627541200" target="04781700000111" label="é contador da empresa (PF)"></edge>
       <edge id="2713" source="15589901000138" target="70090216270" label="possui no quadro societario"></edge>
       <edge id="2714" source="22238239200" target="00635942852" label="FILHO"></edge>
-      <edge id="2715" source="23002620297" target="73918938204" label="M�E/MADRASTA"></edge>
+      <edge id="2715" source="23002620297" target="73918938204" label="MAE/MADRASTA"></edge>
       <edge id="2718" source="68628587268" target="16329791287" label="FILHO/ENTEADO"></edge>
       <edge id="2719" source="60119519291" target="04349930000106" label="socio de"></edge>
       <edge id="2720" source="59438886249" target="09375297000144" label="socio de"></edge>
@@ -37484,9 +37484,9 @@
       <edge id="2754" source="11455489204" target="72849177253" label="MAE"></edge>
       <edge id="2755" source="95185542268" target="20137842287" label="FILHO/ENTEADO"></edge>
       <edge id="2756" source="09138673738" target="08959183000189" label="empregado de"></edge>
-      <edge id="2760" source="09946497204" target="62095340230" label="M�E/MADRASTA"></edge>
+      <edge id="2760" source="09946497204" target="62095340230" label="MAE/MADRASTA"></edge>
       <edge id="2762" source="51115794191" target="07851944287" label="PAI/PADRASTO"></edge>
-      <edge id="2763" source="06040985291" target="12677388715" label="M�E/MADRASTA"></edge>
+      <edge id="2763" source="06040985291" target="12677388715" label="MAE/MADRASTA"></edge>
       <edge id="2764" source="03530825204" target="34561951000151" label="socio de"></edge>
       <edge id="2765" source="02387380517" target="18505392515" label="FILHO/ENTEADO"></edge>
       <edge id="2766" source="97201413287" target="16605175000162" label="socio de"></edge>
@@ -37523,7 +37523,7 @@
       <edge id="2807" source="00128115211" target="08657118000107" label="empregado de"></edge>
       <edge id="2808" source="28735455500" target="07622421758" label="PAI"></edge>
       <edge id="2809" source="00999958240" target="09946497204" label="FILHO"></edge>
-      <edge id="2810" source="18505392515" target="70081257201" label="M�E/MADRASTA"></edge>
+      <edge id="2810" source="18505392515" target="70081257201" label="MAE/MADRASTA"></edge>
       <edge id="2811" source="45584370215" target="93249500968" label="PAI/PADRASTO"></edge>
       <edge id="2813" source="07122918000152" target="45655421291" label="possui no quadro societario"></edge>
       <edge id="2814" source="34336095272" target="95185542268" label="MAE"></edge>
@@ -37539,7 +37539,7 @@
       <edge id="2826" source="20235941204" target="32077890215" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="2827" source="07678621000178" target="rais_3427939244" label="possui como funcionario"></edge>
       <edge id="2828" source="34663746268" target="09937943272" label="CONJUGE/COMPANHEIRO"></edge>
-      <edge id="2830" source="32320671072" target="35484319846" label="M�E/MADRASTA"></edge>
+      <edge id="2830" source="32320671072" target="35484319846" label="MAE/MADRASTA"></edge>
       <edge id="2831" source="92871844291" target="19462454000102" label="empregado de"></edge>
       <edge id="2833" source="11356601000158" target="40755843215" label="possui no quadro societario"></edge>
       <edge id="2835" source="75633418204" target="15639166000120" label="empregado de"></edge>
@@ -37547,7 +37547,7 @@
       <edge id="2837" source="36283010091" target="28131895882" label="PAI/PADRASTO"></edge>
       <edge id="2838" source="02738593232" target="73278050282" label="FILHO/ENTEADO"></edge>
       <edge id="2840" source="30619874287" target="69292078291" label="MAE"></edge>
-      <edge id="2841" source="13303181888" target="35484319846" label="M�E/MADRASTA"></edge>
+      <edge id="2841" source="13303181888" target="35484319846" label="MAE/MADRASTA"></edge>
       <edge id="2845" source="04104523000139" target="34392750272" label="possui no quadro societario"></edge>
       <edge id="2846" source="34499580706" target="30831812000140" label="socio de"></edge>
       <edge id="2847" source="95020659215" target="15978001200" label="FILHO"></edge>
@@ -37590,7 +37590,7 @@
       <edge id="2904" source="09889049422" target="08885139000171" label="empregado de"></edge>
       <edge id="2905" source="22141417000107" target="43638163253" label="possui no quadro societario"></edge>
       <edge id="2906" source="26999340200" target="00697295000105" label="empregado de"></edge>
-      <edge id="2907" source="33676909291" target="91076374972" label="M�E/MADRASTA"></edge>
+      <edge id="2907" source="33676909291" target="91076374972" label="MAE/MADRASTA"></edge>
       <edge id="2908" source="01140647253" target="38395436220" label="PAI"></edge>
       <edge id="2909" source="34457909220" target="96010703204" label="MAE"></edge>
       <edge id="2910" source="15792765000189" target="rais_5125363796" label="possui como funcionario"></edge>
@@ -37623,7 +37623,7 @@
       <edge id="2950" source="75651610200" target="34453199287" label="FILHO"></edge>
       <edge id="2951" source="21539472272" target="17409059000130" label="socio de"></edge>
       <edge id="2952" source="11888779845" target="69076952353" label="FILHO"></edge>
-      <edge id="2953" source="06763128886" target="68799810972" label="M�E/MADRASTA"></edge>
+      <edge id="2953" source="06763128886" target="68799810972" label="MAE/MADRASTA"></edge>
       <edge id="2954" source="51920050353" target="41576721353" label="FILHO/ENTEADO"></edge>
       <edge id="2956" source="09375297000144" target="57415730291" label="possui no quadro societario"></edge>
       <edge id="2957" source="92763120210" target="05054937000163" label="empregado de"></edge>
@@ -37634,7 +37634,7 @@
       <edge id="2962" source="09115838000103" target="52105873200" label="possui no quadro societario"></edge>
       <edge id="2963" source="36577693315" target="11805417000148" label="socio de"></edge>
       <edge id="2965" source="24102989234" target="01299127274" label="MAE"></edge>
-      <edge id="2967" source="73278050282" target="32119550204" label="M�E/MADRASTA"></edge>
+      <edge id="2967" source="73278050282" target="32119550204" label="MAE/MADRASTA"></edge>
       <edge id="2969" source="02714100000105" target="40640035272" label="possui no quadro societario"></edge>
       <edge id="2970" source="01843678000107" target="01676365702" label="possui no quadro societario"></edge>
       <edge id="2972" source="18505392515" target="35358785515" label="FILHO"></edge>
@@ -37652,16 +37652,16 @@
       <edge id="2990" source="94895813215" target="70498103200" label="MAE"></edge>
       <edge id="2991" source="38762439553" target="34030635000153" label="socio de"></edge>
       <edge id="2992" source="04450152255" target="00363849254" label="FILHO"></edge>
-      <edge id="2993" source="10678352291" target="86913140525" label="M�E/MADRASTA"></edge>
+      <edge id="2993" source="10678352291" target="86913140525" label="MAE/MADRASTA"></edge>
       <edge id="2994" source="32119550204" target="04655800259" label="FILHO/ENTEADO"></edge>
-      <edge id="2995" source="10678352291" target="07622421758" label="M�E/MADRASTA"></edge>
+      <edge id="2995" source="10678352291" target="07622421758" label="MAE/MADRASTA"></edge>
       <edge id="2996" source="65733479272" target="03572676215" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="2997" source="41331150230" target="04312419000130" label="empregado de"></edge>
       <edge id="2998" source="23896841220" target="09882156835" label="FILHO/ENTEADO"></edge>
       <edge id="2999" source="32428944215" target="63801682000151" label="socio de"></edge>
       <edge id="3001" source="11157070272" target="02957919000101" label="socio de"></edge>
       <edge id="3003" source="03108543261" target="50890646287" label="FILHO"></edge>
-      <edge id="3004" source="06763128886" target="69837929200" label="M�E/MADRASTA"></edge>
+      <edge id="3004" source="06763128886" target="69837929200" label="MAE/MADRASTA"></edge>
       <edge id="3007" source="63720510000153" target="rais_2998036393" label="possui como funcionario"></edge>
       <edge id="3008" source="61087769272" target="01213398231" label="PAI/PADRASTO"></edge>
       <edge id="3009" source="60627972268" target="04641551000195" label="empregado de"></edge>
@@ -37670,7 +37670,7 @@
       <edge id="3014" source="03594285170" target="60701190399945" label="empregado de"></edge>
       <edge id="3015" source="33676909291" target="45584370215" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="3016" source="11003592000111" target="79180086268" label="possui no quadro societario"></edge>
-      <edge id="3018" source="43009050887" target="13040811843" label="M�E/MADRASTA"></edge>
+      <edge id="3018" source="43009050887" target="13040811843" label="MAE/MADRASTA"></edge>
       <edge id="3021" source="22238239200" target="79562345220" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="3022" source="76670562268" target="20095163204" label="FILHO"></edge>
       <edge id="3023" source="96686340804" target="70481264264" label="PAI/PADRASTO"></edge>
@@ -37694,7 +37694,7 @@
       <edge id="3055" source="16546270200" target="06265480200" label="FILHO"></edge>
       <edge id="3056" source="03529846000101" target="93249500968" label="possui como funcionario"></edge>
       <edge id="3058" source="15536394991" target="23842520204" label="PAI/PADRASTO"></edge>
-      <edge id="3059" source="17093012876" target="47583271819" label="M�E/MADRASTA"></edge>
+      <edge id="3059" source="17093012876" target="47583271819" label="MAE/MADRASTA"></edge>
       <edge id="3061" source="84526045000194" target="11753404304" label="possui no quadro societario"></edge>
       <edge id="3063" source="13052756249" target="81871090253" label="PAI/PADRASTO"></edge>
       <edge id="3064" source="56473915249" target="70407783270" label="MAE"></edge>
@@ -37719,8 +37719,8 @@
       <edge id="3090" source="04104523000139" target="13556576287" label="possui no quadro societario"></edge>
       <edge id="3091" source="30573262268" target="02592058000105" label="socio de"></edge>
       <edge id="3092" source="33627541200" target="04829238000185" label="é contador da empresa (PF)"></edge>
-      <edge id="3093" source="17093012876" target="68799810972" label="M�E/MADRASTA"></edge>
-      <edge id="3094" source="26081237753" target="57160619234" label="M�E/MADRASTA"></edge>
+      <edge id="3093" source="17093012876" target="68799810972" label="MAE/MADRASTA"></edge>
+      <edge id="3094" source="26081237753" target="57160619234" label="MAE/MADRASTA"></edge>
       <edge id="3095" source="79069096315" target="00399857000479" label="empregado de"></edge>
       <edge id="3096" source="63511703549" target="13712608500" label="FILHO/ENTEADO"></edge>
       <edge id="3098" source="05974634411" target="15730994000179" label="socio de"></edge>
@@ -37752,11 +37752,11 @@
       <edge id="3133" source="13303181888" target="47583271819" label="MAE"></edge>
       <edge id="3134" source="86234080634" target="06912738630" label="PAI"></edge>
       <edge id="3135" source="16339991220" target="03222975248" label="MAE"></edge>
-      <edge id="3136" source="04977378253" target="02696392250" label="M�E/MADRASTA"></edge>
+      <edge id="3136" source="04977378253" target="02696392250" label="MAE/MADRASTA"></edge>
       <edge id="3137" source="50366580434" target="07321694291" label="MAE"></edge>
       <edge id="3138" source="01047566320" target="46134018368" label="PAI"></edge>
       <edge id="3139" source="03993958900" target="73278050282" label="FILHO/ENTEADO"></edge>
-      <edge id="3140" source="38268884304" target="21341818349" label="M�E/MADRASTA"></edge>
+      <edge id="3140" source="38268884304" target="21341818349" label="MAE/MADRASTA"></edge>
       <edge id="3141" source="27653900291" target="04944068000180" label="empregado de"></edge>
       <edge id="3143" source="70498099261" target="94895813215" label="FILHO"></edge>
       <edge id="3145" source="46524070259" target="41331150230" label="MAE"></edge>
@@ -37770,8 +37770,8 @@
       <edge id="3155" source="28735455500" target="86913140525" label="PAI"></edge>
       <edge id="3156" source="90612175200" target="04065789230" label="MAE"></edge>
       <edge id="3157" source="02957919000101" target="11157070272" label="possui no quadro societario"></edge>
-      <edge id="3158" source="73278050282" target="58367446291" label="M�E/MADRASTA"></edge>
-      <edge id="3159" source="18505392515" target="89319362220" label="M�E/MADRASTA"></edge>
+      <edge id="3158" source="73278050282" target="58367446291" label="MAE/MADRASTA"></edge>
+      <edge id="3159" source="18505392515" target="89319362220" label="MAE/MADRASTA"></edge>
       <edge id="3160" source="51618400215" target="08787774000116" label="socio de"></edge>
       <edge id="3162" source="34304860259" target="47567775204" label="FILHO"></edge>
       <edge id="3163" source="34459600200" target="03676560272" label="FILHO"></edge>
@@ -37823,7 +37823,7 @@
       <edge id="3219" source="20658885200" target="12271757000107" label="socio de"></edge>
       <edge id="3221" source="06912738630" target="07385217000106" label="empregado de"></edge>
       <edge id="3223" source="04829238000185" target="rais_4930856261" label="possui como funcionario"></edge>
-      <edge id="3224" source="13303181888" target="36770868849" label="M�E/MADRASTA"></edge>
+      <edge id="3224" source="13303181888" target="36770868849" label="MAE/MADRASTA"></edge>
       <edge id="3225" source="60127309268" target="12185668000130" label="socio de"></edge>
       <edge id="3226" source="10268404000114" target="rais_7764557518" label="possui como funcionario"></edge>
       <edge id="3228" source="09937943272" target="34663746268" label="CONJUGE/COMPANHEIRO"></edge>
@@ -37833,7 +37833,7 @@
       <edge id="3233" source="02645049842" target="01536675000201" label="empregado de"></edge>
       <edge id="3234" source="29544416234" target="34573879234" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="3235" source="63741060000185" target="rais_2142034268" label="possui como funcionario"></edge>
-      <edge id="3237" source="26081237753" target="86913140525" label="M�E/MADRASTA"></edge>
+      <edge id="3237" source="26081237753" target="86913140525" label="MAE/MADRASTA"></edge>
       <edge id="3238" source="79562345220" target="01606669290" label="MAE"></edge>
       <edge id="3239" source="83753723000199" target="14788640287" label="possui no quadro societario"></edge>
       <edge id="3240" source="01241548242" target="97201413287" label="FILHO/ENTEADO"></edge>
@@ -37846,9 +37846,9 @@
       <edge id="3249" source="00280249000106" target="rais_5963399325" label="possui como funcionario"></edge>
       <edge id="3250" source="04977378253" target="53257820291" label="MAE"></edge>
       <edge id="3252" source="11768790655" target="18701986000192" label="empregado de"></edge>
-      <edge id="3253" source="38268884304" target="05252032300" label="M�E/MADRASTA"></edge>
+      <edge id="3253" source="38268884304" target="05252032300" label="MAE/MADRASTA"></edge>
       <edge id="3255" source="19037668000131" target="78651565291" label="possui no quadro societario"></edge>
-      <edge id="3257" source="07360649234" target="77600479249" label="M�E/MADRASTA"></edge>
+      <edge id="3257" source="07360649234" target="77600479249" label="MAE/MADRASTA"></edge>
       <edge id="3258" source="11357320353" target="99766175349" label="MAE"></edge>
       <edge id="3259" source="45584370215" target="52116409934" label="PAI/PADRASTO"></edge>
       <edge id="3260" source="43009050887" target="17127289115" label="MAE"></edge>
@@ -37875,7 +37875,7 @@
       <edge id="3286" source="16063210210" target="22795967000140" label="socio de"></edge>
       <edge id="3287" source="11194146287" target="48320706300" label="PAI/PADRASTO"></edge>
       <edge id="3289" source="36283010091" target="13040811843" label="PAI"></edge>
-      <edge id="3290" source="31726500225" target="74943359272" label="M�E/MADRASTA"></edge>
+      <edge id="3290" source="31726500225" target="74943359272" label="MAE/MADRASTA"></edge>
       <edge id="3291" source="00128115211" target="07379546000144" label="empregado de"></edge>
       <edge id="3292" source="00680292250" target="09054012000173" label="empregado de"></edge>
       <edge id="3293" source="13538403287" target="15536394991" label="FILHO/ENTEADO"></edge>
@@ -37906,7 +37906,7 @@
       <edge id="3321" source="62647369291" target="82711615200" label="FILHO/ENTEADO"></edge>
       <edge id="3322" source="90142292249" target="02984047290" label="MAE"></edge>
       <edge id="3323" source="14515832000155" target="00128249250" label="possui no quadro societario"></edge>
-      <edge id="3324" source="26081237753" target="73532592568" label="M�E/MADRASTA"></edge>
+      <edge id="3324" source="26081237753" target="73532592568" label="MAE/MADRASTA"></edge>
       <edge id="3326" source="01027320198" target="71031405291" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="3328" source="03709414000182" target="28528743268" label="possui no quadro societario"></edge>
       <edge id="3329" source="08227031730" target="13884611291" label="FILHO"></edge>
@@ -38007,7 +38007,7 @@
       <edge id="3450" source="34459634287" target="70155174266" label="PAI"></edge>
       <edge id="3451" source="04944039425" target="15302354000168" label="socio de"></edge>
       <edge id="3452" source="04529103000102" target="02392917272" label="possui no quadro societario"></edge>
-      <edge id="3454" source="19359128287" target="03993958900" label="M�E/MADRASTA"></edge>
+      <edge id="3454" source="19359128287" target="03993958900" label="MAE/MADRASTA"></edge>
       <edge id="3455" source="60026642549" target="07131478000108" label="socio de"></edge>
       <edge id="3456" source="47346604253" target="01353375269" label="MAE"></edge>
       <edge id="3457" source="41642821268" target="02626268291" label="FILHO"></edge>
@@ -38028,7 +38028,7 @@
       <edge id="3480" source="17093012876" target="03685915819" label="FILHO/ENTEADO"></edge>
       <edge id="3481" source="04977378253" target="69888493272" label="MAE"></edge>
       <edge id="3482" source="05747883000111" target="00801097053" label="possui no quadro societario"></edge>
-      <edge id="3484" source="31390110249" target="88800318215" label="M�E/MADRASTA"></edge>
+      <edge id="3484" source="31390110249" target="88800318215" label="MAE/MADRASTA"></edge>
       <edge id="3485" source="29544416234" target="16176778760" label="PAI/PADRASTO"></edge>
       <edge id="3486" source="04946991000150" target="rais_7094163919" label="possui como funcionario"></edge>
       <edge id="3487" source="63739973000167" target="16416295415" label="possui no quadro societario"></edge>
@@ -38066,7 +38066,7 @@
       <edge id="3528" source="51071665391" target="01789292395" label="MAE"></edge>
       <edge id="3529" source="85910538268" target="14108193000103" label="socio de"></edge>
       <edge id="3530" source="07557039000153" target="40573753172" label="possui no quadro societario"></edge>
-      <edge id="3531" source="71031405291" target="05753913164" label="M�E/MADRASTA"></edge>
+      <edge id="3531" source="71031405291" target="05753913164" label="MAE/MADRASTA"></edge>
       <edge id="3533" source="07511728200" target="69888493272" label="PAI/PADRASTO"></edge>
       <edge id="3534" source="30573262268" target="94363048204" label="MAE"></edge>
       <edge id="3535" source="49355040210" target="04011805000191" label="empregado de"></edge>
@@ -38166,7 +38166,7 @@
       <edge id="3661" source="18809336000165" target="83948970297" label="possui no quadro societario"></edge>
       <edge id="3662" source="40502181869" target="22628261880" label="FILHO"></edge>
       <edge id="3663" source="95814515104" target="21093862000186" label="empregado de"></edge>
-      <edge id="3665" source="73278050282" target="02738593232" label="M�E/MADRASTA"></edge>
+      <edge id="3665" source="73278050282" target="02738593232" label="MAE/MADRASTA"></edge>
       <edge id="3667" source="19316118000151" target="rais_9849133971" label="possui como funcionario"></edge>
       <edge id="3668" source="15801587000105" target="rais_2578055972" label="possui como funcionario"></edge>
       <edge id="3669" source="06410428332" target="64849880304" label="FILHO"></edge>
@@ -38183,11 +38183,11 @@
       <edge id="3681" source="89302141268" target="34797963204" label="FILHO/ENTEADO"></edge>
       <edge id="3682" source="46524070259" target="18861938272" label="MAE"></edge>
       <edge id="3683" source="14795124272" target="14246342000109" label="socio de"></edge>
-      <edge id="3684" source="11208963805" target="24604765820" label="M�E/MADRASTA"></edge>
+      <edge id="3684" source="11208963805" target="24604765820" label="MAE/MADRASTA"></edge>
       <edge id="3686" source="02957919000101" target="rais_1192616542" label="possui como funcionario"></edge>
       <edge id="3687" source="02546819216" target="52351637291" label="FILHO"></edge>
       <edge id="3688" source="04944039425" target="04770555000173" label="socio de"></edge>
-      <edge id="3689" source="06763128886" target="04954238820" label="M�E/MADRASTA"></edge>
+      <edge id="3689" source="06763128886" target="04954238820" label="MAE/MADRASTA"></edge>
       <edge id="3690" source="04263972821" target="16641752291" label="PAI"></edge>
       <edge id="3692" source="04128241679" target="79343309600" label="MAE"></edge>
       <edge id="3694" source="00453023000151" target="rais_4540910173" label="possui como funcionario"></edge>
@@ -38221,12 +38221,12 @@
       <edge id="3728" source="56782977249" target="11997559234" label="MAE"></edge>
       <edge id="3729" source="01636775000110" target="00174092172" label="possui no quadro societario"></edge>
       <edge id="3730" source="10483964000191" target="rais_5589168464" label="possui como funcionario"></edge>
-      <edge id="3731" source="28196325568" target="09943463287" label="M�E/MADRASTA"></edge>
+      <edge id="3731" source="28196325568" target="09943463287" label="MAE/MADRASTA"></edge>
       <edge id="3732" source="20146732000100" target="94848050278" label="possui no quadro societario"></edge>
       <edge id="3733" source="07366779253" target="49355040210" label="MAE"></edge>
       <edge id="3734" source="01316496201" target="04603780000115" label="empregado de"></edge>
       <edge id="3735" source="90612175200" target="15367746268" label="FILHO"></edge>
-      <edge id="3736" source="34663746268" target="44568495253" label="M�E/MADRASTA"></edge>
+      <edge id="3736" source="34663746268" target="44568495253" label="MAE/MADRASTA"></edge>
       <edge id="3738" source="20235941204" target="10999795791" label="FILHO/ENTEADO"></edge>
       <edge id="3739" source="00319989259" target="56719523287" label="FILHO"></edge>
       <edge id="3740" source="93194889249" target="07946920000146" label="socio de"></edge>
@@ -38236,12 +38236,12 @@
       <edge id="3747" source="12836125268" target="04973210000117" label="socio de"></edge>
       <edge id="3748" source="11068127000169" target="75556880182" label="possui no quadro societario"></edge>
       <edge id="3749" source="23016445000165" target="51517230225" label="possui no quadro societario"></edge>
-      <edge id="3752" source="18505392515" target="96512741234" label="M�E/MADRASTA"></edge>
+      <edge id="3752" source="18505392515" target="96512741234" label="MAE/MADRASTA"></edge>
       <edge id="3753" source="29803497715" target="70151059268" label="PAI"></edge>
       <edge id="3754" source="40233145877" target="13884611291" label="FILHO"></edge>
       <edge id="3755" source="33676909291" target="88754464900" label="MAE"></edge>
       <edge id="3756" source="64262901220" target="21423776291" label="FILHO"></edge>
-      <edge id="3757" source="10678352291" target="73532592568" label="M�E/MADRASTA"></edge>
+      <edge id="3757" source="10678352291" target="73532592568" label="MAE/MADRASTA"></edge>
       <edge id="3758" source="05123406000185" target="81569580804" label="possui no quadro societario"></edge>
       <edge id="3759" source="03331505200" target="60198842287" label="FILHO"></edge>
       <edge id="3760" source="46524070259" target="20040407268" label="MAE"></edge>
@@ -38255,12 +38255,12 @@
       <edge id="3769" source="41576721353" target="51920050353" label="PAI"></edge>
       <edge id="3770" source="26286653287" target="77381696215" label="PAI"></edge>
       <edge id="3771" source="00713219262" target="02534145398" label="FILHO/ENTEADO"></edge>
-      <edge id="3772" source="04737353345" target="52351637291" label="M�E/MADRASTA"></edge>
+      <edge id="3772" source="04737353345" target="52351637291" label="MAE/MADRASTA"></edge>
       <edge id="3774" source="82909733220" target="34453199287" label="FILHO"></edge>
       <edge id="3775" source="01140647253" target="46448250263" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="3776" source="06204460000118" target="rais_2960416954" label="possui como funcionario"></edge>
       <edge id="3778" source="27136533000151" target="rais_2866384197" label="possui como funcionario"></edge>
-      <edge id="3779" source="17093012876" target="24604765820" label="M�E/MADRASTA"></edge>
+      <edge id="3779" source="17093012876" target="24604765820" label="MAE/MADRASTA"></edge>
       <edge id="3780" source="40290913268" target="34817890000140" label="empregado de"></edge>
       <edge id="3781" source="03530825204" target="06248482000180" label="socio de"></edge>
       <edge id="3782" source="72980052353" target="61550381393" label="PAI"></edge>
@@ -38283,7 +38283,7 @@
       <edge id="3808" source="01324309245" target="68267495215" label="FILHO"></edge>
       <edge id="3809" source="51115786172" target="10016597249" label="MAE"></edge>
       <edge id="3810" source="39192911404" target="10280055000156" label="empregado de"></edge>
-      <edge id="3811" source="26081237753" target="11928190200" label="M�E/MADRASTA"></edge>
+      <edge id="3811" source="26081237753" target="11928190200" label="MAE/MADRASTA"></edge>
       <edge id="3813" source="76998711700" target="84486026000181" label="socio de"></edge>
       <edge id="3814" source="40966509000108" target="rais_7053926129" label="possui como funcionario"></edge>
       <edge id="3816" source="02755033215" target="31462588204" label="MAE"></edge>
@@ -38321,7 +38321,7 @@
       <edge id="3857" source="21423776291" target="15269920000187" label="empregado de"></edge>
       <edge id="3858" source="24714834000127" target="rais_9322610111" label="possui como funcionario"></edge>
       <edge id="3859" source="13493795220" target="10678352291" label="FILHO"></edge>
-      <edge id="3860" source="21956227504" target="13493795220" label="M�E/MADRASTA"></edge>
+      <edge id="3860" source="21956227504" target="13493795220" label="MAE/MADRASTA"></edge>
       <edge id="3861" source="65733479272" target="68563019287" label="MAE"></edge>
       <edge id="3862" source="10309624304" target="54458285300" label="PAI"></edge>
       <edge id="3863" source="05974634411" target="04851017260" label="PAI/PADRASTO"></edge>
@@ -38330,10 +38330,10 @@
       <edge id="3868" source="62977750282" target="12922901000110" label="socio de"></edge>
       <edge id="3869" source="05517517000176" target="41633776204" label="possui no quadro societario"></edge>
       <edge id="3872" source="06501656249" target="05539721000198" label="socio de"></edge>
-      <edge id="3874" source="10519360206" target="11768791627" label="M�E/MADRASTA"></edge>
+      <edge id="3874" source="10519360206" target="11768791627" label="MAE/MADRASTA"></edge>
       <edge id="3878" source="64273601249" target="09946497204" label="FILHO/ENTEADO"></edge>
       <edge id="3879" source="02295887275" target="24722847215" label="FILHO"></edge>
-      <edge id="3882" source="21406952249" target="30173231888" label="M�E/MADRASTA"></edge>
+      <edge id="3882" source="21406952249" target="30173231888" label="MAE/MADRASTA"></edge>
       <edge id="3884" source="00375317279" target="04509691262" label="MAE"></edge>
       <edge id="3885" source="15361577000104" target="rais_5126013901" label="possui como funcionario"></edge>
       <edge id="3886" source="20020490259" target="01027320198" label="FILHO/ENTEADO"></edge>
@@ -38341,7 +38341,7 @@
       <edge id="3888" source="02000863329" target="16799929000162" label="empregado de"></edge>
       <edge id="3889" source="22181890200" target="06265480200" label="FILHO"></edge>
       <edge id="3890" source="62095340230" target="83791523287" label="FILHO/ENTEADO"></edge>
-      <edge id="3891" source="32320671072" target="04954238820" label="M�E/MADRASTA"></edge>
+      <edge id="3891" source="32320671072" target="04954238820" label="MAE/MADRASTA"></edge>
       <edge id="3892" source="11455489204" target="65043197234" label="MAE"></edge>
       <edge id="3893" source="85214590253" target="18256970278" label="FILHO"></edge>
       <edge id="3894" source="01843678000107" target="rais_8624471868" label="possui como funcionario"></edge>
@@ -38374,7 +38374,7 @@
       <edge id="3934" source="52464210234" target="04218608000814" label="empregado de"></edge>
       <edge id="3935" source="15730994000179" target="rais_8515347336" label="possui como funcionario"></edge>
       <edge id="3936" source="04509691262" target="00375317279" label="FILHO"></edge>
-      <edge id="3937" source="61791679234" target="01477849211" label="M�E/MADRASTA"></edge>
+      <edge id="3937" source="61791679234" target="01477849211" label="MAE/MADRASTA"></edge>
       <edge id="3939" source="04955863000173" target="rais_481298811" label="possui como funcionario"></edge>
       <edge id="3940" source="13627350278" target="20209371234" label="MAE"></edge>
       <edge id="3941" source="01027320198" target="73083569220" label="PAI/PADRASTO"></edge>
@@ -38385,7 +38385,7 @@
       <edge id="3948" source="00865685401" target="04515360000187" label="socio de"></edge>
       <edge id="3949" source="60722331398" target="03158465345" label="MAE"></edge>
       <edge id="3950" source="34304860259" target="94200793253" label="PAI"></edge>
-      <edge id="3951" source="38268884304" target="12852554100" label="M�E/MADRASTA"></edge>
+      <edge id="3951" source="38268884304" target="12852554100" label="MAE/MADRASTA"></edge>
       <edge id="3952" source="33476799204" target="01333776284" label="MAE"></edge>
       <edge id="3954" source="28735455500" target="11928190200" label="PAI"></edge>
       <edge id="3955" source="44159404200" target="11194146287" label="FILHO/ENTEADO"></edge>
@@ -38394,14 +38394,14 @@
       <edge id="3959" source="33627541200" target="04062466000172" label="é contador da empresa (PF)"></edge>
       <edge id="3960" source="85108391234" target="04641909000180" label="empregado de"></edge>
       <edge id="3961" source="10433929000168" target="26533671812" label="possui no quadro societario"></edge>
-      <edge id="3962" source="50054651387" target="08469946153" label="M�E/MADRASTA"></edge>
+      <edge id="3962" source="50054651387" target="08469946153" label="MAE/MADRASTA"></edge>
       <edge id="3963" source="18614674000141" target="rais_8786019533" label="possui como funcionario"></edge>
       <edge id="3965" source="33564038850" target="56729205000167" label="empregado de"></edge>
       <edge id="3966" source="14435250225" target="00654914000176" label="empregado de"></edge>
       <edge id="3967" source="86118757291" target="32428944215" label="FILHO"></edge>
       <edge id="3968" source="14788640287" target="74070207287" label="PAI"></edge>
-      <edge id="3970" source="05274086624" target="05062819652" label="M�E/MADRASTA"></edge>
-      <edge id="3971" source="06040985291" target="03705633287" label="M�E/MADRASTA"></edge>
+      <edge id="3970" source="05274086624" target="05062819652" label="MAE/MADRASTA"></edge>
+      <edge id="3971" source="06040985291" target="03705633287" label="MAE/MADRASTA"></edge>
       <edge id="3972" source="34797963204" target="16110870234" label="FILHO"></edge>
       <edge id="3973" source="01140647253" target="12834548234" label="FILHO"></edge>
       <edge id="3974" source="34309286000103" target="24185515553" label="possui no quadro societario"></edge>
@@ -38421,7 +38421,7 @@
       <edge id="3989" source="09260146000140" target="99508796200" label="possui no quadro societario"></edge>
       <edge id="3990" source="14004123000105" target="rais_4837429292" label="possui como funcionario"></edge>
       <edge id="3991" source="00340776854" target="11675054843" label="MAE"></edge>
-      <edge id="3993" source="28196325568" target="07045024533" label="M�E/MADRASTA"></edge>
+      <edge id="3993" source="28196325568" target="07045024533" label="MAE/MADRASTA"></edge>
       <edge id="3994" source="03285200200" target="71465219234" label="PAI"></edge>
       <edge id="3995" source="10519130200" target="10519360206" label="FILHO"></edge>
       <edge id="3996" source="27552438215" target="82711615200" label="CONJUGE/COMPANHEIRO"></edge>
@@ -38435,7 +38435,7 @@
       <edge id="4005" source="20843485000192" target="64346730272" label="possui como funcionario"></edge>
       <edge id="4006" source="98968734291" target="02584084210" label="MAE"></edge>
       <edge id="4008" source="05252032300" target="63139898304" label="PAI"></edge>
-      <edge id="4009" source="02534145398" target="00713219262" label="M�E/MADRASTA"></edge>
+      <edge id="4009" source="02534145398" target="00713219262" label="MAE/MADRASTA"></edge>
       <edge id="4010" source="78460751287" target="19359128287" label="FILHO/ENTEADO"></edge>
       <edge id="4011" source="02977958215" target="95814515104" label="PAI"></edge>
       <edge id="4012" source="07511728200" target="00273849263" label="PAI"></edge>
@@ -38489,7 +38489,7 @@
       <edge id="4081" source="20475675053" target="28203362000107" label="socio de"></edge>
       <edge id="4082" source="10860138000114" target="37695762415" label="possui no quadro societario"></edge>
       <edge id="4085" source="00535624298" target="06153565000195" label="empregado de"></edge>
-      <edge id="4086" source="32072988268" target="79998690234" label="M�E/MADRASTA"></edge>
+      <edge id="4086" source="32072988268" target="79998690234" label="MAE/MADRASTA"></edge>
       <edge id="4087" source="84233982349" target="34660720349" label="MAE"></edge>
       <edge id="4088" source="28171870406" target="08761140000194" label="empregado de"></edge>
       <edge id="4089" source="97193712268" target="33676909291" label="FILHO"></edge>
@@ -38503,14 +38503,14 @@
       <edge id="4099" source="01140647253" target="52464210234" label="PAI"></edge>
       <edge id="4100" source="05309798617" target="08966148000197" label="socio de"></edge>
       <edge id="4101" source="90309871387" target="19210417000107" label="empregado de"></edge>
-      <edge id="4102" source="21940339472" target="52351637291" label="M�E/MADRASTA"></edge>
+      <edge id="4102" source="21940339472" target="52351637291" label="MAE/MADRASTA"></edge>
       <edge id="4103" source="00316035211" target="92561470334" label="MADRASTA"></edge>
       <edge id="4104" source="20057270244" target="57639396204" label="C�NJUGE/COMPANHEIRA"></edge>
       <edge id="4105" source="29120187220" target="16110870234" label="FILHO"></edge>
       <edge id="4106" source="99216949368" target="04625488303" label="MAE"></edge>
       <edge id="4107" source="82686459204" target="02254011260" label="MAE"></edge>
       <edge id="4108" source="11051469287" target="65694295234" label="MAE"></edge>
-      <edge id="4109" source="17093012876" target="13040811843" label="M�E/MADRASTA"></edge>
+      <edge id="4109" source="17093012876" target="13040811843" label="MAE/MADRASTA"></edge>
       <edge id="4110" source="41709829249" target="05053172000147" label="socio de"></edge>
       <edge id="4111" source="61356557287" target="19508271272" label="FILHO"></edge>
       <edge id="4112" source="32119550204" target="87447738204" label="MAE"></edge>
@@ -38543,7 +38543,7 @@
       <edge id="4144" source="00386812349" target="03166430334" label="MAE"></edge>
       <edge id="4145" source="84163194304" target="54949424300" label="FILHO"></edge>
       <edge id="4147" source="85525740206" target="11620186000106" label="empregado de"></edge>
-      <edge id="4149" source="32320671072" target="36770868849" label="M�E/MADRASTA"></edge>
+      <edge id="4149" source="32320671072" target="36770868849" label="MAE/MADRASTA"></edge>
       <edge id="4150" source="51071665391" target="01131113390" label="MAE"></edge>
       <edge id="4151" source="52830934253" target="02609989237" label="PAI"></edge>
       <edge id="4152" source="69324506234" target="07678621000178" label="socio de"></edge>
@@ -38556,7 +38556,7 @@
       <edge id="4160" source="04411060000158" target="rais_4547380424" label="possui como funcionario"></edge>
       <edge id="4161" source="18256970278" target="51664992200" label="MAE"></edge>
       <edge id="4162" source="51071665391" target="99546540382" label="MAE"></edge>
-      <edge id="4163" source="06763128886" target="22319325808" label="M�E/MADRASTA"></edge>
+      <edge id="4163" source="06763128886" target="22319325808" label="MAE/MADRASTA"></edge>
       <edge id="4164" source="07511728200" target="63511703549" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="4165" source="51474492215" target="20095163204" label="FILHO"></edge>
       <edge id="4166" source="20108087204" target="04602991000133" label="empregado de"></edge>
@@ -38573,14 +38573,14 @@
       <edge id="4179" source="20137842287" target="95185542268" label="PAI"></edge>
       <edge id="4180" source="57252335291" target="59326174204" label="PAI/PADRASTO"></edge>
       <edge id="4181" source="16339991220" target="07967058000158" label="socio de"></edge>
-      <edge id="4183" source="43009050887" target="35484319846" label="M�E/MADRASTA"></edge>
+      <edge id="4183" source="43009050887" target="35484319846" label="MAE/MADRASTA"></edge>
       <edge id="4184" source="22445781272" target="05859080000159" label="empregado de"></edge>
       <edge id="4185" source="00865685401" target="15302354000168" label="socio de"></edge>
       <edge id="4187" source="51474492215" target="02554227250" label="MAE"></edge>
       <edge id="4188" source="28196325568" target="37550136572" label="FILHO"></edge>
       <edge id="4190" source="21026381000158" target="51706890206" label="possui no quadro societario"></edge>
       <edge id="4191" source="26532068896" target="28527931800" label="MAE"></edge>
-      <edge id="4196" source="28196325568" target="72027037853" label="M�E/MADRASTA"></edge>
+      <edge id="4196" source="28196325568" target="72027037853" label="MAE/MADRASTA"></edge>
       <edge id="4197" source="69392013868" target="19695478000101" label="socio de"></edge>
       <edge id="4198" source="03110443287" target="22443665291" label="PAI"></edge>
       <edge id="4199" source="11068127000169" target="02489660306" label="possui no quadro societario"></edge>
@@ -38595,7 +38595,7 @@
       <edge id="4211" source="82711615200" target="99858371268" label="PAI/PADRASTO"></edge>
       <edge id="4212" source="59319739234" target="27452425200" label="FILHO/ENTEADO"></edge>
       <edge id="4213" source="30573262268" target="01041936206" label="MAE"></edge>
-      <edge id="4215" source="17093012876" target="06179580847" label="M�E/MADRASTA"></edge>
+      <edge id="4215" source="17093012876" target="06179580847" label="MAE/MADRASTA"></edge>
       <edge id="4216" source="27502295291" target="06231800000108" label="socio de"></edge>
       <edge id="4217" source="01083408216" target="03071894000107" label="empregado de"></edge>
       <edge id="4218" source="30619874287" target="69302197204" label="MAE"></edge>
@@ -38612,14 +38612,14 @@
       <edge id="4230" source="12639911000142" target="83557008304" label="possui como funcionario"></edge>
       <edge id="4231" source="26081237753" target="28735455500" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="4232" source="33627541200" target="07492370000132" label="é contador da empresa (PF)"></edge>
-      <edge id="4233" source="06040985291" target="15534499249" label="M�E/MADRASTA"></edge>
+      <edge id="4233" source="06040985291" target="15534499249" label="MAE/MADRASTA"></edge>
       <edge id="4234" source="02592058000105" target="rais_4928174930" label="possui como funcionario"></edge>
       <edge id="4235" source="59564288487" target="03744028000121" label="socio de"></edge>
       <edge id="4236" source="44097778234" target="14004123000105" label="socio de"></edge>
       <edge id="4237" source="15446032829" target="05533960000130" label="socio de"></edge>
       <edge id="4239" source="03430219272" target="84104165000101" label="socio de"></edge>
       <edge id="4240" source="13039830287" target="04756673287" label="MAE"></edge>
-      <edge id="4241" source="43009050887" target="07218858880" label="M�E/MADRASTA"></edge>
+      <edge id="4241" source="43009050887" target="07218858880" label="MAE/MADRASTA"></edge>
       <edge id="4243" source="15589901000138" target="rais_1685796541" label="possui como funcionario"></edge>
       <edge id="4245" source="92371426253" target="04062468000161" label="empregado de"></edge>
       <edge id="4246" source="24102970215" target="01299127274" label="PAI/PADRASTO"></edge>
@@ -38643,7 +38643,7 @@
       <edge id="4273" source="73278050282" target="78460751287" label="MAE"></edge>
       <edge id="4277" source="05859080000159" target="71366172272" label="possui como funcionario"></edge>
       <edge id="4278" source="94895813215" target="70498099261" label="MAE"></edge>
-      <edge id="4279" source="11184680230" target="11481664751" label="M�E/MADRASTA"></edge>
+      <edge id="4279" source="11184680230" target="11481664751" label="MAE/MADRASTA"></edge>
       <edge id="4280" source="60627972268" target="04312419000130" label="empregado de"></edge>
       <edge id="4281" source="04657037000148" target="rais_7358839325" label="possui como funcionario"></edge>
       <edge id="4282" source="22445781272" target="05487673000131" label="socio de"></edge>
@@ -38665,7 +38665,7 @@
       <edge id="4303" source="33627541200" target="04871997000106" label="é contador da empresa (PF)"></edge>
       <edge id="4306" source="10348638000171" target="79430716204" label="possui no quadro societario"></edge>
       <edge id="4309" source="11520686000168" target="36636800372" label="possui no quadro societario"></edge>
-      <edge id="4310" source="32320671072" target="69837929200" label="M�E/MADRASTA"></edge>
+      <edge id="4310" source="32320671072" target="69837929200" label="MAE/MADRASTA"></edge>
       <edge id="4311" source="27476197291" target="44857080206" label="FILHO"></edge>
       <edge id="4312" source="86118757291" target="08061433000169" label="socio de"></edge>
       <edge id="4313" source="69459371353" target="23963365000117" label="empregado de"></edge>
@@ -38687,7 +38687,7 @@
       <edge id="4332" source="15792765000189" target="27365018291" label="possui no quadro societario"></edge>
       <edge id="4333" source="81838255249" target="01764234000178" label="empregado de"></edge>
       <edge id="4334" source="00340776854" target="17929844803" label="MAE"></edge>
-      <edge id="4335" source="16110870234" target="46452060287" label="M�E/MADRASTA"></edge>
+      <edge id="4335" source="16110870234" target="46452060287" label="MAE/MADRASTA"></edge>
       <edge id="4336" source="33627541200" target="04656014000119" label="é contador da empresa (PF)"></edge>
       <edge id="4337" source="29548837234" target="34573879234" label="FILHO/ENTEADO"></edge>
       <edge id="4338" source="34573879234" target="54481694734" label="MAE"></edge>
@@ -38708,10 +38708,10 @@
       <edge id="4358" source="69837929200" target="69888930249" label="PAI/PADRASTO"></edge>
       <edge id="4359" source="04411060000158" target="58367446291" label="possui no quadro societario"></edge>
       <edge id="4361" source="08346937393" target="63139898304" label="FILHO"></edge>
-      <edge id="4364" source="10519130200" target="94842418249" label="M�E/MADRASTA"></edge>
+      <edge id="4364" source="10519130200" target="94842418249" label="MAE/MADRASTA"></edge>
       <edge id="4365" source="97642800215" target="04851017260" label="MAE"></edge>
       <edge id="4366" source="00386812349" target="01047566320" label="MAE"></edge>
-      <edge id="4367" source="32320671072" target="43041941864" label="M�E/MADRASTA"></edge>
+      <edge id="4367" source="32320671072" target="43041941864" label="MAE/MADRASTA"></edge>
       <edge id="4370" source="06040985291" target="00665240244" label="FILHO/ENTEADO"></edge>
       <edge id="4371" source="95080104287" target="85845981204" label="MAE"></edge>
       <edge id="4373" source="27662403220" target="34759387234" label="MAE"></edge>
@@ -38755,7 +38755,7 @@
       <edge id="4419" source="86990810220" target="01213398231" label="MAE"></edge>
       <edge id="4422" source="18662013287" target="06265480200" label="FILHO"></edge>
       <edge id="4423" source="00733491359" target="69459371353" label="MAE"></edge>
-      <edge id="4425" source="21406952249" target="33403359824" label="M�E/MADRASTA"></edge>
+      <edge id="4425" source="21406952249" target="33403359824" label="MAE/MADRASTA"></edge>
       <edge id="4426" source="11448008204" target="68888228268" label="MAE"></edge>
       <edge id="4427" source="15536394991" target="13538403287" label="PAI/PADRASTO"></edge>
       <edge id="4428" source="09943463287" target="95540741587" label="FILHO/ENTEADO"></edge>
@@ -38766,7 +38766,7 @@
       <edge id="4435" source="32119550204" target="01696221000109" label="empregado de"></edge>
       <edge id="4437" source="71704051215" target="24102970215" label="FILHO/ENTEADO"></edge>
       <edge id="4438" source="15589901000138" target="89997301234" label="possui no quadro societario"></edge>
-      <edge id="4439" source="19359128287" target="78460751287" label="M�E/MADRASTA"></edge>
+      <edge id="4439" source="19359128287" target="78460751287" label="MAE/MADRASTA"></edge>
       <edge id="4440" source="04104340278" target="05284767268" label="PAI"></edge>
       <edge id="4441" source="33627541200" target="04364050000109" label="é contador da empresa (PF)"></edge>
       <edge id="4442" source="24131750244" target="64998576291" label="PAI"></edge>
@@ -38799,7 +38799,7 @@
       <edge id="4477" source="08934843268" target="00016154240" label="PAI"></edge>
       <edge id="4479" source="07335151000140" target="06958273320" label="possui no quadro societario"></edge>
       <edge id="4480" source="84233982349" target="03451694174" label="MAE"></edge>
-      <edge id="4483" source="35474034806" target="94458170287" label="M�E/MADRASTA"></edge>
+      <edge id="4483" source="35474034806" target="94458170287" label="MAE/MADRASTA"></edge>
       <edge id="4484" source="07557039000153" target="rais_1176792149" label="possui como funcionario"></edge>
       <edge id="4486" source="41363604287" target="11453137000118" label="empregado de"></edge>
       <edge id="4487" source="05508554000118" target="09932429287" label="possui no quadro societario"></edge>
@@ -38815,9 +38815,9 @@
       <edge id="4501" source="00740570000118" target="04263972821" label="possui no quadro societario"></edge>
       <edge id="4502" source="33676909291" target="13538403287" label="MAE"></edge>
       <edge id="4503" source="56719523287" target="00319989259" label="MAE"></edge>
-      <edge id="4504" source="06040985291" target="11350849200" label="M�E/MADRASTA"></edge>
+      <edge id="4504" source="06040985291" target="11350849200" label="MAE/MADRASTA"></edge>
       <edge id="4505" source="03062541000132" target="58479147253" label="possui no quadro societario"></edge>
-      <edge id="4506" source="10519360206" target="11768790655" label="M�E/MADRASTA"></edge>
+      <edge id="4506" source="10519360206" target="11768790655" label="MAE/MADRASTA"></edge>
       <edge id="4507" source="37324462200" target="48173424802" label="MAE"></edge>
       <edge id="4509" source="97201413287" target="01241548242" label="PAI/PADRASTO"></edge>
       <edge id="4510" source="04622936000105" target="61411027272" label="possui no quadro societario"></edge>
@@ -38905,7 +38905,7 @@
       <edge id="4617" source="87394910210" target="21430675268" label="MAE"></edge>
       <edge id="4618" source="53257820291" target="04529103000102" label="empregado de"></edge>
       <edge id="4619" source="01764234000178" target="17190896805" label="possui no quadro societario"></edge>
-      <edge id="4620" source="13884611291" target="99738023220" label="M�E/MADRASTA"></edge>
+      <edge id="4620" source="13884611291" target="99738023220" label="MAE/MADRASTA"></edge>
       <edge id="4622" source="19234234000121" target="14788640287" label="possui como contador"></edge>
       <edge id="4623" source="95530274234" target="09027630000124" label="socio de"></edge>
       <edge id="4624" source="61665052309" target="04248685477" label="PAI/PADRASTO"></edge>
@@ -38928,12 +38928,12 @@
       <edge id="4651" source="58806385291" target="73918938204" label="CONJUGE"></edge>
       <edge id="4652" source="04011875350" target="05252032300" label="FILHO/ENTEADO"></edge>
       <edge id="4654" source="05274086624" target="52848310200" label="MAE"></edge>
-      <edge id="4655" source="16110870234" target="04779235260" label="M�E/MADRASTA"></edge>
+      <edge id="4655" source="16110870234" target="04779235260" label="MAE/MADRASTA"></edge>
       <edge id="4657" source="27136533000151" target="02977958215" label="possui no quadro societario"></edge>
       <edge id="4658" source="34336095272" target="04313593268" label="FILHO/ENTEADO"></edge>
       <edge id="4659" source="10352174000177" target="17578957600" label="possui no quadro societario"></edge>
       <edge id="4660" source="53257820291" target="07511728200" label="FILHO/ENTEADO"></edge>
-      <edge id="4661" source="28196325568" target="33399492553" label="M�E/MADRASTA"></edge>
+      <edge id="4661" source="28196325568" target="33399492553" label="MAE/MADRASTA"></edge>
       <edge id="4662" source="71031405291" target="01027320198" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="4664" source="74943359272" target="54551390291" label="FILHO/ENTEADO"></edge>
       <edge id="4665" source="37695762415" target="06854827400" label="PAI"></edge>
@@ -38950,7 +38950,7 @@
       <edge id="4681" source="50054651387" target="51920050353" label="MAE"></edge>
       <edge id="4682" source="00428829236" target="04603197000104" label="empregado de"></edge>
       <edge id="4685" source="07495040000109" target="35410930649" label="possui no quadro societario"></edge>
-      <edge id="4686" source="25257463253" target="74004727200" label="M�E/MADRASTA"></edge>
+      <edge id="4686" source="25257463253" target="74004727200" label="MAE/MADRASTA"></edge>
       <edge id="4687" source="81698470363" target="07319254000116" label="empregado de"></edge>
       <edge id="4689" source="05057914000102" target="61550884204" label="possui no quadro societario"></edge>
       <edge id="4690" source="02578284431" target="61665052309" label="FILHO/ENTEADO"></edge>
@@ -38969,7 +38969,7 @@
       <edge id="4708" source="61412171253" target="45584370215" label="FILHO/ENTEADO"></edge>
       <edge id="4709" source="00966844378" target="54949424300" label="FILHO"></edge>
       <edge id="4710" source="27369560287" target="93822120278" label="PAI/PADRASTO"></edge>
-      <edge id="4711" source="33917906287" target="04391134586" label="M�E/MADRASTA"></edge>
+      <edge id="4711" source="33917906287" target="04391134586" label="MAE/MADRASTA"></edge>
       <edge id="4712" source="13553216204" target="90118090259" label="PAI"></edge>
       <edge id="4714" source="60119519291" target="00375317279" label="MAE"></edge>
       <edge id="4715" source="84526045000194" target="05283906272" label="possui no quadro societario"></edge>
@@ -39000,7 +39000,7 @@
       <edge id="4749" source="15536394991" target="26532068896" label="PAI"></edge>
       <edge id="4750" source="16110870234" target="24131750244" label="MAE"></edge>
       <edge id="4751" source="02324454270" target="33627541200" label="FILHO/ENTEADO"></edge>
-      <edge id="4752" source="40762114215" target="07363423385" label="M�E/MADRASTA"></edge>
+      <edge id="4752" source="40762114215" target="07363423385" label="MAE/MADRASTA"></edge>
       <edge id="4753" source="71031405291" target="98513290297" label="MAE"></edge>
       <edge id="4754" source="20303556234" target="34584425000107" label="socio de"></edge>
       <edge id="4755" source="27421627553" target="64716023591" label="PAI"></edge>
@@ -39027,7 +39027,7 @@
       <edge id="4783" source="88800318215" target="07495040000109" label="empregado de"></edge>
       <edge id="4784" source="19234234000121" target="61356557287" label="possui no quadro societario"></edge>
       <edge id="4785" source="10604984000173" target="rais_5230239377" label="possui como funcionario"></edge>
-      <edge id="4786" source="11448008204" target="94656304204" label="M�E/MADRASTA"></edge>
+      <edge id="4786" source="11448008204" target="94656304204" label="MAE/MADRASTA"></edge>
       <edge id="4793" source="07492370000132" target="53123026272" label="possui no quadro societario"></edge>
       <edge id="4795" source="02709449000159" target="61916404804" label="possui no quadro societario"></edge>
       <edge id="4796" source="13303181888" target="06406728840" label="CONJUGE/COMPANHEIRO"></edge>
@@ -39056,16 +39056,16 @@
       <edge id="4830" source="05710783200" target="86990810220" label="FILHO"></edge>
       <edge id="4832" source="78460751287" target="73278050282" label="FILHO"></edge>
       <edge id="4833" source="07763794291" target="63795728215" label="PAI/PADRASTO"></edge>
-      <edge id="4834" source="06763128886" target="43041941864" label="M�E/MADRASTA"></edge>
+      <edge id="4834" source="06763128886" target="43041941864" label="MAE/MADRASTA"></edge>
       <edge id="4835" source="20841809372" target="54949424300" label="MAE"></edge>
-      <edge id="4836" source="21406952249" target="36136905272" label="M�E/MADRASTA"></edge>
+      <edge id="4836" source="21406952249" target="36136905272" label="MAE/MADRASTA"></edge>
       <edge id="4837" source="03993958900" target="42070414272" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="4838" source="01717704204" target="19359128287" label="FILHO"></edge>
       <edge id="4841" source="24131750244" target="11194146287" label="FILHO/ENTEADO"></edge>
       <edge id="4844" source="34797963204" target="89302141268" label="PAI"></edge>
       <edge id="4845" source="73061310282" target="85351750244" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="4846" source="03058867387" target="03065270000179" label="socio de"></edge>
-      <edge id="4847" source="19359128287" target="58367446291" label="M�E/MADRASTA"></edge>
+      <edge id="4847" source="19359128287" target="58367446291" label="MAE/MADRASTA"></edge>
       <edge id="4848" source="63314959249" target="09313794000207" label="empregado de"></edge>
       <edge id="4850" source="83586997272" target="15978001200" label="FILHO"></edge>
       <edge id="4851" source="17266906000155" target="87733692253" label="possui no quadro societario"></edge>
@@ -39078,7 +39078,7 @@
       <edge id="4860" source="76430600297" target="95530274234" label="PAI"></edge>
       <edge id="4862" source="51115786172" target="07851944287" label="MAE"></edge>
       <edge id="4863" source="02738593232" target="03506142291" label="FILHO/ENTEADO"></edge>
-      <edge id="4864" source="78336520244" target="01800856466" label="M�E/MADRASTA"></edge>
+      <edge id="4864" source="78336520244" target="01800856466" label="MAE/MADRASTA"></edge>
       <edge id="4865" source="78336520244" target="58062637468" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="4866" source="33627541200" target="05085723000154" label="é contador da empresa (PF)"></edge>
       <edge id="4868" source="81778988253" target="02592058000105" label="socio de"></edge>
@@ -39134,7 +39134,7 @@
       <edge id="4934" source="94656304204" target="07808968234" label="FILHO/ENTEADO"></edge>
       <edge id="4936" source="22778930000103" target="13511696291" label="possui no quadro societario"></edge>
       <edge id="4937" source="03499782000143" target="00500078238" label="possui como funcionario"></edge>
-      <edge id="4939" source="34457909220" target="00720971241" label="M�E/MADRASTA"></edge>
+      <edge id="4939" source="34457909220" target="00720971241" label="MAE/MADRASTA"></edge>
       <edge id="4941" source="33627541200" target="02683299000151" label="é contador da empresa (PF)"></edge>
       <edge id="4942" source="66294622204" target="04930052000118" label="socio de"></edge>
       <edge id="4943" source="02387380517" target="33917906287" label="FILHO/ENTEADO"></edge>
@@ -39144,7 +39144,7 @@
       <edge id="4950" source="06502105220" target="95080104287" label="MAE"></edge>
       <edge id="4951" source="51115786172" target="21423776291" label="MAE"></edge>
       <edge id="4952" source="02727639260" target="98242431272" label="FILHO"></edge>
-      <edge id="4955" source="28196325568" target="38762439553" label="M�E/MADRASTA"></edge>
+      <edge id="4955" source="28196325568" target="38762439553" label="MAE/MADRASTA"></edge>
       <edge id="4957" source="10728107000104" target="30403992842" label="possui no quadro societario"></edge>
       <edge id="4958" source="27295605215" target="33676909291" label="FILHO"></edge>
       <edge id="4959" source="05244595253" target="04930771000139" label="socio de"></edge>
@@ -39165,14 +39165,14 @@
       <edge id="4983" source="06502105220" target="16667549272" label="MAE"></edge>
       <edge id="4984" source="00713219262" target="31390110249" label="FILHO"></edge>
       <edge id="4985" source="34336095272" target="74565087200" label="MAE"></edge>
-      <edge id="4986" source="43009050887" target="69837929200" label="M�E/MADRASTA"></edge>
+      <edge id="4986" source="43009050887" target="69837929200" label="MAE/MADRASTA"></edge>
       <edge id="4987" source="11941674704" target="14070889000198" label="socio de"></edge>
       <edge id="4989" source="18728712000197" target="rais_4575536742" label="possui como funcionario"></edge>
       <edge id="4990" source="28187587857" target="13511696291" label="FILHO/ENTEADO"></edge>
       <edge id="4991" source="01677124970" target="09501127982" label="PAI"></edge>
       <edge id="4992" source="16416295415" target="09582302429" label="PAI"></edge>
       <edge id="4993" source="04294129000100" target="43860931253" label="possui no quadro societario"></edge>
-      <edge id="4995" source="06763128886" target="24604765820" label="M�E/MADRASTA"></edge>
+      <edge id="4995" source="06763128886" target="24604765820" label="MAE/MADRASTA"></edge>
       <edge id="4996" source="16967741870" target="47146960846" label="MAE"></edge>
       <edge id="4998" source="02534145398" target="62614798363" label="MAE"></edge>
       <edge id="4999" source="69302197204" target="30619874287" label="FILHO"></edge>
@@ -39193,7 +39193,7 @@
       <edge id="5020" source="30573262268" target="43934663818" label="MAE"></edge>
       <edge id="5022" source="07366779253" target="04011805000191" label="empregado de"></edge>
       <edge id="5023" source="50366580434" target="02711257215" label="MAE"></edge>
-      <edge id="5025" source="13303181888" target="24604765820" label="M�E/MADRASTA"></edge>
+      <edge id="5025" source="13303181888" target="24604765820" label="MAE/MADRASTA"></edge>
       <edge id="5026" source="66356520272" target="53996828268" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="5027" source="10519360206" target="96686340804" label="MAE"></edge>
       <edge id="5028" source="36577693315" target="02254043200" label="PAI"></edge>
@@ -39204,7 +39204,7 @@
       <edge id="5034" source="85369853215" target="03441929209" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="5035" source="15536394991" target="01677124970" label="PAI"></edge>
       <edge id="5036" source="30868475149" target="97280984304" label="PAI/PADRASTO"></edge>
-      <edge id="5037" source="12277231215" target="41287908268" label="M�E/MADRASTA"></edge>
+      <edge id="5037" source="12277231215" target="41287908268" label="MAE/MADRASTA"></edge>
       <edge id="5038" source="81512139815" target="51356198287" label="PAI/PADRASTO"></edge>
       <edge id="5039" source="00801097053" target="05747883000111" label="socio de"></edge>
       <edge id="5040" source="34336095272" target="20137842287" label="CONJUGE/COMPANHEIRO"></edge>
@@ -39275,7 +39275,7 @@
       <edge id="5116" source="41644336634" target="05274086624" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="5117" source="95540741587" target="13024000291" label="PAI"></edge>
       <edge id="5118" source="27295605215" target="02806213000130" label="socio de"></edge>
-      <edge id="5120" source="11208963805" target="43041941864" label="M�E/MADRASTA"></edge>
+      <edge id="5120" source="11208963805" target="43041941864" label="MAE/MADRASTA"></edge>
       <edge id="5121" source="73278050282" target="04655800259" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="5122" source="56782977249" target="31328326268" label="MAE"></edge>
       <edge id="5123" source="00012331309" target="04901906348" label="MAE"></edge>
@@ -39308,19 +39308,19 @@
       <edge id="5156" source="09954333215" target="63678205000140" label="socio de"></edge>
       <edge id="5157" source="04391134586" target="29452996587" label="FILHO/ENTEADO"></edge>
       <edge id="5158" source="03529846000101" target="00403368910" label="possui no quadro societario"></edge>
-      <edge id="5159" source="73918938204" target="03720399281" label="M�E/MADRASTA"></edge>
+      <edge id="5159" source="73918938204" target="03720399281" label="MAE/MADRASTA"></edge>
       <edge id="5160" source="86234080634" target="00512166380683" label="empregado de"></edge>
       <edge id="5161" source="03475587000183" target="rais_3608390681" label="possui como funcionario"></edge>
       <edge id="5162" source="07347569000177" target="22430237253" label="possui no quadro societario"></edge>
-      <edge id="5163" source="02755033215" target="64500586253" label="M�E/MADRASTA"></edge>
+      <edge id="5163" source="02755033215" target="64500586253" label="MAE/MADRASTA"></edge>
       <edge id="5164" source="85819638204" target="04898857000202" label="empregado de"></edge>
       <edge id="5166" source="04689593272" target="05470745000138" label="socio de"></edge>
       <edge id="5167" source="88754464900" target="15536394991" label="FILHO/ENTEADO"></edge>
       <edge id="5168" source="03506142291" target="02738593232" label="PAI/PADRASTO"></edge>
       <edge id="5170" source="05489500409" target="20013307000134" label="socio de"></edge>
       <edge id="5171" source="51115786172" target="07852193234" label="MAE"></edge>
-      <edge id="5172" source="34573879234" target="29548837234" label="M�E/MADRASTA"></edge>
-      <edge id="5173" source="23832703268" target="68888228268" label="M�E/MADRASTA"></edge>
+      <edge id="5172" source="34573879234" target="29548837234" label="MAE/MADRASTA"></edge>
+      <edge id="5173" source="23832703268" target="68888228268" label="MAE/MADRASTA"></edge>
       <edge id="5174" source="65694295234" target="15809486000261" label="empregado de"></edge>
       <edge id="5175" source="04655800259" target="02738593232" label="PAI"></edge>
       <edge id="5176" source="29452996587" target="10464755000109" label="socio de"></edge>
@@ -39338,12 +39338,12 @@
       <edge id="5194" source="36283010091" target="17093012876" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="5196" source="04411060000158" target="rais_9106187168" label="possui como funcionario"></edge>
       <edge id="5200" source="64820823272" target="48893226000195" label="empregado de"></edge>
-      <edge id="5202" source="43009050887" target="04954238820" label="M�E/MADRASTA"></edge>
+      <edge id="5202" source="43009050887" target="04954238820" label="MAE/MADRASTA"></edge>
       <edge id="5203" source="24131750244" target="68365888220" label="PAI"></edge>
       <edge id="5204" source="42573939200" target="30619874287" label="FILHO"></edge>
       <edge id="5205" source="27126191000199" target="27315827234" label="possui no quadro societario"></edge>
       <edge id="5206" source="04062464000183" target="rais_3194653264" label="possui como funcionario"></edge>
-      <edge id="5207" source="69888930249" target="01914841212" label="M�E/MADRASTA"></edge>
+      <edge id="5207" source="69888930249" target="01914841212" label="MAE/MADRASTA"></edge>
       <edge id="5209" source="51172003220" target="63657241000128" label="socio de"></edge>
       <edge id="5210" source="00280249000106" target="64623041204" label="possui no quadro societario"></edge>
       <edge id="5212" source="70238507246" target="18256970278" label="FILHO"></edge>
@@ -39354,12 +39354,12 @@
       <edge id="5220" source="04971293000105" target="rais_12544703" label="possui como funcionario"></edge>
       <edge id="5221" source="03062541000132" target="72091274291" label="possui como funcionario"></edge>
       <edge id="5222" source="00481427279" target="44097778234" label="FILHO/ENTEADO"></edge>
-      <edge id="5223" source="02755033215" target="12836125268" label="M�E/MADRASTA"></edge>
+      <edge id="5223" source="02755033215" target="12836125268" label="MAE/MADRASTA"></edge>
       <edge id="5225" source="61665052309" target="27549097291" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="5226" source="65453123249" target="31398340200" label="FILHO"></edge>
       <edge id="5227" source="23025190000105" target="03572676215" label="possui no quadro societario"></edge>
       <edge id="5230" source="07742733803" target="04603780000115" label="socio de"></edge>
-      <edge id="5232" source="31726500225" target="53257820291" label="M�E/MADRASTA"></edge>
+      <edge id="5232" source="31726500225" target="53257820291" label="MAE/MADRASTA"></edge>
       <edge id="5233" source="18277330200" target="70901201200" label="PAI/PADRASTO"></edge>
       <edge id="5236" source="22791701000129" target="13553216204" label="possui no quadro societario"></edge>
       <edge id="5239" source="04760986000159" target="34706828287" label="possui no quadro societario"></edge>
@@ -39387,12 +39387,12 @@
       <edge id="5270" source="00104475129" target="21093862000186" label="socio de"></edge>
       <edge id="5271" source="24714834000127" target="rais_745095788" label="possui como funcionario"></edge>
       <edge id="5272" source="81512139815" target="30946686823" label="PAI"></edge>
-      <edge id="5273" source="17093012876" target="97222755004" label="M�E/MADRASTA"></edge>
+      <edge id="5273" source="17093012876" target="97222755004" label="MAE/MADRASTA"></edge>
       <edge id="5274" source="02559428261" target="04821807000146" label="empregado de"></edge>
       <edge id="5275" source="17578957600" target="05309798617" label="PAI"></edge>
       <edge id="5276" source="40558169287" target="03788404280" label="MAE"></edge>
       <edge id="5277" source="04252204275" target="61791679234" label="FILHO"></edge>
-      <edge id="5278" source="11208963805" target="35484319846" label="M�E/MADRASTA"></edge>
+      <edge id="5278" source="11208963805" target="35484319846" label="MAE/MADRASTA"></edge>
       <edge id="5279" source="73377277000101" target="02977958215" label="possui no quadro societario"></edge>
       <edge id="5280" source="31726500225" target="10251596000156" label="empregado de"></edge>
       <edge id="5281" source="08340738623" target="19587187000108" label="empregado de"></edge>
@@ -39441,7 +39441,7 @@
       <edge id="5329" source="00317030205" target="19190315000177" label="socio de"></edge>
       <edge id="5331" source="46452060287" target="16110870234" label="FILHO/ENTEADO"></edge>
       <edge id="5333" source="81512139815" target="21406952249" label="CONJUGE/COMPANHEIRO"></edge>
-      <edge id="5334" source="18505392515" target="02387380517" label="M�E/MADRASTA"></edge>
+      <edge id="5334" source="18505392515" target="02387380517" label="MAE/MADRASTA"></edge>
       <edge id="5335" source="33627541200" target="04955904000121" label="é contador da empresa (PF)"></edge>
       <edge id="5336" source="01027320198" target="71844449220" label="PAI/PADRASTO"></edge>
       <edge id="5337" source="31073107272" target="90957954204" label="MAE"></edge>
@@ -39467,18 +39467,18 @@
       <edge id="5360" source="79180086268" target="11003592000111" label="socio de"></edge>
       <edge id="5361" source="26286653287" target="67980600215" label="PAI"></edge>
       <edge id="5363" source="27583740215" target="41784758272" label="PAI"></edge>
-      <edge id="5364" source="13303181888" target="22319325808" label="M�E/MADRASTA"></edge>
+      <edge id="5364" source="13303181888" target="22319325808" label="MAE/MADRASTA"></edge>
       <edge id="5365" source="20658885200" target="02714100000105" label="socio de"></edge>
       <edge id="5366" source="44505787249" target="19371471000134" label="empregado de"></edge>
       <edge id="5367" source="23832703268" target="01213040272" label="FILHO/ENTEADO"></edge>
-      <edge id="5368" source="07360649234" target="90612175200" label="M�E/MADRASTA"></edge>
+      <edge id="5368" source="07360649234" target="90612175200" label="MAE/MADRASTA"></edge>
       <edge id="5369" source="79343309600" target="05936995000110" label="empregado de"></edge>
       <edge id="5370" source="78669634287" target="84529874000120" label="socio de"></edge>
       <edge id="5372" source="13153160000112" target="21482705249" label="possui no quadro societario"></edge>
       <edge id="5374" source="33627541200" target="04971264000143" label="é contador da empresa (PF)"></edge>
       <edge id="5376" source="04648871430" target="04434214000127" label="socio de"></edge>
       <edge id="5377" source="34457330230" target="08595121000135" label="empregado de"></edge>
-      <edge id="5378" source="18505392515" target="88486028272" label="M�E/MADRASTA"></edge>
+      <edge id="5378" source="18505392515" target="88486028272" label="MAE/MADRASTA"></edge>
       <edge id="5379" source="22238239200" target="03828538223" label="PAI/PADRASTO"></edge>
       <edge id="5381" source="16329791287" target="63801682000151" label="socio de"></edge>
       <edge id="5382" source="06265480200" target="16546229234" label="MAE"></edge>
@@ -39543,7 +39543,7 @@
       <edge id="5454" source="73918938204" target="04072302201" label="MAE"></edge>
       <edge id="5455" source="05960783231" target="75171546215" label="FILHO/ENTEADO"></edge>
       <edge id="5457" source="04822358000150" target="59267780263" label="possui no quadro societario"></edge>
-      <edge id="5458" source="92499511249" target="51793334234" label="M�E/MADRASTA"></edge>
+      <edge id="5458" source="92499511249" target="51793334234" label="MAE/MADRASTA"></edge>
       <edge id="5459" source="00968491260" target="64077020204" label="FILHO"></edge>
       <edge id="5460" source="77600479249" target="04274064000131" label="empregado de"></edge>
       <edge id="5461" source="97193712268" target="01053125259" label="MAE"></edge>
@@ -39557,7 +39557,7 @@
       <edge id="5474" source="28171870406" target="61665052309" label="FILHO/ENTEADO"></edge>
       <edge id="5476" source="05307547000158" target="52387496272" label="possui no quadro societario"></edge>
       <edge id="5477" source="00386812349" target="19976771720" label="MAE"></edge>
-      <edge id="5478" source="09946497204" target="64273601249" label="M�E/MADRASTA"></edge>
+      <edge id="5478" source="09946497204" target="64273601249" label="MAE/MADRASTA"></edge>
       <edge id="5479" source="33627541200" target="22814354000102" label="é contador da empresa (PF)"></edge>
       <edge id="5480" source="21406952249" target="63338602200" label="MAE"></edge>
       <edge id="5481" source="09889049422" target="09188376000146" label="empregado de"></edge>
@@ -39628,7 +39628,7 @@
       <edge id="5565" source="09937943272" target="00363849254" label="PAI"></edge>
       <edge id="5567" source="05410906000106" target="19618816320" label="possui no quadro societario"></edge>
       <edge id="5568" source="77012607220" target="34593525000108" label="empregado de"></edge>
-      <edge id="5569" source="04977378253" target="00273849263" label="M�E/MADRASTA"></edge>
+      <edge id="5569" source="04977378253" target="00273849263" label="MAE/MADRASTA"></edge>
       <edge id="5570" source="17316609000177" target="03773356498" label="possui no quadro societario"></edge>
       <edge id="5571" source="69888930249" target="69837929200" label="FILHO/ENTEADO"></edge>
       <edge id="5572" source="36283010091" target="25789963854" label="PAI/PADRASTO"></edge>
@@ -39646,7 +39646,7 @@
       <edge id="5587" source="34458719220" target="70488118204" label="PAI"></edge>
       <edge id="5588" source="60722331398" target="23487763249" label="FILHO/ENTEADO"></edge>
       <edge id="5590" source="68888228268" target="03591540269" label="MAE"></edge>
-      <edge id="5591" source="73278050282" target="03993958900" label="M�E/MADRASTA"></edge>
+      <edge id="5591" source="73278050282" target="03993958900" label="MAE/MADRASTA"></edge>
       <edge id="5592" source="25257463253" target="01057716000198" label="socio de"></edge>
       <edge id="5593" source="27421627553" target="27421660500" label="PAI"></edge>
       <edge id="5594" source="51588927253" target="11942690282" label="FILHO"></edge>
@@ -39654,7 +39654,7 @@
       <edge id="5596" source="01945481000170" target="rais_3575385618" label="possui como funcionario"></edge>
       <edge id="5597" source="23832703268" target="07808968234" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="5598" source="07366779253" target="04829081000198" label="socio de"></edge>
-      <edge id="5599" source="13303181888" target="07218858880" label="M�E/MADRASTA"></edge>
+      <edge id="5599" source="13303181888" target="07218858880" label="MAE/MADRASTA"></edge>
       <edge id="5601" source="15269920000187" target="01676365702" label="possui no quadro societario"></edge>
       <edge id="5602" source="05626121226" target="79124534234" label="FILHO"></edge>
       <edge id="5605" source="04313593268" target="21430675268" label="PAI"></edge>
@@ -39676,7 +39676,7 @@
       <edge id="5625" source="11448008204" target="58806385291" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="5626" source="21940339472" target="02578284431" label="MAE"></edge>
       <edge id="5628" source="51260298272" target="52830934253" label="CONJUGE/COMPANHEIRO"></edge>
-      <edge id="5632" source="11208963805" target="36770868849" label="M�E/MADRASTA"></edge>
+      <edge id="5632" source="11208963805" target="36770868849" label="MAE/MADRASTA"></edge>
       <edge id="5634" source="10441038689" target="11356601000158" label="empregado de"></edge>
       <edge id="5635" source="49357166220" target="14515832000155" label="socio de"></edge>
       <edge id="5636" source="04263972821" target="18428839000190" label="empregado de"></edge>
@@ -39786,10 +39786,10 @@
       <edge id="5771" source="60258442328" target="01166372000821" label="empregado de"></edge>
       <edge id="5772" source="96512741234" target="29452996587" label="FILHO/ENTEADO"></edge>
       <edge id="5773" source="58879461000166" target="08068396861" label="possui no quadro societario"></edge>
-      <edge id="5774" source="13627350278" target="66970318249" label="M�E/MADRASTA"></edge>
+      <edge id="5774" source="13627350278" target="66970318249" label="MAE/MADRASTA"></edge>
       <edge id="5775" source="23661695000158" target="rais_6851570775" label="possui como funcionario"></edge>
       <edge id="5776" source="13627350278" target="84465178000106" label="socio de"></edge>
-      <edge id="5777" source="11208963805" target="07218858880" label="M�E/MADRASTA"></edge>
+      <edge id="5777" source="11208963805" target="07218858880" label="MAE/MADRASTA"></edge>
       <edge id="5778" source="36877884000104" target="rais_4220801234" label="possui como funcionario"></edge>
       <edge id="5780" source="40573753172" target="05456587130" label="PAI/PADRASTO"></edge>
       <edge id="5781" source="13072129215" target="63739973000167" label="socio de"></edge>
@@ -39847,7 +39847,7 @@
       <edge id="5857" source="84599243272" target="70477755283" label="PAI/PADRASTO"></edge>
       <edge id="5859" source="01047566320" target="77761600325" label="PAI"></edge>
       <edge id="5860" source="07807651253" target="22445781272" label="MAE"></edge>
-      <edge id="5861" source="06763128886" target="06179580847" label="M�E/MADRASTA"></edge>
+      <edge id="5861" source="06763128886" target="06179580847" label="MAE/MADRASTA"></edge>
       <edge id="5863" source="07851944287" target="03238631000131" label="empregado de"></edge>
       <edge id="5864" source="43009050887" target="01844187985" label="MAE"></edge>
       <edge id="5865" source="37695762415" target="11194146287" label="FILHO/ENTEADO"></edge>
@@ -39862,7 +39862,7 @@
       <edge id="5878" source="41644336634" target="08033700670" label="PAI/PADRASTO"></edge>
       <edge id="5879" source="28454340220" target="02755033215" label="FILHO"></edge>
       <edge id="5880" source="95080104287" target="03594285170" label="MAE"></edge>
-      <edge id="5882" source="12277231215" target="13052756249" label="M�E/MADRASTA"></edge>
+      <edge id="5882" source="12277231215" target="13052756249" label="MAE/MADRASTA"></edge>
       <edge id="5883" source="85845981204" target="95080104287" label="FILHO"></edge>
       <edge id="5884" source="04064151372" target="21341818349" label="PAI"></edge>
       <edge id="5886" source="21341818349" target="41307299000109" label="socio de"></edge>
@@ -39907,16 +39907,16 @@
       <edge id="5946" source="96506512253" target="08724539000103" label="empregado de"></edge>
       <edge id="5952" source="02584090295" target="98968734291" label="FILHO"></edge>
       <edge id="5953" source="99858371268" target="27552438215" label="FILHO"></edge>
-      <edge id="5954" source="06763128886" target="47583271819" label="M�E/MADRASTA"></edge>
+      <edge id="5954" source="06763128886" target="47583271819" label="MAE/MADRASTA"></edge>
       <edge id="5955" source="59319739234" target="20095163204" label="FILHO"></edge>
       <edge id="5956" source="05489500409" target="11101013000173" label="socio de"></edge>
       <edge id="5957" source="73620793204" target="04291662000119" label="empregado de"></edge>
       <edge id="5958" source="06717840994" target="33676909291" label="FILHO"></edge>
       <edge id="5960" source="15536394991" target="97193712268" label="PAI/PADRASTO"></edge>
-      <edge id="5961" source="32320671072" target="06179580847" label="M�E/MADRASTA"></edge>
+      <edge id="5961" source="32320671072" target="06179580847" label="MAE/MADRASTA"></edge>
       <edge id="5963" source="14248470000183" target="rais_3462590529" label="possui como funcionario"></edge>
       <edge id="5965" source="02584062240" target="98968734291" label="FILHO"></edge>
-      <edge id="5966" source="33917906287" target="88486028272" label="M�E/MADRASTA"></edge>
+      <edge id="5966" source="33917906287" target="88486028272" label="MAE/MADRASTA"></edge>
       <edge id="5968" source="02557045268" target="11154209253" label="MAE"></edge>
       <edge id="5969" source="24035823287" target="23016445000165" label="socio de"></edge>
       <edge id="5970" source="13529889334" target="03451694174" label="PAI/PADRASTO"></edge>
@@ -39933,7 +39933,7 @@
       <edge id="5981" source="07782730000130" target="14711818200" label="possui no quadro societario"></edge>
       <edge id="5982" source="31523927291" target="81587287234" label="MAE"></edge>
       <edge id="5983" source="00340776854" target="15083845849" label="CONJUGE/COMPANHEIRO"></edge>
-      <edge id="5985" source="17093012876" target="69837929200" label="M�E/MADRASTA"></edge>
+      <edge id="5985" source="17093012876" target="69837929200" label="MAE/MADRASTA"></edge>
       <edge id="5986" source="34453199287" target="11368890000105" label="socio de"></edge>
       <edge id="5987" source="61087769272" target="86990810220" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="5988" source="33722609291" target="31098452291" label="PAI/PADRASTO"></edge>
@@ -39947,7 +39947,7 @@
       <edge id="5998" source="69837929200" target="43009050887" label="FILHO/ENTEADO"></edge>
       <edge id="5999" source="71801936234" target="19402660259" label="FILHO"></edge>
       <edge id="6000" source="16110870234" target="34797963204" label="MAE"></edge>
-      <edge id="6002" source="11051493234" target="86118757291" label="M�E/MADRASTA"></edge>
+      <edge id="6002" source="11051493234" target="86118757291" label="MAE/MADRASTA"></edge>
       <edge id="6003" source="74004727200" target="08934843268" label="FILHO/ENTEADO"></edge>
       <edge id="6004" source="20519926000103" target="74978250200" label="possui no quadro societario"></edge>
       <edge id="6005" source="00289806380" target="30868475149" label="FILHO/ENTEADO"></edge>
@@ -39955,10 +39955,10 @@
       <edge id="6008" source="33917906287" target="89319362220" label="MAE"></edge>
       <edge id="6009" source="20137842287" target="74565087200" label="PAI"></edge>
       <edge id="6012" source="60722331398" target="60684261308" label="MAE"></edge>
-      <edge id="6015" source="31726500225" target="52436420297" label="M�E/MADRASTA"></edge>
+      <edge id="6015" source="31726500225" target="52436420297" label="MAE/MADRASTA"></edge>
       <edge id="6016" source="02489660306" target="18916805368" label="FILHO/ENTEADO"></edge>
       <edge id="6017" source="24102970215" target="71704051215" label="PAI"></edge>
-      <edge id="6018" source="44159404200" target="00549206205" label="M�E/MADRASTA"></edge>
+      <edge id="6018" source="44159404200" target="00549206205" label="MAE/MADRASTA"></edge>
       <edge id="6019" source="03475587000183" target="92569064149" label="possui no quadro societario"></edge>
       <edge id="6020" source="03591540269" target="04294129000100" label="empregado de"></edge>
       <edge id="6021" source="23007347000161" target="13567594249" label="possui no quadro societario"></edge>
@@ -39966,7 +39966,7 @@
       <edge id="6023" source="06410428332" target="30868475149" label="FILHO/ENTEADO"></edge>
       <edge id="6024" source="13511696291" target="63741060000185" label="socio de"></edge>
       <edge id="6026" source="06231800000108" target="27502295291" label="possui no quadro societario"></edge>
-      <edge id="6028" source="11208963805" target="97222755004" label="M�E/MADRASTA"></edge>
+      <edge id="6028" source="11208963805" target="97222755004" label="MAE/MADRASTA"></edge>
       <edge id="6029" source="02609989237" target="51260298272" label="FILHO"></edge>
       <edge id="6031" source="30988080125" target="07982036000167" label="empregado de"></edge>
       <edge id="6032" source="63250810215" target="02166358292" label="MAE"></edge>
@@ -40058,7 +40058,7 @@
       <edge id="6143" source="97560227287" target="87985675272" label="FILHO"></edge>
       <edge id="6144" source="03754775278" target="61087769272" label="FILHO/ENTEADO"></edge>
       <edge id="6146" source="04508518265" target="79676642215" label="FILHO"></edge>
-      <edge id="6147" source="43009050887" target="22319325808" label="M�E/MADRASTA"></edge>
+      <edge id="6147" source="43009050887" target="22319325808" label="MAE/MADRASTA"></edge>
       <edge id="6148" source="03516669233" target="04563672000166" label="empregado de"></edge>
       <edge id="6149" source="05487673000131" target="02778785272" label="possui no quadro societario"></edge>
       <edge id="6150" source="19402660259" target="15639166000120" label="empregado de"></edge>
@@ -40167,7 +40167,7 @@
       <edge id="6288" source="18829834000170" target="17249686372" label="possui como funcionario"></edge>
       <edge id="6289" source="34458719220" target="79676642215" label="PAI"></edge>
       <edge id="6290" source="34453830220" target="72248092253" label="MAE"></edge>
-      <edge id="6292" source="25257463253" target="68382561268" label="M�E/MADRASTA"></edge>
+      <edge id="6292" source="25257463253" target="68382561268" label="MAE/MADRASTA"></edge>
       <edge id="6293" source="14788640287" target="83753723000199" label="socio de"></edge>
       <edge id="6295" source="02056843277" target="98242431272" label="FILHO"></edge>
       <edge id="6296" source="79180086268" target="10525679000196" label="empregado de"></edge>
@@ -40183,11 +40183,11 @@
       <edge id="6310" source="61665052309" target="28171870406" label="PAI/PADRASTO"></edge>
       <edge id="6311" source="68628587268" target="01208577000156" label="empregado de"></edge>
       <edge id="6312" source="63235668268" target="61665052309" label="FILHO/ENTEADO"></edge>
-      <edge id="6313" source="63511703549" target="02696392250" label="M�E/MADRASTA"></edge>
+      <edge id="6313" source="63511703549" target="02696392250" label="MAE/MADRASTA"></edge>
       <edge id="6314" source="15995291220" target="04252204275" label="PAI"></edge>
       <edge id="6315" source="04756673287" target="05958228000102" label="socio de"></edge>
       <edge id="6316" source="13884611291" target="74004727200" label="MAE"></edge>
-      <edge id="6317" source="33676909291" target="26532068896" label="M�E/MADRASTA"></edge>
+      <edge id="6317" source="33676909291" target="26532068896" label="MAE/MADRASTA"></edge>
       <edge id="6318" source="65569113304" target="03804327000104" label="empregado de"></edge>
       <edge id="6319" source="56782977249" target="16667506204" label="MAE"></edge>
       <edge id="6322" source="02101710307" target="03357423359" label="MAE"></edge>
@@ -40250,7 +40250,7 @@
       <edge id="6401" source="19359128287" target="04655800259" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="6402" source="01131113390" target="51071665391" label="FILHO"></edge>
       <edge id="6404" source="74565087200" target="20137842287" label="FILHO/ENTEADO"></edge>
-      <edge id="6405" source="21956227504" target="73532592568" label="M�E/MADRASTA"></edge>
+      <edge id="6405" source="21956227504" target="73532592568" label="MAE/MADRASTA"></edge>
       <edge id="6406" source="01457151243" target="04104523000139" label="empregado de"></edge>
       <edge id="6407" source="02670364268" target="66094828291" label="MAE"></edge>
       <edge id="6408" source="83132422215" target="15469350000179" label="socio de"></edge>
@@ -40329,12 +40329,12 @@
       <edge id="6512" source="51706890206" target="04358937268" label="FILHO/ENTEADO"></edge>
       <edge id="6513" source="17249686372" target="00289023000168" label="socio de"></edge>
       <edge id="6514" source="02738593232" target="04655800259" label="FILHO/ENTEADO"></edge>
-      <edge id="6515" source="56488254200" target="31425992234" label="M�E/MADRASTA"></edge>
+      <edge id="6515" source="56488254200" target="31425992234" label="MAE/MADRASTA"></edge>
       <edge id="6516" source="10403179000181" target="rais_7740653712" label="possui como funcionario"></edge>
       <edge id="6517" source="47377402253" target="76430600297" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="6518" source="51115786172" target="00790891000127" label="socio de"></edge>
       <edge id="6519" source="64160645291" target="09060349000193" label="empregado de"></edge>
-      <edge id="6520" source="92499511249" target="00490702740" label="M�E/MADRASTA"></edge>
+      <edge id="6520" source="92499511249" target="00490702740" label="MAE/MADRASTA"></edge>
       <edge id="6521" source="18277330200" target="11194146287" label="FILHO/ENTEADO"></edge>
       <edge id="6522" source="18809336000165" target="18405436200" label="possui como contador"></edge>
       <edge id="6525" source="16110870234" target="86234080634" label="MAE"></edge>
@@ -40409,7 +40409,7 @@
       <edge id="6617" source="20658885200" target="97196770234" label="FILHO/ENTEADO"></edge>
       <edge id="6618" source="36283010091" target="06179580847" label="PAI"></edge>
       <edge id="6619" source="31095658204" target="04603780000115" label="empregado de"></edge>
-      <edge id="6621" source="00340776854" target="08690478841" label="M�E/MADRASTA"></edge>
+      <edge id="6621" source="00340776854" target="08690478841" label="MAE/MADRASTA"></edge>
       <edge id="6622" source="12146355000172" target="16097360282" label="possui no quadro societario"></edge>
       <edge id="6623" source="05508554000118" target="rais_997639851" label="possui como funcionario"></edge>
       <edge id="6624" source="10519130200" target="57702381272" label="MAE"></edge>
@@ -40420,7 +40420,7 @@
       <edge id="6630" source="23896841220" target="15794159000100" label="socio de"></edge>
       <edge id="6633" source="13841166000182" target="75171546215" label="possui no quadro societario"></edge>
       <edge id="6634" source="21406952249" target="58462716187" label="FILHO"></edge>
-      <edge id="6635" source="21956227504" target="57160619234" label="M�E/MADRASTA"></edge>
+      <edge id="6635" source="21956227504" target="57160619234" label="MAE/MADRASTA"></edge>
       <edge id="6636" source="79676642215" target="34458719220" label="FILHO/ENTEADO"></edge>
       <edge id="6639" source="18341410000161" target="74677853215" label="possui como funcionario"></edge>
       <edge id="6640" source="20843485000192" target="98206109234" label="possui como funcionario"></edge>
@@ -40533,7 +40533,7 @@
       <edge id="6772" source="02574926234" target="58283323253" label="PAI"></edge>
       <edge id="6773" source="07946920000146" target="45594112200" label="possui no quadro societario"></edge>
       <edge id="6774" source="08934843268" target="08227031730" label="PAI/PADRASTO"></edge>
-      <edge id="6775" source="13303181888" target="97222755004" label="M�E/MADRASTA"></edge>
+      <edge id="6775" source="13303181888" target="97222755004" label="MAE/MADRASTA"></edge>
       <edge id="6777" source="24269859253" target="93822120278" label="PAI"></edge>
       <edge id="6778" source="12185668000130" target="74589342200" label="possui no quadro societario"></edge>
       <edge id="6779" source="07946920000146" target="68008600268" label="possui no quadro societario"></edge>
@@ -40556,7 +40556,7 @@
       <edge id="6797" source="13511696291" target="16967741870" label="PAI/PADRASTO"></edge>
       <edge id="6798" source="04104340278" target="05399734249" label="PAI"></edge>
       <edge id="6799" source="20843485000192" target="00829601279" label="possui como funcionario"></edge>
-      <edge id="6800" source="32320671072" target="22319325808" label="M�E/MADRASTA"></edge>
+      <edge id="6800" source="32320671072" target="22319325808" label="MAE/MADRASTA"></edge>
       <edge id="6801" source="06717840994" target="45584370215" label="FILHO/ENTEADO"></edge>
       <edge id="6802" source="06204460000118" target="87272717220" label="possui no quadro societario"></edge>
       <edge id="6803" source="69888493272" target="07511728200" label="FILHO/ENTEADO"></edge>
@@ -40573,7 +40573,7 @@
       <edge id="6818" source="16416295415" target="16355334491" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="6819" source="02784366000124" target="19274750234" label="possui no quadro societario"></edge>
       <edge id="6821" source="56473915249" target="31523927291" label="FILHO"></edge>
-      <edge id="6823" source="12277231215" target="22443665291" label="M�E/MADRASTA"></edge>
+      <edge id="6823" source="12277231215" target="22443665291" label="MAE/MADRASTA"></edge>
       <edge id="6825" source="04529103000102" target="03513491204" label="possui no quadro societario"></edge>
       <edge id="6826" source="69888493272" target="04977378253" label="FILHO"></edge>
       <edge id="6827" source="70112621210" target="51987392272" label="FILHO"></edge>
@@ -40592,7 +40592,7 @@
       <edge id="6845" source="04971280000136" target="rais_5173232023" label="possui como funcionario"></edge>
       <edge id="6847" source="00801097053" target="85311454000136" label="socio de"></edge>
       <edge id="6849" source="34458719220" target="00720971241" label="PAI"></edge>
-      <edge id="6850" source="13627350278" target="75907658134" label="M�E/MADRASTA"></edge>
+      <edge id="6850" source="13627350278" target="75907658134" label="MAE/MADRASTA"></edge>
       <edge id="6851" source="24131750244" target="02950159265" label="PAI/PADRASTO"></edge>
       <edge id="6852" source="56473915249" target="70407787267" label="MAE"></edge>
       <edge id="6853" source="01457151243" target="20137842287" label="FILHO/ENTEADO"></edge>
@@ -40602,7 +40602,7 @@
       <edge id="6858" source="04955824000176" target="rais_6121978855" label="possui como funcionario"></edge>
       <edge id="6861" source="66972736234" target="03501083238" label="PAI"></edge>
       <edge id="6863" source="07335151000140" target="04104056391" label="possui no quadro societario"></edge>
-      <edge id="6864" source="05274086624" target="88802426600" label="M�E/MADRASTA"></edge>
+      <edge id="6864" source="05274086624" target="88802426600" label="MAE/MADRASTA"></edge>
       <edge id="6865" source="34336095272" target="88137120220" label="MAE"></edge>
       <edge id="6866" source="21093862000186" target="00104475129" label="possui no quadro societario"></edge>
       <edge id="6867" source="69302197204" target="07261576000151" label="socio de"></edge>
@@ -40612,7 +40612,7 @@
       <edge id="6873" source="00066049270" target="24093654000175" label="empregado de"></edge>
       <edge id="6874" source="33627541200" target="04829236000196" label="é contador da empresa (PF)"></edge>
       <edge id="6875" source="02324477211" target="41642821268" label="FILHO"></edge>
-      <edge id="6876" source="05274086624" target="77929284620" label="M�E/MADRASTA"></edge>
+      <edge id="6876" source="05274086624" target="77929284620" label="MAE/MADRASTA"></edge>
       <edge id="6877" source="22207161803" target="49930514233580" label="empregado de"></edge>
       <edge id="6878" source="01914914201" target="33461791253" label="FILHO/ENTEADO"></edge>
       <edge id="6879" source="40762114215" target="28485580249" label="CONJUGE/COMPANHEIRO"></edge>
@@ -40624,7 +40624,7 @@
       <edge id="6888" source="51821702204" target="04655800259" label="FILHO/ENTEADO"></edge>
       <edge id="6889" source="07808968234" target="03720399281" label="PAI/PADRASTO"></edge>
       <edge id="6890" source="04352606693" target="60194990000259" label="empregado de"></edge>
-      <edge id="6891" source="13627350278" target="60261552287" label="M�E/MADRASTA"></edge>
+      <edge id="6891" source="13627350278" target="60261552287" label="MAE/MADRASTA"></edge>
       <edge id="6892" source="17249686372" target="05410906000106" label="socio de"></edge>
       <edge id="6895" source="56782977249" target="04284062204" label="MAE"></edge>
       <edge id="6896" source="34309286000103" target="18505392515" label="possui no quadro societario"></edge>
@@ -40648,7 +40648,7 @@
       <edge id="6918" source="27452425200" target="20095163204" label="CONJUGE/COMPANHEIRO"></edge>
       <edge id="6920" source="36283010091" target="34086211874" label="PAI/PADRASTO"></edge>
       <edge id="6921" source="57415730291" target="03613169000105" label="socio de"></edge>
-      <edge id="6922" source="02755033215" target="21427500282" label="M�E/MADRASTA"></edge>
+      <edge id="6922" source="02755033215" target="21427500282" label="MAE/MADRASTA"></edge>
       <edge id="6924" source="11888779845" target="78336520244" label="PAI/PADRASTO"></edge>
       <edge id="6925" source="58283323253" target="15798622000184" label="empregado de"></edge>
       <edge id="6927" source="44609035200" target="12701881000157" label="socio de"></edge>
