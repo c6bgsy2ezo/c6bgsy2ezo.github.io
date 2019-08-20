@@ -1205,7 +1205,7 @@
       <edge id="8" source="19823703434" target="00577480000158" label="socio de"></edge>
       <edge id="9" source="30862604400" target="03005656403" label="MAE"></edge>
       <edge id="10" source="45148155515" target="31579400400" label="MAE"></edge>
-      <edge id="12" source="45148155515" target="01051300444" label="C�NJUGE/COMPANHEIRA"></edge>
+      <edge id="12" source="45148155515" target="01051300444" label="CONJUGE/COMPANHEIRA"></edge>
       <edge id="13" source="34232850368" target="04525247000182" label="empregado de"></edge>
       <edge id="14" source="01100416315" target="57824258300" label="PAI"></edge>
       <edge id="15" source="06204798413" target="70224990470" label="MAE"></edge>
@@ -1231,7 +1231,7 @@
       <edge id="39" source="19823703434" target="45148155515" label="FILHO"></edge>
       <edge id="41" source="14156172449" target="00396895001873" label="empregado de"></edge>
       <edge id="42" source="01100416315" target="14156172449" label="PAI"></edge>
-      <edge id="43" source="01100416315" target="13365274391" label="C�NJUGE/COMPANHEIRA"></edge>
+      <edge id="43" source="01100416315" target="13365274391" label="CONJUGE/COMPANHEIRA"></edge>
       <edge id="44" source="08324966420" target="32316020410" label="FILHO"></edge>
       <edge id="46" source="09183355405" target="03857930000405" label="empregado de"></edge>
       <edge id="47" source="24192660210" target="01614081000182" label="empregado de"></edge>
@@ -1300,7 +1300,7 @@
       <edge id="135" source="01100416315" target="48201065387" label="PAI"></edge>
       <edge id="136" source="73390160400" target="01702288439" label="MAE"></edge>
       <edge id="138" source="04100683499" target="12987706456" label="MAE"></edge>
-      <edge id="140" source="01051300444" target="45148155515" label="C�NJUGE/COMPANHEIRA"></edge>
+      <edge id="140" source="01051300444" target="45148155515" label="CONJUGE/COMPANHEIRA"></edge>
       <edge id="141" source="70225003473" target="04803184410" label="FILHO/ENTEADO"></edge>
       <edge id="142" source="45148155515" target="78743478620" label="MAE"></edge>
       <edge id="143" source="01100416315" target="27516652334" label="PAI/PADRASTO"></edge>
