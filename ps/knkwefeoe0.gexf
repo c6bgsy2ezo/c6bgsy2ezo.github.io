@@ -34,7 +34,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="1369.4045" y="182.62473"></viz:position>
+        <viz:position x="1598.2153" y="207.69617"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="66373530000" label="MANOEL CORDEIRO DE ALMEIDA">
@@ -44,7 +44,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="379.58398" y="157.8824"></viz:position>
+        <viz:position x="446.4511" y="199.80711"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="11974958191" label="IVALDO PERDIGAO FREIRE JUNIOR">
@@ -54,7 +54,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-147.9242" y="465.524"></viz:position>
+        <viz:position x="-162.96791" y="564.51385"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="08009350206" label="EDMAR FERREIRA DE SENA">
@@ -64,7 +64,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="1234.46" y="-14.304108"></viz:position>
+        <viz:position x="1509.0604" y="-66.03364"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="93973055220" label="ROMULO SANTOS DOS SANTOS">
@@ -74,7 +74,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-773.56683" y="-668.9915"></viz:position>
+        <viz:position x="-889.64343" y="-785.7926"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="88004945104" label="MARIA CONCEICAO CAVALCANTE">
@@ -84,7 +84,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="215.8967" y="526.58044"></viz:position>
+        <viz:position x="292.7681" y="650.89"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="13976522848" label="NILSON JOSE ARRAIS DA SILVA">
@@ -94,7 +94,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="98.58041" y="-77.44388"></viz:position>
+        <viz:position x="92.84754" y="-97.95566"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="06674135100" label="PETRONIO DAMASCENO CASTELO BRANCO">
@@ -104,7 +104,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-149.93791" y="200.87042"></viz:position>
+        <viz:position x="-174.0107" y="280.31012"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="72801689220" label="JOAO BATISTA NETO">
@@ -114,7 +114,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="1169.1885" y="-118.68225"></viz:position>
+        <viz:position x="1433.5624" y="-185.07745"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="00028392108" label="EDNEY SIQUEIRA DE OLIVEIRA">
@@ -124,7 +124,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="423.88147" y="11.489652"></viz:position>
+        <viz:position x="473.3546" y="20.56781"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="64127133015" label="DANIEL CORDEIRO DE ALMEIDA">
@@ -134,7 +134,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="433.09912" y="163.98935"></viz:position>
+        <viz:position x="514.8866" y="202.8429"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="49489348104" label="KATIA SILENE URBANO">
@@ -144,7 +144,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="30.243387" y="358.86884"></viz:position>
+        <viz:position x="43.719803" y="458.58194"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="94136602200" label="MAX RONALDO SILVA SANTOS JUNIOR">
@@ -154,7 +154,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-782.89825" y="-626.6323"></viz:position>
+        <viz:position x="-906.9365" y="-721.79407"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="34431993134" label="ARI VIEIRA GONCALVES">
@@ -164,7 +164,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="131.02406" y="455.6602"></viz:position>
+        <viz:position x="177.57756" y="579.18066"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="71000879100" label="OZIRES JOSE DE SOUZA">
@@ -174,7 +174,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="24.708775" y="-937.475"></viz:position>
+        <viz:position x="28.240726" y="-1084.7567"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="18302106100" label="JOSE MARIA VIEIRA GONCALVES">
@@ -184,7 +184,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="97.14314" y="480.31155"></viz:position>
+        <viz:position x="135.32158" y="612.1625"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="51352354349" label="EGBERTO SILVA CORREA">
@@ -194,7 +194,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1113.6852" y="767.29205"></viz:position>
+        <viz:position x="-1293.2834" y="896.0543"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="25852272353" label="VIRGINIA LUCIA MACHADO BRAGA MENDES">
@@ -204,7 +204,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1061.2075" y="663.38794"></viz:position>
+        <viz:position x="-1224.9746" y="773.56683"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="14447983168" label="CELMA BOTELHO RAMOS DE MELLO">
@@ -214,7 +214,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="10.534104" y="223.11154"></viz:position>
+        <viz:position x="22.305374" y="294.8965"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="11698829191" label="DOMINGOS JOSE ARRAIS DA SILVA">
@@ -224,7 +224,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="50.371323" y="-80.77281"></viz:position>
+        <viz:position x="37.878685" y="-98.02601"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="40191850268" label="MARCIA CRISTINA DE SOUZA">
@@ -234,7 +234,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-809.4536" y="-567.9898"></viz:position>
+        <viz:position x="-935.943" y="-656.1388"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="12091952168" label="LUIZ ROMILDO DE MELLO">
@@ -244,7 +244,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="46.14402" y="282.11365"></viz:position>
+        <viz:position x="63.36356" y="365.8612"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="12770078100" label="HERBERT DAMASCENO CASTELO BRANCO">
@@ -254,7 +254,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-143.02696" y="279.0738"></viz:position>
+        <viz:position x="-165.00032" y="365.2974"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="53909488153" label="ROBERTO TABILE DE MELLO">
@@ -264,7 +264,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-17.818031" y="387.95764"></viz:position>
+        <viz:position x="-13.330148" y="491.74628"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="11629398349" label="JUDAS TADEU CASTRO DE OLIVEIRA">
@@ -274,7 +274,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1153.4775" y="660.1181"></viz:position>
+        <viz:position x="-1342.4365" y="789.8888"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="23595051149" label="LUDUGERO AMORIM CAVALCANTE">
@@ -284,7 +284,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="180.0902" y="470.7791"></viz:position>
+        <viz:position x="238.52008" y="589.4466"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="18997481215" label="MAX RONALDO SILVA SANTOS">
@@ -294,7 +294,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-824.0387" y="-602.2714"></viz:position>
+        <viz:position x="-969.2363" y="-687.3159"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="69669511100" label="LUIZ FILIPE URBANO DE MELLO">
@@ -304,7 +304,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="71.18868" y="183.788"></viz:position>
+        <viz:position x="86.962135" y="237.08807"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="14593823153" label="DIVANI CAETANO DE FARIA">
@@ -314,7 +314,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-109.42397" y="318.74634"></viz:position>
+        <viz:position x="-130.05267" y="412.88397"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="19453329304" label="MANOEL JUAREZ PARENTE MENDES">
@@ -324,7 +324,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1086.6437" y="627.4218"></viz:position>
+        <viz:position x="-1257.042" y="736.9665"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="82577099134" label="CRISTIANE VALERIA SIQUEIRA DE OLIVEIRA">
@@ -334,7 +334,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="455.1257" y="46.254986"></viz:position>
+        <viz:position x="514.7738" y="55.359226"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="02586136101" label="LUIZ HENRIQUE RAMOS DE MELLO">
@@ -344,7 +344,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="115.555145" y="237.46773"></viz:position>
+        <viz:position x="146.36794" y="307.13394"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="00744305136" label="ROSILDA JOSE DE SOUSA">
@@ -354,7 +354,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-29.328548" y="-899.8915"></viz:position>
+        <viz:position x="-24.171734" y="-1036.0208"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="00201142309" label="CICERO EDSON DA SILVA">
@@ -364,7 +364,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1050.0353" y="707.3639"></viz:position>
+        <viz:position x="-1189.9034" y="848.56323"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="07999704253" label="LUIZ CARLOS PEREIRA DA SILVA">
@@ -374,7 +374,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="1304.3431" y="104.30328"></viz:position>
+        <viz:position x="1547.8546" y="98.30828"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="02830127226" label="MYLLENA DE SOUZA SANTOS">
@@ -384,7 +384,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-727.7002" y="-645.7696"></viz:position>
+        <viz:position x="-850.7435" y="-740.05237"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="85993166134" label="HUMBERTO DE FARIA CASTELO BRANCO">
@@ -394,7 +394,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-141.8227" y="356.36865"></viz:position>
+        <viz:position x="-166.23672" y="456.091"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="24531278372" label="JOSE NILTON ARRAIS DA SILVA">
@@ -404,7 +404,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="70.82235" y="-26.5996"></viz:position>
+        <viz:position x="65.60507" y="-32.17235"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="91925487172" label="EDIVAN FRANCISCO DE OLIVEIRA">
@@ -414,7 +414,7 @@
           <attvalue for="type description" value="other"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="398.76712" y="61.227077"></viz:position>
+        <viz:position x="452.2785" y="77.49658"></viz:position>
         <viz:color r="0" g="14" b="199"></viz:color>
       </node>
       <node id="24497941000140" label="C V S DE OLIVEIRA COMERCIAL E SERVICOS EIRELI - ME">
@@ -433,7 +433,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="469.7905" y="3.5531073"></viz:position>
+        <viz:position x="525.60034" y="3.8435264"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="01649760000197" label="MERIDIONAL ENGENHARIA LTDA  - ME">
@@ -452,7 +452,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1073.45" y="581.95557"></viz:position>
+        <viz:position x="-1252.5232" y="682.0845"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="02008084000135" label="GLOBAL COMERCIO DE EQUIPAMENTOS E CONSTRUCOES LTDA - ME">
@@ -468,7 +468,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="77.41815" y="-118.99284"></viz:position>
+        <viz:position x="65.61326" y="-145.28885"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="15188822000115" label="A SETE COMERCIO E SERVICOS EIRELI  - ME">
@@ -489,7 +489,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="4.836131" y="-878.20355"></viz:position>
+        <viz:position x="3.549363" y="-1004.7024"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="01590370000199" label="PPK EQUIPAMENTOS LTDA - ME">
@@ -499,7 +499,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="114.15303" y="392.1884"></viz:position>
+        <viz:position x="151.83191" y="500.11615"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="15833551000103" label="J R MENDES LTDA - ME">
@@ -518,7 +518,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="1215.4634" y="-47.320286"></viz:position>
+        <viz:position x="1461.4523" y="-87.11749"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="13407975000180" label="ALVES E SILVA COMERCIO E SERVICOS LTDA - EPP">
@@ -540,7 +540,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-858.35095" y="-618.4225"></viz:position>
+        <viz:position x="-994.5587" y="-715.7967"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="13239682000131" label="ARENA PORTO ENGENHARIA EVENTOS E SERVICOS EIRELI - EPP">
@@ -562,7 +562,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="1182.7628" y="-5.1433916"></viz:position>
+        <viz:position x="1458.9174" y="-40.22197"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="24919086000119" label="LINHA DIRETA COMERCIO DE EQUIPAMENTOS DE SEGURANCA E SERVICOS GERAIS LTDA - EPP">
@@ -572,7 +572,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-51.82252" y="195.81578"></viz:position>
+        <viz:position x="-58.57225" y="264.74045"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="63754048000105" label="RCAMARGO CONSTRUCOES EIRELI - ME">
@@ -582,7 +582,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="1366.756" y="136.6301"></viz:position>
+        <viz:position x="1608.6664" y="153.38925"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="34783092000145" label="IMPACTO CONSTRUCOES COMERCIO E SERVICOS LTDA - ME">
@@ -603,7 +603,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="1271.4476" y="46.2673"></viz:position>
+        <viz:position x="1535.6215" y="18.964054"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="08575671000192" label="M C CONSTRUCOES E SERVICOS LTDA - ME">
@@ -622,7 +622,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="1392.954" y="220.25203"></viz:position>
+        <viz:position x="1604.485" y="259.34216"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="20628902000184" label="CONTHABIL ASSESSORIA EM CONTABILIDADE EIRELI - ME">
@@ -632,7 +632,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-739.85944" y="-615.925"></viz:position>
+        <viz:position x="-850.2156" y="-698.8377"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="10905759000177" label="J N VIANA FILHO LTDA - ME">
@@ -651,7 +651,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1147.3425" y="796.7503"></viz:position>
+        <viz:position x="-1337.1978" y="921.7951"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="72155948000127" label="TRANSPORTES DE ALUNOS E FUNCIONARIOS SOL NASCENTE LTDA - ME">
@@ -661,7 +661,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1102.807" y="695.2943"></viz:position>
+        <viz:position x="-1267.7578" y="818.047"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="18169729000151" label="CENTAURO COMERCIO DE EQUIPAMENTOS DE SEGURANCA EIRELI  - ME">
@@ -684,7 +684,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="67.24671" y="113.65618"></viz:position>
+        <viz:position x="76.99845" y="142.61989"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="14788120000100" label="M E W COMERCIO E SERVICOS EIRELI  - ME">
@@ -706,7 +706,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="91.12012" y="-929.2793"></viz:position>
+        <viz:position x="100.93351" y="-1066.1571"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="02708622000102" label="SOLUTIONS INFORMATICA LTDA - ME">
@@ -725,7 +725,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-202.99213" y="317.21594"></viz:position>
+        <viz:position x="-240.98816" y="410.05704"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="04289005000137" label="ESCRITORIO CONTABIL CORRESPONDENTE SAO JOSE LTDA">
@@ -735,7 +735,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="1330.981" y="170.64923"></viz:position>
+        <viz:position x="1552.3203" y="174.07895"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="23387730000192" label="OIKOS COMECIO E SERVICOS EIRELI - ME">
@@ -754,7 +754,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="39.252487" y="-981.7629"></viz:position>
+        <viz:position x="55.096012" y="-1130.4376"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="30454762000129" label="SOLUCOES BUSINESS EIRELI">
@@ -764,7 +764,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="65.34509" y="-899.6623"></viz:position>
+        <viz:position x="65.42423" y="-1037.1693"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="00339226000111" label="EMBRASE EMPRESA BRASILIENSE DE MANUFATURADOS E SERVICOS LTDA - ME">
@@ -782,7 +782,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-9.221114" y="313.9894"></viz:position>
+        <viz:position x="-5.865211" y="402.9672"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="07631335000157" label="ALVORADA SERVICOS DE ENGENHARIA LTDA - ME">
@@ -801,7 +801,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-87.647514" y="406.13736"></viz:position>
+        <viz:position x="-96.70342" y="510.59225"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="09571981000100" label="WETTOR COMERCIO DE EQUIPAMENTOS LTDA - ME">
@@ -820,7 +820,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="179.02809" y="221.74362"></viz:position>
+        <viz:position x="225.83076" y="284.8781"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="04131245000109" label="CONSULTE-COMERCIO E REPRESENTAOES LTDA">
@@ -838,7 +838,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="476.19116" y="168.63782"></viz:position>
+        <viz:position x="564.4036" y="204.01987"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="20982705000169" label="V O BEGOT - EPP">
@@ -857,7 +857,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-796.86096" y="-688.8203"></viz:position>
+        <viz:position x="-930.08905" y="-801.8567"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="20274686000116" label="OZIRES JOSE DE SOUZA 71000879100">
@@ -867,7 +867,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-48.480846" y="-949.90405"></viz:position>
+        <viz:position x="-39.479267" y="-1115.3032"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="03566923000101" label="S. NOLLI COMERCIO E SERVICOS EIRELI  - ME">
@@ -886,7 +886,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="72.27974" y="-959.8417"></viz:position>
+        <viz:position x="88.34854" y="-1094.6902"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="19715041000192" label="IMPERIAL COMERCIO TRANSPORTE E SERVICOS LTDA - EPP">
@@ -902,7 +902,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-814.0764" y="-672.855"></viz:position>
+        <viz:position x="-961.61597" y="-772.93805"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="10331475000114" label="CGPM - CONSULTORIA E SERVICOS EIRELI">
@@ -921,7 +921,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-3.6517138" y="-978.27124"></viz:position>
+        <viz:position x="-6.5718446" y="-1154.3851"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="27926646000150" label="BRAHVA COMERCIO, TRANSPORTE E SERVICOS EIRELI">
@@ -940,7 +940,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-771.6914" y="-584.35754"></viz:position>
+        <viz:position x="-893.4417" y="-661.3242"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="05049198000111" label="CONSTRUTORA RIO ABUNA LTDA - ME">
@@ -956,7 +956,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="1269.6937" y="148.1002"></viz:position>
+        <viz:position x="1493.3643" y="142.29303"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="06131300000196" label="DIFERENCIAL REPRESENTACAO DE ALIMENTOS LTDA  - ME">
@@ -966,7 +966,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-740.317" y="-683.79517"></viz:position>
+        <viz:position x="-847.8588" y="-782.5979"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="19040164000170" label="GLOBAL SERVICOS E MANUTENCOES LTDA - ME">
@@ -976,7 +976,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="14.374031" y="-1007.8802"></viz:position>
+        <viz:position x="47.92206" y="-1168.2866"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="06063075000106" label="JJD COMERCIO DE EQUIPAMENTOS HOSPITALARES LTDA">
@@ -994,7 +994,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="71.63211" y="425.1594"></viz:position>
+        <viz:position x="104.078064" y="543.9997"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="04922803000154" label="INSTALADORA URUPA LTDA - ME">
@@ -1012,7 +1012,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="1146.3297" y="-153.44536"></viz:position>
+        <viz:position x="1399.2219" y="-219.21545"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="17498463000128" label="SS E SR COMERCIO LTDA - EPP">
@@ -1022,7 +1022,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-781.64716" y="-552.97736"></viz:position>
+        <viz:position x="-903.1366" y="-623.05994"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="00587543000157" label="JG COMERCIO DE ALIMENTOS PREPARADOS E SERVICOS GERAIS LTDA - ME">
@@ -1041,7 +1041,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-42.424664" y="255.25946"></viz:position>
+        <viz:position x="-45.11827" y="335.31323"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="04325617000138" label="ARCA CONSTRUTORA LTDA - ME">
@@ -1060,7 +1060,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="1248.3584" y="112.76547"></viz:position>
+        <viz:position x="1481.4109" y="91.18619"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="84624105000101" label="LUMEN CONSTRUCOES LTDA - ME">
@@ -1070,7 +1070,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="1190.9412" y="-82.733894"></viz:position>
+        <viz:position x="1468.9902" y="-139.16914"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="34909149000100" label="ENSINA PROFISSOES E IDIOMAS LTDA">
@@ -1080,7 +1080,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-706.1602" y="-617.9672"></viz:position>
+        <viz:position x="-814.75464" y="-713.87067"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="24447135000168" label="ATOS COMERCIO E SERVICOS EIRELI - ME">
@@ -1101,7 +1101,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-17.427338" y="-934.2073"></viz:position>
+        <viz:position x="-22.093296" y="-1077.5953"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="14051487000146" label="TERRA VEICULOS LTDA - ME">
@@ -1111,7 +1111,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="40.338966" y="-870.04865"></viz:position>
+        <viz:position x="47.926655" y="-1001.0259"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="03616571000143" label="COMSERT COMERCIO E SERVICOS EIRELI  - ME">
@@ -1127,7 +1127,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1007.26874" y="712.3771"></viz:position>
+        <viz:position x="-1140.5037" y="864.3782"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="09253689000130" label="JR SILVA E M SOUZA SERVICOS LTDA - ME">
@@ -1137,7 +1137,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-733.6582" y="-573.607"></viz:position>
+        <viz:position x="-844.95605" y="-656.37256"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="13042246000178" label="ENGECART TECNOLOGIA CARTOGRAFICA LTDA  - ME">
@@ -1156,7 +1156,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="301.81375" y="148.7153"></viz:position>
+        <viz:position x="352.4968" y="190.74994"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="18044459000152" label="J L COMERCIO LTDA  - ME">
@@ -1172,7 +1172,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-829.97675" y="-638.4214"></viz:position>
+        <viz:position x="-956.28345" y="-726.56335"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="03242233000199" label="GOLD DISTRIBUDORA E SERVICOS LTDA - ME">
@@ -1190,7 +1190,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-187.78235" y="152.66515"></viz:position>
+        <viz:position x="-223.44893" y="227.13174"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="03906291000170" label="J L COMERCIAL DE ALIMENTOS LTDA - ME">
@@ -1208,7 +1208,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="1268.371" y="-55.21331"></viz:position>
+        <viz:position x="1535.6775" y="-115.791664"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="04186653000168" label="RIO AMAZONAS CONSTRUCOES LTDA">
@@ -1227,7 +1227,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="1346.8767" y="72.1899"></viz:position>
+        <viz:position x="1603.7372" y="75.05077"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="06331479000125" label="GOMES DA SILVA COMERCIO DE PRODUTOS ELETRO-ELETRONICOS LTDA - ME">
@@ -1245,7 +1245,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1155.2335" y="614.92175"></viz:position>
+        <viz:position x="-1360.1611" y="740.5034"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="03985875000188" label="VISAO COMERCIAL E SERVICOS LTDA - ME">
@@ -1263,7 +1263,7 @@
           <attvalue for="type description" value="central node"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-60.318672" y="303.96472"></viz:position>
+        <viz:position x="-71.31957" y="393.98093"></viz:position>
         <viz:color r="255" g="150" b="41"></viz:color>
       </node>
       <node id="11283498000163" label="J F COMERCIO E SERVICOS LTDA - ME">
@@ -1282,7 +1282,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1091.1765" y="810.7947"></viz:position>
+        <viz:position x="-1276.1917" y="949.2272"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="72630577000198" label="ALIANCA COMERCIAL DE MANUFATURADOS LTDA - ME">
@@ -1300,7 +1300,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="60.086277" y="224.2598"></viz:position>
+        <viz:position x="79.69742" y="299.42227"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="11994509000113" label="CLIMAX - SERVICOS DE LOCACAO DE MAO DE OBRA EQUIPAMENTOS E EMPREENDIMENTOS LTDA - ME">
@@ -1321,7 +1321,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-1196.9628" y="655.73615"></viz:position>
+        <viz:position x="-1393.8376" y="795.35034"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="10782186000131" label="IMPERIAL SERVICOS DE MAO DE OBRA LTDA - ME">
@@ -1340,7 +1340,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="237.44608" y="565.83606"></viz:position>
+        <viz:position x="327.15442" y="690.2302"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
       <node id="07648378000145" label="ADRM SEGURANCA ELETRONICA LTDA - ME">
@@ -1359,7 +1359,7 @@
           <attvalue for="type description" value="shell company"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-180.16711" y="430.55176"></viz:position>
+        <viz:position x="-208.25226" y="532.58185"></viz:position>
         <viz:color r="255" g="5" b="73"></viz:color>
       </node>
     </nodes>
