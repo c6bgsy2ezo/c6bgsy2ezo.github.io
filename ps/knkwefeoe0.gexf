@@ -1,0 +1,2009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2020-09-14">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="name" title="name" type="string"></attribute>
+      <attribute id="contracts (r$)" title="contracts (r$)" type="string"></attribute>
+      <attribute id="first contract date" title="first contract date" type="string"></attribute>
+      <attribute id="last contract date" title="last contract date" type="string"></attribute>
+      <attribute id="number of bids" title="number of bids" type="string"></attribute>
+      <attribute id="bids (r$)" title="bids (r$)" type="string"></attribute>
+      <attribute id="a partner is a social program beneficiary?" title="a partner is a social program beneficiary?" type="string"></attribute>
+      <attribute id="multiplicity of economical activities" title="multiplicity of economical activities" type="string"></attribute>
+      <attribute id="partner without prof. qualification?" title="partner without prof. qualification?" type="string"></attribute>
+      <attribute id="years with contracts but without employees" title="years with contracts but without employees" type="string"></attribute>
+      <attribute id="employees in 2015" title="employees in 2015" type="string"></attribute>
+      <attribute id="employees in 2016" title="employees in 2016" type="string"></attribute>
+      <attribute id="employees in 2017" title="employees in 2017" type="string"></attribute>
+      <attribute id="employees in 2018" title="employees in 2018" type="string"></attribute>
+      <attribute id="type" title="type" type="integer"></attribute>
+      <attribute id="type description" title="type description" type="string"></attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="relation" title="relation" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="01939360200" label="ALBERTINO CARDOSO DA SILVA">
+        <attvalues>
+          <attvalue for="name" value="ALBERTINO CARDOSO DA SILVA"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1369.4045" y="182.62473"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="66373530000" label="MANOEL CORDEIRO DE ALMEIDA">
+        <attvalues>
+          <attvalue for="name" value="MANOEL CORDEIRO DE ALMEIDA"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="379.58398" y="157.8824"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="11974958191" label="IVALDO PERDIGAO FREIRE JUNIOR">
+        <attvalues>
+          <attvalue for="name" value="IVALDO PERDIGAO FREIRE JUNIOR"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-147.9242" y="465.524"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="08009350206" label="EDMAR FERREIRA DE SENA">
+        <attvalues>
+          <attvalue for="name" value="EDMAR FERREIRA DE SENA"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1234.46" y="-14.304108"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="93973055220" label="ROMULO SANTOS DOS SANTOS">
+        <attvalues>
+          <attvalue for="name" value="ROMULO SANTOS DOS SANTOS"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-773.56683" y="-668.9915"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="88004945104" label="MARIA CONCEICAO CAVALCANTE">
+        <attvalues>
+          <attvalue for="name" value="MARIA CONCEICAO CAVALCANTE"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="215.8967" y="526.58044"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="13976522848" label="NILSON JOSE ARRAIS DA SILVA">
+        <attvalues>
+          <attvalue for="name" value="NILSON JOSE ARRAIS DA SILVA"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="98.58041" y="-77.44388"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="06674135100" label="PETRONIO DAMASCENO CASTELO BRANCO">
+        <attvalues>
+          <attvalue for="name" value="PETRONIO DAMASCENO CASTELO BRANCO"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-149.93791" y="200.87042"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="72801689220" label="JOAO BATISTA NETO">
+        <attvalues>
+          <attvalue for="name" value="JOAO BATISTA NETO"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1169.1885" y="-118.68225"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="00028392108" label="EDNEY SIQUEIRA DE OLIVEIRA">
+        <attvalues>
+          <attvalue for="name" value="EDNEY SIQUEIRA DE OLIVEIRA"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="423.88147" y="11.489652"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="64127133015" label="DANIEL CORDEIRO DE ALMEIDA">
+        <attvalues>
+          <attvalue for="name" value="DANIEL CORDEIRO DE ALMEIDA"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="433.09912" y="163.98935"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="49489348104" label="KATIA SILENE URBANO">
+        <attvalues>
+          <attvalue for="name" value="KATIA SILENE URBANO"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="30.243387" y="358.86884"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="94136602200" label="MAX RONALDO SILVA SANTOS JUNIOR">
+        <attvalues>
+          <attvalue for="name" value="MAX RONALDO SILVA SANTOS JUNIOR"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-782.89825" y="-626.6323"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="34431993134" label="ARI VIEIRA GONCALVES">
+        <attvalues>
+          <attvalue for="name" value="ARI VIEIRA GONCALVES"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="131.02406" y="455.6602"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="71000879100" label="OZIRES JOSE DE SOUZA">
+        <attvalues>
+          <attvalue for="name" value="OZIRES JOSE DE SOUZA"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="24.708775" y="-937.475"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="18302106100" label="JOSE MARIA VIEIRA GONCALVES">
+        <attvalues>
+          <attvalue for="name" value="JOSE MARIA VIEIRA GONCALVES"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="97.14314" y="480.31155"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="51352354349" label="EGBERTO SILVA CORREA">
+        <attvalues>
+          <attvalue for="name" value="EGBERTO SILVA CORREA"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1113.6852" y="767.29205"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="25852272353" label="VIRGINIA LUCIA MACHADO BRAGA MENDES">
+        <attvalues>
+          <attvalue for="name" value="VIRGINIA LUCIA MACHADO BRAGA MENDES"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1061.2075" y="663.38794"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="14447983168" label="CELMA BOTELHO RAMOS DE MELLO">
+        <attvalues>
+          <attvalue for="name" value="CELMA BOTELHO RAMOS DE MELLO"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.534104" y="223.11154"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="11698829191" label="DOMINGOS JOSE ARRAIS DA SILVA">
+        <attvalues>
+          <attvalue for="name" value="DOMINGOS JOSE ARRAIS DA SILVA"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="50.371323" y="-80.77281"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="40191850268" label="MARCIA CRISTINA DE SOUZA">
+        <attvalues>
+          <attvalue for="name" value="MARCIA CRISTINA DE SOUZA"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-809.4536" y="-567.9898"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="12091952168" label="LUIZ ROMILDO DE MELLO">
+        <attvalues>
+          <attvalue for="name" value="LUIZ ROMILDO DE MELLO"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="46.14402" y="282.11365"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="12770078100" label="HERBERT DAMASCENO CASTELO BRANCO">
+        <attvalues>
+          <attvalue for="name" value="HERBERT DAMASCENO CASTELO BRANCO"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-143.02696" y="279.0738"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="53909488153" label="ROBERTO TABILE DE MELLO">
+        <attvalues>
+          <attvalue for="name" value="ROBERTO TABILE DE MELLO"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-17.818031" y="387.95764"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="11629398349" label="JUDAS TADEU CASTRO DE OLIVEIRA">
+        <attvalues>
+          <attvalue for="name" value="JUDAS TADEU CASTRO DE OLIVEIRA"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1153.4775" y="660.1181"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="23595051149" label="LUDUGERO AMORIM CAVALCANTE">
+        <attvalues>
+          <attvalue for="name" value="LUDUGERO AMORIM CAVALCANTE"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="180.0902" y="470.7791"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="18997481215" label="MAX RONALDO SILVA SANTOS">
+        <attvalues>
+          <attvalue for="name" value="MAX RONALDO SILVA SANTOS"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-824.0387" y="-602.2714"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="69669511100" label="LUIZ FILIPE URBANO DE MELLO">
+        <attvalues>
+          <attvalue for="name" value="LUIZ FILIPE URBANO DE MELLO"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="71.18868" y="183.788"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="14593823153" label="DIVANI CAETANO DE FARIA">
+        <attvalues>
+          <attvalue for="name" value="DIVANI CAETANO DE FARIA"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-109.42397" y="318.74634"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="19453329304" label="MANOEL JUAREZ PARENTE MENDES">
+        <attvalues>
+          <attvalue for="name" value="MANOEL JUAREZ PARENTE MENDES"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1086.6437" y="627.4218"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="82577099134" label="CRISTIANE VALERIA SIQUEIRA DE OLIVEIRA">
+        <attvalues>
+          <attvalue for="name" value="CRISTIANE VALERIA SIQUEIRA DE OLIVEIRA"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="455.1257" y="46.254986"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="02586136101" label="LUIZ HENRIQUE RAMOS DE MELLO">
+        <attvalues>
+          <attvalue for="name" value="LUIZ HENRIQUE RAMOS DE MELLO"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="115.555145" y="237.46773"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="00744305136" label="ROSILDA JOSE DE SOUSA">
+        <attvalues>
+          <attvalue for="name" value="ROSILDA JOSE DE SOUSA"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-29.328548" y="-899.8915"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="00201142309" label="CICERO EDSON DA SILVA">
+        <attvalues>
+          <attvalue for="name" value="CICERO EDSON DA SILVA"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1050.0353" y="707.3639"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="07999704253" label="LUIZ CARLOS PEREIRA DA SILVA">
+        <attvalues>
+          <attvalue for="name" value="LUIZ CARLOS PEREIRA DA SILVA"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1304.3431" y="104.30328"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="02830127226" label="MYLLENA DE SOUZA SANTOS">
+        <attvalues>
+          <attvalue for="name" value="MYLLENA DE SOUZA SANTOS"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-727.7002" y="-645.7696"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="85993166134" label="HUMBERTO DE FARIA CASTELO BRANCO">
+        <attvalues>
+          <attvalue for="name" value="HUMBERTO DE FARIA CASTELO BRANCO"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-141.8227" y="356.36865"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="24531278372" label="JOSE NILTON ARRAIS DA SILVA">
+        <attvalues>
+          <attvalue for="name" value="JOSE NILTON ARRAIS DA SILVA"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="70.82235" y="-26.5996"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="91925487172" label="EDIVAN FRANCISCO DE OLIVEIRA">
+        <attvalues>
+          <attvalue for="name" value="EDIVAN FRANCISCO DE OLIVEIRA"></attvalue>
+          <attvalue for="type" value="2"></attvalue>
+          <attvalue for="type description" value="other"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="398.76712" y="61.227077"></viz:position>
+        <viz:color r="0" g="14" b="199"></viz:color>
+      </node>
+      <node id="24497941000140" label="C V S DE OLIVEIRA COMERCIAL E SERVICOS EIRELI - ME">
+        <attvalues>
+          <attvalue for="name" value="C V S DE OLIVEIRA COMERCIAL E SERVICOS EIRELI - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="25186.57"></attvalue>
+          <attvalue for="first contract date" value="2017-09-29"></attvalue>
+          <attvalue for="last contract date" value="2017-09-29"></attvalue>
+          <attvalue for="number of bids" value="2178.0"></attvalue>
+          <attvalue for="bids (r$)" value="131511099.53"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="True"></attvalue>
+          <attvalue for="years with contracts but without employees" value="1.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="469.7905" y="3.5531073"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="01649760000197" label="MERIDIONAL ENGENHARIA LTDA  - ME">
+        <attvalues>
+          <attvalue for="name" value="MERIDIONAL ENGENHARIA LTDA  - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="60023.31"></attvalue>
+          <attvalue for="first contract date" value="2000-07-10"></attvalue>
+          <attvalue for="last contract date" value="2000-07-10"></attvalue>
+          <attvalue for="number of bids" value="0.0"></attvalue>
+          <attvalue for="bids (r$)" value="0.0"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="True"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1073.45" y="581.95557"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="02008084000135" label="GLOBAL COMERCIO DE EQUIPAMENTOS E CONSTRUCOES LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="GLOBAL COMERCIO DE EQUIPAMENTOS E CONSTRUCOES LTDA - ME"></attvalue>
+          <attvalue for="number of bids" value="2576.0"></attvalue>
+          <attvalue for="bids (r$)" value="167402423022.04"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="True"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="77.41815" y="-118.99284"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="15188822000115" label="A SETE COMERCIO E SERVICOS EIRELI  - ME">
+        <attvalues>
+          <attvalue for="name" value="A SETE COMERCIO E SERVICOS EIRELI  - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="385445.25"></attvalue>
+          <attvalue for="first contract date" value="2016-08-19"></attvalue>
+          <attvalue for="last contract date" value="2020-03-16"></attvalue>
+          <attvalue for="number of bids" value="3386.0"></attvalue>
+          <attvalue for="bids (r$)" value="2563168942.42"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="2.0"></attvalue>
+          <attvalue for="employees in 2015" value="1.0"></attvalue>
+          <attvalue for="employees in 2016" value="1.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4.836131" y="-878.20355"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="01590370000199" label="PPK EQUIPAMENTOS LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="PPK EQUIPAMENTOS LTDA - ME"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="114.15303" y="392.1884"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="15833551000103" label="J R MENDES LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="J R MENDES LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="578500.0"></attvalue>
+          <attvalue for="first contract date" value="2001-11-01"></attvalue>
+          <attvalue for="last contract date" value="2005-02-14"></attvalue>
+          <attvalue for="number of bids" value="26.0"></attvalue>
+          <attvalue for="bids (r$)" value="4798574.03"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1215.4634" y="-47.320286"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="13407975000180" label="ALVES E SILVA COMERCIO E SERVICOS LTDA - EPP">
+        <attvalues>
+          <attvalue for="name" value="ALVES E SILVA COMERCIO E SERVICOS LTDA - EPP"></attvalue>
+          <attvalue for="contracts (r$)" value="240750.0"></attvalue>
+          <attvalue for="first contract date" value="2016-12-26"></attvalue>
+          <attvalue for="last contract date" value="2016-12-26"></attvalue>
+          <attvalue for="number of bids" value="3642.0"></attvalue>
+          <attvalue for="bids (r$)" value="203824478.91"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="True"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="employees in 2016" value="1.0"></attvalue>
+          <attvalue for="employees in 2017" value="1.0"></attvalue>
+          <attvalue for="employees in 2018" value="1.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-858.35095" y="-618.4225"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="13239682000131" label="ARENA PORTO ENGENHARIA EVENTOS E SERVICOS EIRELI - EPP">
+        <attvalues>
+          <attvalue for="name" value="ARENA PORTO ENGENHARIA EVENTOS E SERVICOS EIRELI - EPP"></attvalue>
+          <attvalue for="contracts (r$)" value="57289.21"></attvalue>
+          <attvalue for="first contract date" value="2019-03-28"></attvalue>
+          <attvalue for="last contract date" value="2019-03-28"></attvalue>
+          <attvalue for="number of bids" value="2878.0"></attvalue>
+          <attvalue for="bids (r$)" value="94073580871.0"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="employees in 2015" value="1.0"></attvalue>
+          <attvalue for="employees in 2016" value="1.0"></attvalue>
+          <attvalue for="employees in 2017" value="2.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1182.7628" y="-5.1433916"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="24919086000119" label="LINHA DIRETA COMERCIO DE EQUIPAMENTOS DE SEGURANCA E SERVICOS GERAIS LTDA - EPP">
+        <attvalues>
+          <attvalue for="name" value="LINHA DIRETA COMERCIO DE EQUIPAMENTOS DE SEGURANCA E SERVICOS GERAIS LTDA - EPP"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-51.82252" y="195.81578"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="63754048000105" label="RCAMARGO CONSTRUCOES EIRELI - ME">
+        <attvalues>
+          <attvalue for="name" value="RCAMARGO CONSTRUCOES EIRELI - ME"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1366.756" y="136.6301"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="34783092000145" label="IMPACTO CONSTRUCOES COMERCIO E SERVICOS LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="IMPACTO CONSTRUCOES COMERCIO E SERVICOS LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="139665.18"></attvalue>
+          <attvalue for="first contract date" value="2005-05-03"></attvalue>
+          <attvalue for="last contract date" value="2005-05-03"></attvalue>
+          <attvalue for="number of bids" value="1.0"></attvalue>
+          <attvalue for="bids (r$)" value="30500000.0"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="employees in 2015" value="1.0"></attvalue>
+          <attvalue for="employees in 2017" value="1.0"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1271.4476" y="46.2673"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="08575671000192" label="M C CONSTRUCOES E SERVICOS LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="M C CONSTRUCOES E SERVICOS LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="73661.64"></attvalue>
+          <attvalue for="first contract date" value="2010-01-27"></attvalue>
+          <attvalue for="last contract date" value="2010-12-10"></attvalue>
+          <attvalue for="number of bids" value="432.0"></attvalue>
+          <attvalue for="bids (r$)" value="74028503.82"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="True"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1392.954" y="220.25203"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="20628902000184" label="CONTHABIL ASSESSORIA EM CONTABILIDADE EIRELI - ME">
+        <attvalues>
+          <attvalue for="name" value="CONTHABIL ASSESSORIA EM CONTABILIDADE EIRELI - ME"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-739.85944" y="-615.925"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="10905759000177" label="J N VIANA FILHO LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="J N VIANA FILHO LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="165373.53"></attvalue>
+          <attvalue for="first contract date" value="2009-11-04"></attvalue>
+          <attvalue for="last contract date" value="2015-03-09"></attvalue>
+          <attvalue for="number of bids" value="9124.0"></attvalue>
+          <attvalue for="bids (r$)" value="1517760792.72"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="True"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="1.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1147.3425" y="796.7503"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="72155948000127" label="TRANSPORTES DE ALUNOS E FUNCIONARIOS SOL NASCENTE LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="TRANSPORTES DE ALUNOS E FUNCIONARIOS SOL NASCENTE LTDA - ME"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1102.807" y="695.2943"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="18169729000151" label="CENTAURO COMERCIO DE EQUIPAMENTOS DE SEGURANCA EIRELI  - ME">
+        <attvalues>
+          <attvalue for="name" value="CENTAURO COMERCIO DE EQUIPAMENTOS DE SEGURANCA EIRELI  - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="168345.0"></attvalue>
+          <attvalue for="first contract date" value="2016-05-05"></attvalue>
+          <attvalue for="last contract date" value="2016-07-08"></attvalue>
+          <attvalue for="number of bids" value="1321.0"></attvalue>
+          <attvalue for="bids (r$)" value="9178365760.23"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="employees in 2015" value="2.0"></attvalue>
+          <attvalue for="employees in 2016" value="2.0"></attvalue>
+          <attvalue for="employees in 2017" value="1.0"></attvalue>
+          <attvalue for="employees in 2018" value="1.0"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="67.24671" y="113.65618"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="14788120000100" label="M E W COMERCIO E SERVICOS EIRELI  - ME">
+        <attvalues>
+          <attvalue for="name" value="M E W COMERCIO E SERVICOS EIRELI  - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="154991.26"></attvalue>
+          <attvalue for="first contract date" value="2013-06-14"></attvalue>
+          <attvalue for="last contract date" value="2014-03-07"></attvalue>
+          <attvalue for="number of bids" value="3289.0"></attvalue>
+          <attvalue for="bids (r$)" value="2794680257.62"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="employees in 2015" value="2.0"></attvalue>
+          <attvalue for="employees in 2016" value="2.0"></attvalue>
+          <attvalue for="employees in 2017" value="1.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="91.12012" y="-929.2793"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="02708622000102" label="SOLUTIONS INFORMATICA LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="SOLUTIONS INFORMATICA LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="21443.0"></attvalue>
+          <attvalue for="first contract date" value="2009-01-22"></attvalue>
+          <attvalue for="last contract date" value="2009-01-22"></attvalue>
+          <attvalue for="number of bids" value="146.0"></attvalue>
+          <attvalue for="bids (r$)" value="3336427.0"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="True"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-202.99213" y="317.21594"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="04289005000137" label="ESCRITORIO CONTABIL CORRESPONDENTE SAO JOSE LTDA">
+        <attvalues>
+          <attvalue for="name" value="ESCRITORIO CONTABIL CORRESPONDENTE SAO JOSE LTDA"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1330.981" y="170.64923"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="23387730000192" label="OIKOS COMECIO E SERVICOS EIRELI - ME">
+        <attvalues>
+          <attvalue for="name" value="OIKOS COMECIO E SERVICOS EIRELI - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="146567.09"></attvalue>
+          <attvalue for="first contract date" value="2017-12-05"></attvalue>
+          <attvalue for="last contract date" value="2018-11-26"></attvalue>
+          <attvalue for="number of bids" value="1916.0"></attvalue>
+          <attvalue for="bids (r$)" value="373899571.59"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="2.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="39.252487" y="-981.7629"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="30454762000129" label="SOLUCOES BUSINESS EIRELI">
+        <attvalues>
+          <attvalue for="name" value="SOLUCOES BUSINESS EIRELI"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="65.34509" y="-899.6623"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="00339226000111" label="EMBRASE EMPRESA BRASILIENSE DE MANUFATURADOS E SERVICOS LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="EMBRASE EMPRESA BRASILIENSE DE MANUFATURADOS E SERVICOS LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="64620.0"></attvalue>
+          <attvalue for="first contract date" value="2004-09-20"></attvalue>
+          <attvalue for="last contract date" value="2004-10-08"></attvalue>
+          <attvalue for="number of bids" value="87.0"></attvalue>
+          <attvalue for="bids (r$)" value="164143421.95"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-9.221114" y="313.9894"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="07631335000157" label="ALVORADA SERVICOS DE ENGENHARIA LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="ALVORADA SERVICOS DE ENGENHARIA LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="49071.92"></attvalue>
+          <attvalue for="first contract date" value="2007-03-16"></attvalue>
+          <attvalue for="last contract date" value="2007-04-12"></attvalue>
+          <attvalue for="number of bids" value="204.0"></attvalue>
+          <attvalue for="bids (r$)" value="49488931.84"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-87.647514" y="406.13736"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="09571981000100" label="WETTOR COMERCIO DE EQUIPAMENTOS LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="WETTOR COMERCIO DE EQUIPAMENTOS LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="163000.0"></attvalue>
+          <attvalue for="first contract date" value="2011-03-22"></attvalue>
+          <attvalue for="last contract date" value="2011-03-22"></attvalue>
+          <attvalue for="number of bids" value="601.0"></attvalue>
+          <attvalue for="bids (r$)" value="135581456.28"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="True"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="179.02809" y="221.74362"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="04131245000109" label="CONSULTE-COMERCIO E REPRESENTAOES LTDA">
+        <attvalues>
+          <attvalue for="name" value="CONSULTE-COMERCIO E REPRESENTAOES LTDA"></attvalue>
+          <attvalue for="contracts (r$)" value="20980.0"></attvalue>
+          <attvalue for="first contract date" value="2001-09-11"></attvalue>
+          <attvalue for="last contract date" value="2001-09-11"></attvalue>
+          <attvalue for="number of bids" value="0.0"></attvalue>
+          <attvalue for="bids (r$)" value="0.0"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="True"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="476.19116" y="168.63782"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="20982705000169" label="V O BEGOT - EPP">
+        <attvalues>
+          <attvalue for="name" value="V O BEGOT - EPP"></attvalue>
+          <attvalue for="contracts (r$)" value="163323.0"></attvalue>
+          <attvalue for="first contract date" value="2018-08-21"></attvalue>
+          <attvalue for="last contract date" value="2020-02-21"></attvalue>
+          <attvalue for="number of bids" value="257.0"></attvalue>
+          <attvalue for="bids (r$)" value="24936598.1"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="1.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-796.86096" y="-688.8203"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="20274686000116" label="OZIRES JOSE DE SOUZA 71000879100">
+        <attvalues>
+          <attvalue for="name" value="OZIRES JOSE DE SOUZA 71000879100"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-48.480846" y="-949.90405"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="03566923000101" label="S. NOLLI COMERCIO E SERVICOS EIRELI  - ME">
+        <attvalues>
+          <attvalue for="name" value="S. NOLLI COMERCIO E SERVICOS EIRELI  - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="475551.61"></attvalue>
+          <attvalue for="first contract date" value="2013-07-10"></attvalue>
+          <attvalue for="last contract date" value="2018-12-18"></attvalue>
+          <attvalue for="number of bids" value="4767.0"></attvalue>
+          <attvalue for="bids (r$)" value="3774577826.15"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="4.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="72.27974" y="-959.8417"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="19715041000192" label="IMPERIAL COMERCIO TRANSPORTE E SERVICOS LTDA - EPP">
+        <attvalues>
+          <attvalue for="name" value="IMPERIAL COMERCIO TRANSPORTE E SERVICOS LTDA - EPP"></attvalue>
+          <attvalue for="number of bids" value="281.0"></attvalue>
+          <attvalue for="bids (r$)" value="901321881.77"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-814.0764" y="-672.855"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="10331475000114" label="CGPM - CONSULTORIA E SERVICOS EIRELI">
+        <attvalues>
+          <attvalue for="name" value="CGPM - CONSULTORIA E SERVICOS EIRELI"></attvalue>
+          <attvalue for="contracts (r$)" value="45687.25"></attvalue>
+          <attvalue for="first contract date" value="2015-12-08"></attvalue>
+          <attvalue for="last contract date" value="2015-12-08"></attvalue>
+          <attvalue for="number of bids" value="62.0"></attvalue>
+          <attvalue for="bids (r$)" value="1298445.24"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="1.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3.6517138" y="-978.27124"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="27926646000150" label="BRAHVA COMERCIO, TRANSPORTE E SERVICOS EIRELI">
+        <attvalues>
+          <attvalue for="name" value="BRAHVA COMERCIO, TRANSPORTE E SERVICOS EIRELI"></attvalue>
+          <attvalue for="contracts (r$)" value="14765.52"></attvalue>
+          <attvalue for="first contract date" value="2018-03-15"></attvalue>
+          <attvalue for="last contract date" value="2018-03-15"></attvalue>
+          <attvalue for="number of bids" value="3080.0"></attvalue>
+          <attvalue for="bids (r$)" value="449189453.6"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="1.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-771.6914" y="-584.35754"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="05049198000111" label="CONSTRUTORA RIO ABUNA LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="CONSTRUTORA RIO ABUNA LTDA - ME"></attvalue>
+          <attvalue for="number of bids" value="74.0"></attvalue>
+          <attvalue for="bids (r$)" value="5694277828.0"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="True"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1269.6937" y="148.1002"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="06131300000196" label="DIFERENCIAL REPRESENTACAO DE ALIMENTOS LTDA  - ME">
+        <attvalues>
+          <attvalue for="name" value="DIFERENCIAL REPRESENTACAO DE ALIMENTOS LTDA  - ME"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-740.317" y="-683.79517"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="19040164000170" label="GLOBAL SERVICOS E MANUTENCOES LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="GLOBAL SERVICOS E MANUTENCOES LTDA - ME"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="14.374031" y="-1007.8802"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="06063075000106" label="JJD COMERCIO DE EQUIPAMENTOS HOSPITALARES LTDA">
+        <attvalues>
+          <attvalue for="name" value="JJD COMERCIO DE EQUIPAMENTOS HOSPITALARES LTDA"></attvalue>
+          <attvalue for="contracts (r$)" value="1356000.0"></attvalue>
+          <attvalue for="first contract date" value="2004-12-23"></attvalue>
+          <attvalue for="last contract date" value="2004-12-23"></attvalue>
+          <attvalue for="number of bids" value="0.0"></attvalue>
+          <attvalue for="bids (r$)" value="0.0"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="True"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="71.63211" y="425.1594"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="04922803000154" label="INSTALADORA URUPA LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="INSTALADORA URUPA LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="15656.1"></attvalue>
+          <attvalue for="first contract date" value="1996-03-01"></attvalue>
+          <attvalue for="last contract date" value="1996-03-01"></attvalue>
+          <attvalue for="number of bids" value="0.0"></attvalue>
+          <attvalue for="bids (r$)" value="0.0"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1146.3297" y="-153.44536"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="17498463000128" label="SS E SR COMERCIO LTDA - EPP">
+        <attvalues>
+          <attvalue for="name" value="SS E SR COMERCIO LTDA - EPP"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-781.64716" y="-552.97736"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="00587543000157" label="JG COMERCIO DE ALIMENTOS PREPARADOS E SERVICOS GERAIS LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="JG COMERCIO DE ALIMENTOS PREPARADOS E SERVICOS GERAIS LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="247749.0"></attvalue>
+          <attvalue for="first contract date" value="2006-08-16"></attvalue>
+          <attvalue for="last contract date" value="2007-07-06"></attvalue>
+          <attvalue for="number of bids" value="407.0"></attvalue>
+          <attvalue for="bids (r$)" value="228697436.18"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="True"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-42.424664" y="255.25946"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="04325617000138" label="ARCA CONSTRUTORA LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="ARCA CONSTRUTORA LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="824706.69"></attvalue>
+          <attvalue for="first contract date" value="2005-08-31"></attvalue>
+          <attvalue for="last contract date" value="2005-08-31"></attvalue>
+          <attvalue for="number of bids" value="0.0"></attvalue>
+          <attvalue for="bids (r$)" value="0.0"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1248.3584" y="112.76547"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="84624105000101" label="LUMEN CONSTRUCOES LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="LUMEN CONSTRUCOES LTDA - ME"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1190.9412" y="-82.733894"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="34909149000100" label="ENSINA PROFISSOES E IDIOMAS LTDA">
+        <attvalues>
+          <attvalue for="name" value="ENSINA PROFISSOES E IDIOMAS LTDA"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-706.1602" y="-617.9672"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="24447135000168" label="ATOS COMERCIO E SERVICOS EIRELI - ME">
+        <attvalues>
+          <attvalue for="name" value="ATOS COMERCIO E SERVICOS EIRELI - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="151148.0"></attvalue>
+          <attvalue for="first contract date" value="2017-09-18"></attvalue>
+          <attvalue for="last contract date" value="2018-11-26"></attvalue>
+          <attvalue for="number of bids" value="1367.0"></attvalue>
+          <attvalue for="bids (r$)" value="68942098.53"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="1.0"></attvalue>
+          <attvalue for="employees in 2016" value="2.0"></attvalue>
+          <attvalue for="employees in 2017" value="1.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-17.427338" y="-934.2073"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="14051487000146" label="TERRA VEICULOS LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="TERRA VEICULOS LTDA - ME"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="40.338966" y="-870.04865"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="03616571000143" label="COMSERT COMERCIO E SERVICOS EIRELI  - ME">
+        <attvalues>
+          <attvalue for="name" value="COMSERT COMERCIO E SERVICOS EIRELI  - ME"></attvalue>
+          <attvalue for="number of bids" value="2617.0"></attvalue>
+          <attvalue for="bids (r$)" value="1886522874.26"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1007.26874" y="712.3771"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="09253689000130" label="JR SILVA E M SOUZA SERVICOS LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="JR SILVA E M SOUZA SERVICOS LTDA - ME"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-733.6582" y="-573.607"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="13042246000178" label="ENGECART TECNOLOGIA CARTOGRAFICA LTDA  - ME">
+        <attvalues>
+          <attvalue for="name" value="ENGECART TECNOLOGIA CARTOGRAFICA LTDA  - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="269688.83"></attvalue>
+          <attvalue for="first contract date" value="2013-09-04"></attvalue>
+          <attvalue for="last contract date" value="2014-02-11"></attvalue>
+          <attvalue for="number of bids" value="3960.0"></attvalue>
+          <attvalue for="bids (r$)" value="2269576987.45"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="301.81375" y="148.7153"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="18044459000152" label="J L COMERCIO LTDA  - ME">
+        <attvalues>
+          <attvalue for="name" value="J L COMERCIO LTDA  - ME"></attvalue>
+          <attvalue for="number of bids" value="2437.0"></attvalue>
+          <attvalue for="bids (r$)" value="1073685065.53"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-829.97675" y="-638.4214"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="03242233000199" label="GOLD DISTRIBUDORA E SERVICOS LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="GOLD DISTRIBUDORA E SERVICOS LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="335095.6"></attvalue>
+          <attvalue for="first contract date" value="2000-01-21"></attvalue>
+          <attvalue for="last contract date" value="2002-01-29"></attvalue>
+          <attvalue for="number of bids" value="0.0"></attvalue>
+          <attvalue for="bids (r$)" value="0.0"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="True"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-187.78235" y="152.66515"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="03906291000170" label="J L COMERCIAL DE ALIMENTOS LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="J L COMERCIAL DE ALIMENTOS LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="1574.0"></attvalue>
+          <attvalue for="first contract date" value="2008-07-03"></attvalue>
+          <attvalue for="last contract date" value="2008-07-03"></attvalue>
+          <attvalue for="number of bids" value="0.0"></attvalue>
+          <attvalue for="bids (r$)" value="0.0"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="True"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1268.371" y="-55.21331"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="04186653000168" label="RIO AMAZONAS CONSTRUCOES LTDA">
+        <attvalues>
+          <attvalue for="name" value="RIO AMAZONAS CONSTRUCOES LTDA"></attvalue>
+          <attvalue for="contracts (r$)" value="58516.56"></attvalue>
+          <attvalue for="first contract date" value="2001-09-03"></attvalue>
+          <attvalue for="last contract date" value="2001-09-03"></attvalue>
+          <attvalue for="number of bids" value="0.0"></attvalue>
+          <attvalue for="bids (r$)" value="0.0"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="True"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1346.8767" y="72.1899"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="06331479000125" label="GOMES DA SILVA COMERCIO DE PRODUTOS ELETRO-ELETRONICOS LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="GOMES DA SILVA COMERCIO DE PRODUTOS ELETRO-ELETRONICOS LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="15538.95"></attvalue>
+          <attvalue for="first contract date" value="2008-09-11"></attvalue>
+          <attvalue for="last contract date" value="2008-10-16"></attvalue>
+          <attvalue for="number of bids" value="3371.0"></attvalue>
+          <attvalue for="bids (r$)" value="339972415.42"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1155.2335" y="614.92175"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="03985875000188" label="VISAO COMERCIAL E SERVICOS LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="VISAO COMERCIAL E SERVICOS LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="78896.76"></attvalue>
+          <attvalue for="first contract date" value="2003-11-10"></attvalue>
+          <attvalue for="last contract date" value="2007-02-16"></attvalue>
+          <attvalue for="number of bids" value="357.0"></attvalue>
+          <attvalue for="bids (r$)" value="12923414.39"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="0"></attvalue>
+          <attvalue for="type description" value="central node"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-60.318672" y="303.96472"></viz:position>
+        <viz:color r="255" g="150" b="41"></viz:color>
+      </node>
+      <node id="11283498000163" label="J F COMERCIO E SERVICOS LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="J F COMERCIO E SERVICOS LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="6934.7"></attvalue>
+          <attvalue for="first contract date" value="2011-02-02"></attvalue>
+          <attvalue for="last contract date" value="2011-02-16"></attvalue>
+          <attvalue for="number of bids" value="12498.0"></attvalue>
+          <attvalue for="bids (r$)" value="3176791068.74"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="True"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1091.1765" y="810.7947"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="72630577000198" label="ALIANCA COMERCIAL DE MANUFATURADOS LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="ALIANCA COMERCIAL DE MANUFATURADOS LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="1500.0"></attvalue>
+          <attvalue for="first contract date" value="2004-04-16"></attvalue>
+          <attvalue for="last contract date" value="2004-04-16"></attvalue>
+          <attvalue for="number of bids" value="0.0"></attvalue>
+          <attvalue for="bids (r$)" value="0.0"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="60.086277" y="224.2598"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="11994509000113" label="CLIMAX - SERVICOS DE LOCACAO DE MAO DE OBRA EQUIPAMENTOS E EMPREENDIMENTOS LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="CLIMAX - SERVICOS DE LOCACAO DE MAO DE OBRA EQUIPAMENTOS E EMPREENDIMENTOS LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="3570.0"></attvalue>
+          <attvalue for="first contract date" value="2011-01-28"></attvalue>
+          <attvalue for="last contract date" value="2011-06-17"></attvalue>
+          <attvalue for="number of bids" value="2187.0"></attvalue>
+          <attvalue for="bids (r$)" value="976571731.04"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="True"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="employees in 2015" value="1.0"></attvalue>
+          <attvalue for="employees in 2016" value="1.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1196.9628" y="655.73615"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="10782186000131" label="IMPERIAL SERVICOS DE MAO DE OBRA LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="IMPERIAL SERVICOS DE MAO DE OBRA LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="1666327.12"></attvalue>
+          <attvalue for="first contract date" value="2011-10-05"></attvalue>
+          <attvalue for="last contract date" value="2012-02-27"></attvalue>
+          <attvalue for="number of bids" value="84.0"></attvalue>
+          <attvalue for="bids (r$)" value="151058550.96"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="True"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="False"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="237.44608" y="565.83606"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+      <node id="07648378000145" label="ADRM SEGURANCA ELETRONICA LTDA - ME">
+        <attvalues>
+          <attvalue for="name" value="ADRM SEGURANCA ELETRONICA LTDA - ME"></attvalue>
+          <attvalue for="contracts (r$)" value="260000.0"></attvalue>
+          <attvalue for="first contract date" value="2007-12-03"></attvalue>
+          <attvalue for="last contract date" value="2007-12-03"></attvalue>
+          <attvalue for="number of bids" value="314.0"></attvalue>
+          <attvalue for="bids (r$)" value="11847094.78"></attvalue>
+          <attvalue for="a partner is a social program beneficiary?" value="False"></attvalue>
+          <attvalue for="multiplicity of economical activities" value="False"></attvalue>
+          <attvalue for="partner without prof. qualification?" value="True"></attvalue>
+          <attvalue for="years with contracts but without employees" value="0.0"></attvalue>
+          <attvalue for="type" value="1"></attvalue>
+          <attvalue for="type description" value="shell company"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-180.16711" y="430.55176"></viz:position>
+        <viz:color r="255" g="5" b="73"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="24531278372" target="18169729000151" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="10331475000114" target="71000879100" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="13976522848" target="24531278372" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="06063075000106" target="18302106100" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="04325617000138" target="07999704253" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="11283498000163" target="51352354349" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="19715041000192" target="94136602200" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="15833551000103" target="08009350206" label="ACCOUNTANT; PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT; PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="18302106100" target="34431993134" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="71000879100" target="14051487000146" label="ACCOUNTANT; PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT; PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="10" source="49489348104" target="07631335000157" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="11" source="72630577000198" target="14447983168" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="12" source="85993166134" target="03985875000188" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="13" source="18044459000152" target="94136602200" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="14" source="04186653000168" target="07999704253" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="15" source="49489348104" target="00339226000111" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="16" source="08009350206" target="34783092000145" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="17" source="94136602200" target="34909149000100" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="18" source="10905759000177" target="51352354349" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="19" source="02008084000135" target="13976522848" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="20" source="06674135100" target="24919086000119" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="21" source="14447983168" target="03985875000188" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="22" source="12091952168" target="02586136101" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="23" source="03616571000143" target="00201142309" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="24" source="03906291000170" target="08009350206" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="25" source="82577099134" target="91925487172" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="26" source="14447983168" target="69669511100" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="27" source="34431993134" target="01590370000199" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="28" source="03242233000199" target="06674135100" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="29" source="12770078100" target="06674135100" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="30" source="12091952168" target="53909488153" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="31" source="08009350206" target="84624105000101" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="32" source="08575671000192" target="01939360200" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="33" source="94136602200" target="02830127226" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="34" source="00587543000157" target="14447983168" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="35" source="04922803000154" target="72801689220" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="36" source="24447135000168" target="71000879100" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="37" source="01939360200" target="04289005000137" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="38" source="24497941000140" target="82577099134" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="39" source="94136602200" target="18997481215" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="40" source="00587543000157" target="12091952168" label="ACCOUNTANT; PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT; PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="41" source="49489348104" target="01590370000199" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="42" source="02586136101" target="49489348104" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="43" source="94136602200" target="09253689000130" label="ACCOUNTANT; PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT; PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="44" source="15188822000115" target="71000879100" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="45" source="14593823153" target="03985875000188" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="46" source="02008084000135" target="11698829191" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="47" source="14447983168" target="00587543000157" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="48" source="25852272353" target="72155948000127" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="49" source="88004945104" target="23595051149" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="50" source="23595051149" target="01590370000199" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="51" source="06063075000106" target="12091952168" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="52" source="10782186000131" target="88004945104" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="53" source="71000879100" target="20274686000116" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="54" source="12770078100" target="07631335000157" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="55" source="07648378000145" target="11974958191" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="56" source="94136602200" target="93973055220" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="57" source="12091952168" target="00587543000157" label="ACCOUNTANT; PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT; PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="58" source="71000879100" target="30454762000129" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="59" source="71000879100" target="00744305136" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="60" source="00587543000157" target="12770078100" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="61" source="11994509000113" target="11629398349" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="62" source="06331479000125" target="11629398349" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="63" source="02586136101" target="12091952168" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="64" source="85993166134" target="14593823153" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="65" source="07648378000145" target="85993166134" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="66" source="12091952168" target="00339226000111" label="ACCOUNTANT; PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT; PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="67" source="00028392108" target="91925487172" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="68" source="34783092000145" target="07999704253" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="69" source="94136602200" target="20628902000184" label="ACCOUNTANT; PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT; PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="70" source="12770078100" target="85993166134" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="71" source="91925487172" target="13042246000178" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="72" source="13407975000180" target="94136602200" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="73" source="23387730000192" target="71000879100" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="74" source="12091952168" target="03985875000188" label="ACCOUNTANT; PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT; PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="75" source="14447983168" target="02586136101" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="76" source="94136602200" target="06131300000196" label="ACCOUNTANT; PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT; PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="77" source="11698829191" target="24531278372" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="78" source="07999704253" target="34783092000145" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="79" source="06674135100" target="12770078100" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="80" source="02586136101" target="14447983168" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="81" source="02708622000102" target="12770078100" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="82" source="24497941000140" target="00028392108" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="83" source="05049198000111" target="07999704253" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="84" source="71000879100" target="19040164000170" label="ACCOUNTANT; PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT; PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="85" source="14447983168" target="00339226000111" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="86" source="49489348104" target="03985875000188" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="87" source="85993166134" target="07631335000157" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="88" source="09571981000100" target="02586136101" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="89" source="85993166134" target="00339226000111" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="90" source="12770078100" target="00587543000157" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="91" source="85993166134" target="12770078100" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="92" source="11974958191" target="07631335000157" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="93" source="12091952168" target="49489348104" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="94" source="34783092000145" target="08009350206" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="95" source="07999704253" target="04289005000137" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="96" source="72630577000198" target="12091952168" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="97" source="14788120000100" target="71000879100" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="98" source="69669511100" target="18169729000151" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="99" source="13239682000131" target="08009350206" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="100" source="94136602200" target="17498463000128" label="ACCOUNTANT; PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT; PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="101" source="01939360200" target="63754048000105" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="102" source="14447983168" target="24919086000119" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="103" source="02586136101" target="69669511100" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="104" source="20982705000169" target="94136602200" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="105" source="72801689220" target="84624105000101" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="106" source="07999704253" target="63754048000105" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="107" source="12770078100" target="03985875000188" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="108" source="12091952168" target="18169729000151" label="ACCOUNTANT; PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT; PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="109" source="66373530000" target="13042246000178" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="110" source="19453329304" target="72155948000127" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="111" source="01649760000197" target="19453329304" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="112" source="12770078100" target="14593823153" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="113" source="51352354349" target="72155948000127" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="114" source="12091952168" target="69669511100" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="115" source="12091952168" target="24919086000119" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="116" source="02708622000102" target="85993166134" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="117" source="64127133015" target="66373530000" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="118" source="27926646000150" target="94136602200" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="119" source="94136602200" target="40191850268" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="120" source="12091952168" target="01590370000199" label="ACCOUNTANT; PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT; PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="121" source="02586136101" target="13042246000178" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="122" source="11629398349" target="72155948000127" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="123" source="19453329304" target="25852272353" label="RELATIVE">
+        <attvalues>
+          <attvalue for="relation" value="RELATIVE"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="124" source="03566923000101" target="71000879100" label="ACCOUNTANT">
+        <attvalues>
+          <attvalue for="relation" value="ACCOUNTANT"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="125" source="04131245000109" target="64127133015" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="126" source="53909488153" target="07631335000157" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="127" source="00201142309" target="72155948000127" label="PARTNER">
+        <attvalues>
+          <attvalue for="relation" value="PARTNER"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
